@@ -37,7 +37,11 @@ If you would like to contribute or add your own app, edit this readme and submit
 
 | Name | Platform | Description |
 | --- | --- | --- |
+| [Apollo](https://apolloapp.io/) | iOS | Reddit client |
+| [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
+| [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
 
 ## Snapchat
 
