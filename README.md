@@ -13,8 +13,17 @@ If you would like to contribute or add your own app, edit this readme and submit
 
 ##### Table of contents
 
-| [Facebook](#facebook) | [Instagram](#instagram) | [LinkedIn](#linkedin) | [Reddit](#reddit) | [Snapchat](#snapchat) | [TikTok](#tiktok) | [Twitter](#twitter) | [Youtube](#youtube) | [Multi-Platform](#multi-platform)
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+- [Facebook](#facebook) 
+- [Instagram](#instagram) 
+- [LinkedIn](#linkedin) 
+- [Multi-Platform](#multi-platform)
+- [Reddit](#reddit) 
+- [Snapchat](#snapchat)  
+- [TikTok](#tiktok) 
+- [Twitter](#twitter) 
+- [Youtube](#youtube)
+
+
 
 ---
 
@@ -32,6 +41,17 @@ If you would like to contribute or add your own app, edit this readme and submit
 
 | Name | Platform | Description |
 | --- | --- | --- |
+
+## Multi-Platform
+
+Apps that can be used with multiple social media apps.
+
+| Name | Platform | Description |
+| --- | --- | --- |
+| [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
+| [Dasheroo](https://dasheroo.com) | Web | Analytics |
+| [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
+| [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 
 ## Reddit
 
@@ -69,14 +89,3 @@ If you would like to contribute or add your own app, edit this readme and submit
 | Name | Platform | Description |
 | --- | --- | --- |
 
-
-## Multi-Platform
-
-Apps that can be used with multiple social media apps.
-
-| Name | Platform | Description |
-| --- | --- | --- |
-| [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
-| [Dasheroo](https://dasheroo.com) | Web | Analytics |
-| [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
-| [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
