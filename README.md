@@ -1,6 +1,7 @@
 # Better Social Media
 
 ![last-commit](https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media)
+![contributors](https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media)
 
 ###  Alphabetically sorted directory of apps and tools to enhance social media experiences. 
 
@@ -73,4 +74,5 @@ Apps that can be used with multiple social media apps.
 | --- | --- | --- |
 | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
 | [Dasheroo](https://dasheroo.com) | Web | Analytics |
+| [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
 | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
