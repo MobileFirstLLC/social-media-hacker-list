@@ -23,26 +23,30 @@ If you would like to contribute or add your own app, edit this readme and submit
 - [Twitter](#twitter) 
 - [Youtube](#youtube)
 
-
-
 ---
 
-## Facebook
+### Facebook
 
 | Name | Platform | Description |
 | --- | --- | --- |
 
-## Instagram
+* * *
+
+### Instagram
 
 | Name | Platform | Description |
 | --- | --- | --- |
 
-## LinkedIn
+* * *
+
+### LinkedIn
 
 | Name | Platform | Description |
 | --- | --- | --- |
 
-## Multi-Platform
+* * *
+
+### Multi-Platform
 
 Apps that can be used with multiple social media apps.
 
@@ -53,7 +57,9 @@ Apps that can be used with multiple social media apps.
 | [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
 | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 
-## Reddit
+* * *
+
+### Reddit
 
 | Name | Platform | Description |
 | --- | --- | --- |
@@ -63,17 +69,23 @@ Apps that can be used with multiple social media apps.
 | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
 | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
 
-## Snapchat
+* * *
+
+### Snapchat
 
 | Name | Platform | Description |
 | --- | --- | --- |
 
-## TikTok
+* * *
+
+### TikTok
 
 | Name | Platform | Description |
 | --- | --- | --- |
 
-## Twitter
+* * *
+
+### Twitter
 
 | Name | Platform | Description |
 | --- | --- | --- |
@@ -84,8 +96,11 @@ Apps that can be used with multiple social media apps.
 | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
 | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Chrome extension | Download images, videos |
 
-## Youtube
+* * *
+
+### Youtube
 
 | Name | Platform | Description |
 | --- | --- | --- |
 
+* * *
