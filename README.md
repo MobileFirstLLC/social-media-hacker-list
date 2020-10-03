@@ -9,7 +9,7 @@ This is a living document, expect it to grow over time.
 
 ##### Contributing
 
-If you would like to contribute or add your own app, edit this readme and submit a PR.
+If you would like to contribute or add your own app, edit this readme and submit a PR. Only include apps and projects not made by the owner of said platform.
 
 ##### Table of contents
 
