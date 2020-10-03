@@ -5,13 +5,15 @@
 
 ###  Alphabetically sorted directory of apps and tools to enhance social media experiences. 
 
-Apps and projects made by unaffiliated developers. This is a living document, expect it to grow over time. 
+Apps and projects made by unaffiliated developers. This list is intended to feature alternative clients, SDKs and tools to improve the default user experience.
 
-##### Contributing
+This is a living document, expect it to grow over time. 
+
+#### Contributing
 
 If you would like to contribute or add your own app, edit this readme and submit a PR.
 
-##### Table of contents
+#### Table of contents
 
 - [Facebook](#facebook) 
 - [Instagram](#instagram) 
@@ -29,6 +31,7 @@ If you would like to contribute or add your own app, edit this readme and submit
 
 | Name | Platform | Description |
 | --- | --- | --- |
+||||
 
 * * *
 
@@ -36,6 +39,7 @@ If you would like to contribute or add your own app, edit this readme and submit
 
 | Name | Platform | Description |
 | --- | --- | --- |
+||||
 
 * * *
 
@@ -43,6 +47,7 @@ If you would like to contribute or add your own app, edit this readme and submit
 
 | Name | Platform | Description |
 | --- | --- | --- |
+||||
 
 * * *
 
@@ -75,6 +80,7 @@ Apps that can be used with multiple social media apps.
 
 | Name | Platform | Description |
 | --- | --- | --- |
+||||
 
 * * *
 
@@ -82,6 +88,7 @@ Apps that can be used with multiple social media apps.
 
 | Name | Platform | Description |
 | --- | --- | --- |
+||||
 
 * * *
 
@@ -102,5 +109,6 @@ Apps that can be used with multiple social media apps.
 
 | Name | Platform | Description |
 | --- | --- | --- |
+||||
 
 * * *
