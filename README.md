@@ -110,5 +110,3 @@ Apps that can be used with multiple social media apps.
 | Name | Platform | Description |
 | --- | --- | --- |
 ||||
-
-* * *
