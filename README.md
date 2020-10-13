@@ -1,17 +1,23 @@
-# Better Social Media
+<h1 align="center">
+  🛠️ &nbsp; ⚗️ &nbsp; 🎉  
+  <br/><br/>☙✽ Social Media Hacker List ✽❧ 
+  <br/><br/>
+  <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media'/>
+  <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media'/>
+</h1>
 
-![last-commit](https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media)
-![contributors](https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media)
+<h3 align="center">List of unofficial apps, tools and SDKs to enhance social media experiences.</h3>
 
-###  Alphabetically sorted directory of apps and tools to enhance social media experiences. 
 
-Apps and projects made by unaffiliated developers. This list is intended to feature alternative clients, SDKs and tools to improve the default user experience.
+###  List of unofficial apps, tools and SDKs to enhance social media experiences. 
+
+Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs and tools to improve or build upon the default user experience across various social media platforms. 
 
 This is a living document, expect it to grow over time. 
 
 #### Contributing
 
-If you would like to contribute or add your own app, edit this readme and submit a PR.
+If you would like to contribute or add your own project, edit this readme and submit a PR.
 
 #### Table of contents
 
@@ -109,4 +115,4 @@ Apps that can be used with multiple social media apps.
 
 | Name | Platform | Description |
 | --- | --- | --- |
-| [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading YT videos |
+| [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
