@@ -8,9 +8,6 @@
 
 <h3 align="center">List of unofficial apps, tools and SDKs to enhance social media experiences.</h3>
 
-
-###  List of unofficial apps, tools and SDKs to enhance social media experiences. 
-
 Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs and tools to improve or build upon the default user experience across various social media platforms. 
 
 This is a living document, expect it to grow over time. 
