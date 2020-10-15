@@ -9,8 +9,9 @@ Choose a category
 - [ ] TikTok 
 - [ ] Twitter 
 - [ ] Youtube
+= [ ] Other: {specify}
 
-Did you include
+Did you include:
 
 - [ ] App name
 - [ ] Link to app
