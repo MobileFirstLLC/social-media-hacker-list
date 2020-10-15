@@ -9,7 +9,7 @@ Choose a category
 - [ ] TikTok 
 - [ ] Twitter 
 - [ ] Youtube
-= [ ] Other: {specify}
+- [ ] Other: {specify}
 
 Did you include:
 
