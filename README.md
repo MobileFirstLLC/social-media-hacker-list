@@ -68,6 +68,7 @@ Apps that can be used with multiple social media apps.
 | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
