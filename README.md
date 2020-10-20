@@ -103,10 +103,11 @@ Apps that can be used with multiple social media apps.
 | --- | --- | --- |
 | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | [Ilo](http://ilo.so/) | Web | Twitter analytics |
+| [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
 | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
 | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
 | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Chrome extension | Download images, videos |
+| [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
 
 * * *
 
