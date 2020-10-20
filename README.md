@@ -44,6 +44,7 @@ If you would like to contribute or add your own project, edit this readme and su
 
 | Name | Platform | Description |
 | --- | --- | --- |
+| [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
 
 * * *
