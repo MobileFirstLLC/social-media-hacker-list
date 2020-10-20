@@ -67,6 +67,7 @@ Apps that can be used with multiple social media apps.
 | [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
 | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
 
 * * *
 
