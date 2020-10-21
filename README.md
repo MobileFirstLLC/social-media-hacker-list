@@ -36,7 +36,7 @@ If you would like to contribute or add your own project, edit this readme and su
 
 | Name | Platform | Description |
 | --- | --- | --- |
-||||
+| [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
 
 * * *
 
@@ -108,6 +108,7 @@ Apps that can be used with multiple social media apps.
 | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | [Ilo](http://ilo.so/) | Web | Twitter analytics |
 | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
 | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
 | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
 | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
