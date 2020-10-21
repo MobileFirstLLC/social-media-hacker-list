@@ -3,6 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
+  <img src='https://img.shields.io/badge/entries-28-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -34,27 +35,27 @@ If you would like to contribute or add your own project, edit this readme and su
 
 ### Facebook
 
-| Name | Platform | Description |
-| --- | --- | --- |
-| [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
 
 * * *
 
 ### Instagram
 
-| Name | Platform | Description |
-| --- | --- | --- |
-| [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
+| 2. | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 3. | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
 
 * * *
 
 ### LinkedIn
 
-| Name | Platform | Description |
-| --- | --- | --- |
-||||
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+|||||
 
 * * *
 
@@ -62,65 +63,66 @@ If you would like to contribute or add your own project, edit this readme and su
 
 Apps that can be used with multiple social media apps.
 
-| Name | Platform | Description |
-| --- | --- | --- |
-| [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
-| [Dasheroo](https://dasheroo.com) | Web | Analytics |
-| [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
-| [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
+| 2. | [Dasheroo](https://dasheroo.com) | Web | Analytics |
+| 3. | [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
+| 4. | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 5. | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 6. | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 7. | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
 ### Reddit
 
-| Name | Platform | Description |
-| --- | --- | --- |
-| [Apollo](https://apolloapp.io/) | iOS | Reddit client |
-| [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
-| [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
-| [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
+| 2. | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
+| 3. | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
+| 4. | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 5. | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
 
 * * *
 
 ### Snapchat
 
-| Name | Platform | Description |
-| --- | --- | --- |
-||||
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+|||||
 
 * * *
 
 ### TikTok
 
-| Name | Platform | Description |
-| --- | --- | --- |
-||||
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+|||||
 
 * * *
 
 ### Twitter
 
-| Name | Platform | Description |
-| --- | --- | --- |
-| [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-| [Ilo](http://ilo.so/) | Web | Twitter analytics |
-| [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
-| [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
-| [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
+| 2. | [Ilo](http://ilo.so/) | Web | Twitter analytics |
+| 3. | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| 4. | [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
+| 5. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 6. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 7. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
+| 8. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 9. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 10. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
 
 * * *
 
 ### Youtube
 
-| Name | Platform | Description |
-| --- | --- | --- |
-| [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+| 2. | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
