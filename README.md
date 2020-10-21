@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-33-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-34-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -114,14 +114,15 @@ Apps that can be used with multiple social media apps.
 | 3. | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
 | 4. | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
 | 5. | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 6. | [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
-| 7. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 8. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 9. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
-| 10. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 11. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 12. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 13. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
+| 6. | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
+| 7. | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
+| 8. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 9. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 10. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
+| 11. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 12. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 13. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 14. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
 
 * * *
 
