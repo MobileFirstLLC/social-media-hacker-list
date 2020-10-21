@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-40-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-41-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -26,6 +26,7 @@ If you would like to contribute or add your own project, edit this readme and su
 - [LinkedIn](#linkedin) 
 - [Multi-Platform](#multi-platform)
 - [Reddit](#reddit) 
+- [Snapchat](#snapchat) 
 - [Twitter](#twitter) 
 - [Youtube](#youtube)
 
@@ -56,6 +57,8 @@ If you would like to contribute or add your own project, edit this readme and su
 | # | Name | Platform | Description |
 | --- | --- | --- | --- |
 | 1. | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 2. | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 3. | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -86,6 +89,15 @@ Apps that can be used with multiple social media apps.
 | 3. | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
 | 4. | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
 | 5. | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+
+
+* * * 
+
+### Snapchat
+
+| # | Name | Platform | Description |
+| --- | --- | --- | --- |
+| 1. | [Snapdex](https://snapdex.com/) | Web | searchable database of Snapchat usernames | 
 
 * * *
 
