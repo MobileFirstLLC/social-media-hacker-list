@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-30-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-33-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -71,8 +71,9 @@ Apps that can be used with multiple social media apps.
 | 3. | [Glitterly](https://www.glitterly.app/) | Web | Make videos of apps to share on social media |
 | 4. | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 5. | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 6. | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 7. | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 6. | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
+| 7. | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 8. | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -111,14 +112,16 @@ Apps that can be used with multiple social media apps.
 | 1. | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | 2. | [Ilo](http://ilo.so/) | Web | Twitter analytics |
 | 3. | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
-| 3. | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 4. | [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
-| 5. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 6. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 7. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
-| 8. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 9. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 10. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
+| 4. | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
+| 5. | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| 6. | [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
+| 7. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 8. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 9. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
+| 10. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 11. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 12. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 13. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
 
 * * *
 
