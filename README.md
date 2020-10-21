@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-28-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-30-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -46,8 +46,9 @@ If you would like to contribute or add your own project, edit this readme and su
 | # | Name | Platform | Description |
 | --- | --- | --- | --- |
 | 1. | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 2. | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 3. | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
+| 2. | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
+| 3. | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 4. | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
 
 * * *
 
@@ -109,6 +110,7 @@ Apps that can be used with multiple social media apps.
 | --- | --- | --- | --- |
 | 1. | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | 2. | [Ilo](http://ilo.so/) | Web | Twitter analytics |
+| 3. | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
 | 3. | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
 | 4. | [Thread Reader](https://threadreaderapp.com/) | Web | Read and share Twitter threads easily |  
 | 5. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
