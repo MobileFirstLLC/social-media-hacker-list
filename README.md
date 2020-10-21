@@ -108,6 +108,7 @@ Apps that can be used with multiple social media apps.
 | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | [Ilo](http://ilo.so/) | Web | Twitter analytics |
 | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
 | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
 | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
 | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
