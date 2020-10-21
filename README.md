@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-34-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-39-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -49,6 +49,7 @@ If you would like to contribute or add your own project, edit this readme and su
 | 2. | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
 | 3. | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 | 4. | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
+| 5. | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 
 * * *
 
@@ -114,15 +115,18 @@ Apps that can be used with multiple social media apps.
 | 3. | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
 | 4. | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
 | 5. | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 6. | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
-| 7. | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
-| 8. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 9. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 10. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
-| 11. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 12. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 13. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 14. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
+| 6. | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create content cards from tweet for sharing elsewhere |
+| 7. | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
+| 8. | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
+| 9. | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 10. | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 11. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
+| 12. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 13. | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 14. | [TweetWord](https://tweetword.com/) | Web | Visualize word frequencies |
+| 15. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 16. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 17. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
 
 * * *
 
