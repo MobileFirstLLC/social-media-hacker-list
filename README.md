@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-39-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-40-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -26,8 +26,6 @@ If you would like to contribute or add your own project, edit this readme and su
 - [LinkedIn](#linkedin) 
 - [Multi-Platform](#multi-platform)
 - [Reddit](#reddit) 
-- [Snapchat](#snapchat)  
-- [TikTok](#tiktok) 
 - [Twitter](#twitter) 
 - [Youtube](#youtube)
 
@@ -57,7 +55,7 @@ If you would like to contribute or add your own project, edit this readme and su
 
 | # | Name | Platform | Description |
 | --- | --- | --- | --- |
-|||||
+| 1. | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 
 * * *
 
@@ -73,8 +71,9 @@ Apps that can be used with multiple social media apps.
 | 4. | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 5. | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 | 6. | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
-| 7. | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 8. | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 7. | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 8. | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 9. | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -87,22 +86,6 @@ Apps that can be used with multiple social media apps.
 | 3. | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
 | 4. | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
 | 5. | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
-
-* * *
-
-### Snapchat
-
-| # | Name | Platform | Description |
-| --- | --- | --- | --- |
-|||||
-
-* * *
-
-### TikTok
-
-| # | Name | Platform | Description |
-| --- | --- | --- | --- |
-|||||
 
 * * *
 
@@ -123,7 +106,7 @@ Apps that can be used with multiple social media apps.
 | 11. | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
 | 12. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
 | 13. | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 14. | [TweetWord](https://tweetword.com/) | Web | Visualize word frequencies |
+| 14. | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
 | 15. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
 | 16. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
 | 17. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
