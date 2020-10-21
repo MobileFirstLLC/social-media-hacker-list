@@ -67,8 +67,8 @@ Apps that can be used with multiple social media apps.
 | # | Name | Platform | Description |
 | --- | --- | --- | --- |
 | 1. | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
-| 2. | [Dasheroo](https://dasheroo.com) | Web | Analytics |
-| 3. | [Glitterly](https://www.glitterly.app/) | Web | Promotion ― Make videos of apps to share on social media |
+| 2. | [Dasheroo](https://dasheroo.com) | Web | Analytics for social media |
+| 3. | [Glitterly](https://www.glitterly.app/) | Web | Make videos of apps to share on social media |
 | 4. | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 5. | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 | 6. | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
