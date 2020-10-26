@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-43-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-49-orange?style=flat-square' />
   <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
@@ -36,7 +36,8 @@ If you would like to contribute or add your own project, edit this readme and su
 
 | # | Name | Platform | Description |
 | --- | --- | --- | --- |
-| 1. | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
+| 1. | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
+| 2. | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
 
 * * *
 
@@ -44,11 +45,12 @@ If you would like to contribute or add your own project, edit this readme and su
 
 | # | Name | Platform | Description |
 | --- | --- | --- | --- |
-| 1. | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 2. | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
-| 3. | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 4. | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
-| 5. | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 1. | [Barinsta](https://github.com/austinhuang0131/barinsta) | Android | Open source client |
+| 2. | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
+| 3. | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
+| 4. | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 5. | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram |
+| 6. | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 
 * * *
 
@@ -86,9 +88,12 @@ Apps that can be used with multiple social media apps.
 | --- | --- | --- | --- |
 | 1. | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
 | 2. | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
-| 3. | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
-| 4. | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 5. | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| 3. | [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Android | Open source client |
+| 4. | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
+| 5. | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 6. | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 7. | [Slide for Reddit](https://github.com/ccrama/Slide) | Android | Open source client |
+| 8. | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
 
 
 * * * 
@@ -119,9 +124,10 @@ Apps that can be used with multiple social media apps.
 | 12. | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
 | 13. | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 | 14. | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
-| 15. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 16. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 17. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
+| 15. | [Twidere](https://github.com/TwidereProject/Twidere-Android) | Android | Open source client |
+| 16. | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 17. | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 18. | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
 
 * * *
 
