@@ -4,7 +4,6 @@
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/entries-49-orange?style=flat-square' />
-  <img src='https://img.shields.io/github/contributors-anon/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -19,16 +18,9 @@ This is a living document, expect it to grow over time.
 
 If you would like to contribute or add your own project, edit this readme and submit a PR.
 
-#### Table of contents
+#### Platforms
 
-- [Facebook](#facebook) 
-- [Instagram](#instagram) 
-- [LinkedIn](#linkedin) 
-- [Multi-Platform](#multi-platform)
-- [Reddit](#reddit) 
-- [Snapchat](#snapchat) 
-- [Twitter](#twitter) 
-- [Youtube](#youtube)
+[Facebook](#facebook) &bull; [Instagram](#instagram) &bull; [LinkedIn](#linkedin) &bull; [Multi-Platform](#multi-platform) &bull; [Reddit](#reddit) &bull; [Snapchat](#snapchat) &bull; [Twitter](#twitter) &bull; [Youtube](#youtube)
 
 ---
 
