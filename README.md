@@ -20,7 +20,7 @@ If you would like to contribute or add your own project, edit this readme and su
 
 #### Platforms
 
-[Facebook](#facebook) &bull; [Instagram](#instagram) &bull; [LinkedIn](#linkedin) &bull; [Multi-Platform](#multi-platform) &bull; [Reddit](#reddit) &bull; [Snapchat](#snapchat) &bull; [Twitter](#twitter) &bull; [Youtube](#youtube)
+**[Facebook](#facebook) &bull; [Instagram](#instagram) &bull; [LinkedIn](#linkedin) &bull; [Multi-Platform](#multi-platform) &bull; [Reddit](#reddit) &bull; [Snapchat](#snapchat) &bull; [Twitter](#twitter) &bull; [Youtube](#youtube)**
 
 ---
 
