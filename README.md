@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-63-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-64-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -100,15 +100,16 @@ Apps that can be used with multiple social media apps.
 | # | Tag | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][001] | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
-| 2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
-| 3. | ![img][002] | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
-| 4. | ![img][001] | [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Android | Open source client |
-| 5. | ![img][002] | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
-| 6. | ![img][004] | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
-| 7. | ![img][001] | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-| 8. | ![img][001] | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 9. | ![img][001] | [Slide for Reddit](https://github.com/ccrama/Slide) | Android | Open source client |
-| 10. | ![img][001] | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| 2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |\\
+| 3. | ![img][004] | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
+| 4. | ![img][002] | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
+| 5. | ![img][001] | [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Android | Open source client |
+| 6. | ![img][002] | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
+| 7. | ![img][004] | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
+| 8. | ![img][001] | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 9. | ![img][001] | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 10. | ![img][001] | [Slide for Reddit](https://github.com/ccrama/Slide) | Android | Open source client |
+| 11. | ![img][001] | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
 
 
 * * * 
