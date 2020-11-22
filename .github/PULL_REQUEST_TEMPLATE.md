@@ -1,4 +1,4 @@
-### Choose a category
+### Choose 1 category
 
 - [ ] Facebook
 - [ ] Instagram 
