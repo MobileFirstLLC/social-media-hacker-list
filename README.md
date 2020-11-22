@@ -131,7 +131,7 @@ Apps that can be used with multiple social media apps.
 | 3. | ![img][005] | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
 | 4. | ![img][006] | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
 | 5. | ![img][005] | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 6. | ![img][003] | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create content cards from tweet for sharing elsewhere |
+| 6. | ![img][005] | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
 | 7. | ![img][004] | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
 | 8. | ![img][006] | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
 | 9. | ![img][006] | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
