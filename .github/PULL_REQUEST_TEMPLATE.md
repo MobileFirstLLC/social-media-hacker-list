@@ -14,6 +14,7 @@ Choose a category
 Did you include:
 
 - [ ] App name
+- [ ] Appropriate tags
 - [ ] Link to app
 - [ ] Platform(s)
 - [ ] Short description
