@@ -16,7 +16,7 @@ This is a living document, expect it to grow over time.
 
 #### Contributing
 
-If you would like to contribute or add your own project, edit this readme and submit a PR.
+If you would like to add a project, flag an inactive project, or suggest some other correction, edit this readme and submit a PR.
 
 #### Platforms
 
