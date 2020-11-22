@@ -102,7 +102,7 @@ Apps that can be used with multiple social media apps.
 | 2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 | 3. | ![img][002] | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
 | 4. | ![img][001] | [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Android | Open source client |
-| 5. | ![img][002] | [KarmaDB](https://www.karmalb.com/) | Reddit Leaderboard | 
+| 5. | ![img][002] | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
 | 6. | ![img][004] | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
 | 7. | ![img][001] | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
 | 8. | ![img][001] | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
