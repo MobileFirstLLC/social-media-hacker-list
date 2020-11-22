@@ -1,4 +1,4 @@
-Choose a category
+### Choose a category
 
 - [ ] Facebook
 - [ ] Instagram 
@@ -11,10 +11,12 @@ Choose a category
 - [ ] Youtube
 - [ ] Other: {specify}
 
-Did you include:
+### Did you include:
 
 - [ ] App name
 - [ ] Appropriate tags
 - [ ] Link to app
 - [ ] Platform(s)
 - [ ] Short description
+
+You must check off all of the above to have your PR approved
