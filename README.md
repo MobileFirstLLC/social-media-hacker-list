@@ -159,8 +159,8 @@ Apps that can be used with multiple social media apps.
 
 
 [001]: https://img.shields.io/badge/-%E2%80%83-E040FB
-[002]: https://img.shields.io/badge/-%E2%80%83-304FFE
-[003]: https://img.shields.io/badge/-%E2%80%83-FF8F00
+[002]: https://img.shields.io/badge/-%E2%80%83-FF8F00
+[003]: https://img.shields.io/badge/-%E2%80%83-304FFE
 [004]: https://img.shields.io/badge/-%E2%80%83-009688
 [005]: https://img.shields.io/badge/-%E2%80%83-64DD17
 [006]: https://img.shields.io/badge/-%E2%80%83-FDD835
