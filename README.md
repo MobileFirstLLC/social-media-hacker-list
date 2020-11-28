@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-66-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-67-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -66,9 +66,10 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 | # | Tag | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
-| 1. | ![img][006] | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 2. | ![img][002] | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 3. | ![img][002] | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+| 1. | ![img][003] | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
+| 2. | ![img][006] | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 3. | ![img][002] | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 4. | ![img][002] | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
 
 * * *
 
