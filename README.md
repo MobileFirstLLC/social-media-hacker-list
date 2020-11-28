@@ -36,7 +36,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Facebook
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][001] | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
 | 2. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
@@ -45,7 +45,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Instagram
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][006] | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
 | 2. | ![img][001] | [Barinsta](https://github.com/austinhuang0131/barinsta) | Android | Open source client |
@@ -64,7 +64,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### LinkedIn
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][003] | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
 | 2. | ![img][006] | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
@@ -77,7 +77,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 Apps that can be used with multiple social media apps.
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][005] | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
 | 2. | ![img][002] | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
@@ -100,7 +100,7 @@ Apps that can be used with multiple social media apps.
 
 ### Reddit
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][001] | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
 | 2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |\\
@@ -119,7 +119,7 @@ Apps that can be used with multiple social media apps.
 
 ### Snapchat
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][002] | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
 
@@ -127,7 +127,7 @@ Apps that can be used with multiple social media apps.
 
 ### Twitter
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][007] | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | 2. | ![img][002] | [Ilo](http://ilo.so/) | Web | Twitter analytics |
@@ -153,7 +153,7 @@ Apps that can be used with multiple social media apps.
 
 ### Youtube
 
-| # | Tag | Name | Platform | Description |
+| # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 | 1. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
 | 2. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
