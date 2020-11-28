@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-71-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-72-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -94,6 +94,7 @@ Apps that can be used across multiple social media apps.
 | 12. | ![img][003] | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
 | 13. | ![img][005] | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
 | 14. | ![img][005] | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 15. | ![img][003] | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
 | 15. | ![img][007] | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
 | 15. | ![img][002] | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
 | 16. | ![img][007] | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
