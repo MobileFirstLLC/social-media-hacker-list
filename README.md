@@ -95,10 +95,10 @@ Apps that can be used across multiple social media apps.
 | 13. | ![img][005] | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
 | 14. | ![img][005] | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 15. | ![img][003] | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 15. | ![img][007] | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 15. | ![img][002] | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 16. | ![img][007] | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 17. | ![img][007] | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 16. | ![img][007] | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 17. | ![img][002] | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 18. | ![img][007] | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 19. | ![img][007] | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
