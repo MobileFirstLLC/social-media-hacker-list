@@ -75,7 +75,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Multi-Platform
 
-Apps that can be used with multiple social media apps.
+Apps that can be used across multiple social media apps.
 
 | # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
