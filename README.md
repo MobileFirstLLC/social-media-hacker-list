@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-72-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-74-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -90,15 +90,16 @@ Apps that can be used across multiple social media apps.
 | 8. | ![img][006] | [Hootsuite](https://hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
 | 9. | ![img][006] | [I Lazy To Read](https://ilazytoread.herokuapp.com/) | Web | Auto-summarize any online article |
 | 10. | ![img][004] | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 11. | ![img][006] | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 12. | ![img][003] | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
-| 13. | ![img][005] | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
-| 14. | ![img][005] | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 15. | ![img][003] | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 16. | ![img][007] | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 17. | ![img][002] | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 18. | ![img][007] | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 19. | ![img][007] | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 11. | ![img][003] | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 12. | ![img][006] | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 13. | ![img][003] | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
+| 14. | ![img][005] | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
+| 15. | ![img][005] | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 16. | ![img][003] | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 17. | ![img][007] | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 18. | ![img][002] | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 19. | ![img][007] | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 20. | ![img][007] | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -125,7 +126,8 @@ Apps that can be used across multiple social media apps.
 
 | # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
-| 1. | ![img][002] | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
+| 1. | ![img][002] | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
+| 2. | ![img][002] | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
 
 * * *
 
