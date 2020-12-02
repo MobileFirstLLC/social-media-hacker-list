@@ -143,7 +143,7 @@ Apps that can be used across multiple social media apps.
 | # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 |  1. | ![img][007] | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-|  2. | ![img][002] | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | CSV | Twitter handles for members of US 116th Congress | 
+|  2. | ![img][002] | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | CSV | Twitter handles for members of 116th US Congress | 
 |  3. | ![img][002] | [Ilo](http://ilo.so/) | Web | Twitter analytics |
 |  4. | ![img][005] | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
 |  5. | ![img][006] | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
