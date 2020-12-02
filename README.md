@@ -8,7 +8,7 @@
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
 
-<h3 align="center">List of unofficial apps and tools that enhance user capabilities and experiences on social media.</h3>
+<h3 align="center">List of unofficial apps and tools that enhance user experiences on social media.</h3>
 
 Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools and datasets to improve or build upon the default user experience across various social media platforms. 
 
