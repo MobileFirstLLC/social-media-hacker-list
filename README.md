@@ -3,12 +3,12 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-79-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-80-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
 
-<h3 align="center">List of unofficial apps and tools that enhance user experiences on social media.</h3>
+<h3 align="center">List of unofficial apps and tools that enhance user capabilities and experiences on social media.</h3>
 
 Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools and datasets to improve or build upon the default user experience across various social media platforms. 
 
@@ -143,7 +143,7 @@ Apps that can be used across multiple social media apps.
 | # |  | Name | Platform | Description |
 | --- | --- | --- | --- | --- |
 |  1. | ![img][007] | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-|  2. | ![img][002] | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | CSV | Twitter handles for members of 116th US Congress | 
+|  2. | ![img][002] | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | CSV | Twitter handles for members of US 116th Congress | 
 |  3. | ![img][002] | [Ilo](http://ilo.so/) | Web | Twitter analytics |
 |  4. | ![img][005] | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
 |  5. | ![img][006] | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
@@ -151,21 +151,22 @@ Apps that can be used across multiple social media apps.
 |  7. | ![img][002] | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
 |  8. | ![img][004] | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | Code to generate a tweet that quotes itself |
 |  9. | ![img][005] | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
-| 10. | ![img][004] | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
-| 11. | ![img][006] | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
-| 12. | ![img][006] | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 13. | ![img][002] | [TweetedAt](https://github.com/oduwsdl/tweetedat) | Web | Extracts date and time from the tweet ID | 
-| 14. | ![img][006] | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 15. | ![img][005] | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 16. | ![img][004] | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
-| 17. | ![img][002] | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
-| 18. | ![img][003] | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 19. | ![img][006] | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 20. | ![img][001] | [Twidere](https://github.com/TwidereProject/Twidere-Android) | Android | Open source client |
-| 21. | ![img][006] | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 22. | ![img][004] | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 23. | ![img][007] | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
-| 24. | ![img][004] | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 10. | ![img][002] | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 11. | ![img][004] | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
+| 12. | ![img][006] | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
+| 13. | ![img][006] | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 14. | ![img][002] | [TweetedAt](https://github.com/oduwsdl/tweetedat) | Web | Extracts date and time from the tweet ID | 
+| 15. | ![img][006] | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 16. | ![img][005] | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 17. | ![img][004] | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
+| 18. | ![img][002] | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
+| 19. | ![img][003] | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 10. | ![img][006] | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 21. | ![img][001] | [Twidere](https://github.com/TwidereProject/Twidere-Android) | Android | Open source client |
+| 22. | ![img][006] | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 23. | ![img][004] | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 24. | ![img][007] | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
+| 25. | ![img][004] | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
 
 * * *
 
