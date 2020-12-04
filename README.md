@@ -161,7 +161,7 @@ Apps that can be used across multiple social media apps.
 | 17. | ![img][004] | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
 | 18. | ![img][002] | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
 | 19. | ![img][003] | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 10. | ![img][006] | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 20. | ![img][006] | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 | 21. | ![img][001] | [Twidere](https://github.com/TwidereProject/Twidere-Android) | Android | Open source client |
 | 22. | ![img][006] | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
 | 23. | ![img][004] | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
