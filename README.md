@@ -162,7 +162,7 @@ Apps that can be used across multiple social media apps.
 | 18. | ![img][002] | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
 | 19. | ![img][003] | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
 | 10. | ![img][006] | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 21. | ![img][001] | [Twidere](https://github.com/TwidereProject/Twidere-Android) | Android | Open source client |
+| 21. | ![img][001] | [Twidere](https://github.com/TwidereProject) | iOS, Android | Open source client |
 | 22. | ![img][006] | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
 | 23. | ![img][004] | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
 | 24. | ![img][007] | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images, videos |
