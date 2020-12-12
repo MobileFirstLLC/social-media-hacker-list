@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-83-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-85-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -43,8 +43,10 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 | # |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
-| 1. | ![img][001] | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-| 2. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
+|  1. | ![img][004] | [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | FB Messenger Command line client | 
+|  2. | ![img][001] | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
+|  3. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
+|  4. | ![img][004] | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
