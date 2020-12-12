@@ -41,7 +41,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Facebook
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][001] | [Facebook CLI](https://github.com/specious/facebook-cli) | Ruby | Command line FB client | 
 |  2. | ![img][004] | [Facebook NodeJS SDK](https://github.com/node-facebook/facebook-node-sdk) | JavaScript | NodeJS Library for Facebook |
@@ -55,7 +55,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Instagram
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][006] | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
 |  2. | ![img][001] | [Barinsta](https://github.com/austinhuang0131/barinsta) | Android | Open source client |
@@ -75,7 +75,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### LinkedIn
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 | 1. | ![img][003] | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
 | 2. | ![img][006] | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
@@ -88,7 +88,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 Apps that can be used across multiple social media apps.
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][005] | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
 |  2. | ![img][002] | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
@@ -115,7 +115,7 @@ Apps that can be used across multiple social media apps.
 
 ### Reddit
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][001] | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
 |  2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |\\
@@ -134,7 +134,7 @@ Apps that can be used across multiple social media apps.
 
 ### Snapchat
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 | 1. | ![img][002] | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
 | 2. | ![img][002] | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
@@ -143,7 +143,7 @@ Apps that can be used across multiple social media apps.
 
 ### Twitter
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][007] | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 |  2. | ![img][001] | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |
@@ -178,7 +178,7 @@ Apps that can be used across multiple social media apps.
 
 ### Youtube
 
-| # |  | Name | Platform | Description |
+| # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 | 1. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
 | 2. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
