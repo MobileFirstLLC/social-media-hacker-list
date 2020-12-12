@@ -43,7 +43,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 | # |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
-|  1. | ![img][004] | [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | FB Messenger Command line client | 
+|  1. | ![img][001] | [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | FB Messenger Command line client | 
 |  2. | ![img][001] | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
 |  3. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
 |  4. | ![img][004] | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
