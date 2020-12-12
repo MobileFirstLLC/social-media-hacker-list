@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-87-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-88-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -44,11 +44,12 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 | # |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][001] | [Facebook CLI](https://github.com/specious/facebook-cli) | Ruby | Command line FB client | 
-|  2. | ![img][001] | [FB Messenger Cli](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | FB Messenger Command line client | 
-|  3. | ![img][004] | [FB NodeJS SDK](https://github.com/node-facebook/facebook-node-sdk) | JavaScript | NodeJS Library for Facebook |
+|  2. | ![img][004] | [Facebook NodeJS SDK](https://github.com/node-facebook/facebook-node-sdk) | JavaScript | NodeJS Library for Facebook |
+|  3. | ![img][004] | [Facebook4J](https://github.com/roundrop/facebook4j) | Java | Facebook API wrapper in Java |
 |  4. | ![img][001] | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-|  5. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
-|  6. | ![img][004] | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  5. | ![img][001] | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
+|  6. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+|  7. | ![img][004] | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
