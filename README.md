@@ -42,7 +42,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 ### Facebook
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | 1. | ![img][001] | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
 | 2. | ![img][001] | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for FB messenger |
 
@@ -51,7 +51,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 ### Instagram
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 |  1. | ![img][006] | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
 |  2. | ![img][001] | [Barinsta](https://github.com/austinhuang0131/barinsta) | Android | Open source client |
 |  3. | ![img][003] | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
@@ -71,7 +71,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 ### LinkedIn
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | 1. | ![img][003] | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
 | 2. | ![img][006] | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 3. | ![img][002] | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
@@ -84,7 +84,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 Apps that can be used across multiple social media apps.
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 |  1. | ![img][005] | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
 |  2. | ![img][002] | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
 |  3. | ![img][005] | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
@@ -111,7 +111,7 @@ Apps that can be used across multiple social media apps.
 ### Reddit
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 |  1. | ![img][001] | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
 |  2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |\\
 |  3. | ![img][004] | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
@@ -130,7 +130,7 @@ Apps that can be used across multiple social media apps.
 ### Snapchat
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | 1. | ![img][002] | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
 | 2. | ![img][002] | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
 
@@ -139,7 +139,7 @@ Apps that can be used across multiple social media apps.
 ### Twitter
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 |  1. | ![img][007] | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 |  2. | ![img][002] | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | CSV | Twitter handles for members of US 116th Congress | 
 |  3. | ![img][002] | [Ilo](http://ilo.so/) | Web | Twitter analytics |
@@ -171,7 +171,7 @@ Apps that can be used across multiple social media apps.
 ### Youtube
 
 | # |  | Name | Platform | Description |
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | 1. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
 | 2. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
 
