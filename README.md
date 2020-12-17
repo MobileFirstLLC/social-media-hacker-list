@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-88-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-93-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -180,8 +180,13 @@ Apps that can be used across multiple social media apps.
 
 | # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
-| 1. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
-| 2. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading Youtube videos |
+| 1. | ![img][004] | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
+| 2. | ![img][001] | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
+| 3. | ![img][004] | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+| 4. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+| 5. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
+| 6. | ![img][006] | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 7. | ![img][004] | [yt-download](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
 
 
 [001]: https://img.shields.io/badge/-%E2%80%83-E040FB
