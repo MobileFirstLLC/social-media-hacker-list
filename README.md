@@ -3,14 +3,14 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-93-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-108-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
 
 <h3 align="center">List of unofficial apps and tools that enhance user capabilities and experiences on social media.</h3>
 
-Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools and datasets to improve or build upon the default user experience across various social media platforms. This is a living document, expect it to grow over time. 
+Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. This is a living document, expect it to grow over time. 
 
 #### Contributing
 
@@ -31,6 +31,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ![img][001] Alternative client &nbsp; &nbsp;
 ![img][002] Analytics & Data &nbsp; &nbsp;
+![img][008] Bots &nbsp; &nbsp;
 ![img][003] Content creation  &nbsp; &nbsp;
 ![img][004] Dev Tools &nbsp; &nbsp;
 ![img][005] Image  &nbsp; &nbsp; <br/>
@@ -119,16 +120,17 @@ Apps that can be used across multiple social media apps.
 | :---: | --- | --- | --- | --- |
 |  1. | ![img][001] | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
 |  2. | ![img][001] | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |\\
-|  3. | ![img][004] | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
+|  3. | ![img][008] | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
 |  4. | ![img][002] | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
 |  5. | ![img][001] | [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Android | Open source client |
 |  6. | ![img][002] | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
 |  7. | ![img][004] | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
-|  8. | ![img][001] | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-|  9. | ![img][001] | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 10. | ![img][001] | [Slide for Reddit](https://github.com/ccrama/Slide) | Android | Open source client |
-| 11. | ![img][001] | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
-| 12. | ![img][004] | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+|  8. | ![img][001] | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
+|  9. | ![img][001] | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 10. | ![img][001] | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 11. | ![img][001] | [Slide for Reddit](https://github.com/ccrama/Slide) | Android | Open source client |
+| 12. | ![img][001] | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| 13. | ![img][004] | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
 
 * * * 
 
@@ -173,6 +175,7 @@ Apps that can be used across multiple social media apps.
 | 26. | ![img][004] | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
 | 27. | ![img][007] | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
 | 28. | ![img][004] | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 29. | ![img][008] | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
 
 * * *
 
@@ -180,13 +183,27 @@ Apps that can be used across multiple social media apps.
 
 | # | ` ` | Name | Platform | Description |
 | :---: | --- | --- | --- | --- |
-| 1. | ![img][004] | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
-| 2. | ![img][001] | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
-| 3. | ![img][004] | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
-| 4. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
-| 5. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
-| 6. | ![img][006] | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 7. | ![img][004] | [yt-download](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+|  1. | ![img][006] | [AllToMP3](https://alltomp3.org/) | Web | Open source video downloader |
+|  2. | ![img][006] | [AllTube](https://github.com/Rudloff/alltube) | Web | Web GUI for youtube-dl |
+|  3. | ![img][004] | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
+|  4. | ![img][004] | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
+|  5. | ![img][001] | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
+|  6. | ![img][004] | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+|  7. | ![img][004] | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
+|  8. | ![img][006] | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+|  9. | ![img][004] | [PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) | JavaScript | Prettier embeds for your YouTubes |
+| 10. | ![img][004] | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
+| 11. | ![img][001] | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
+| 12. | ![img][006] | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
+| 13. | ![img][001] | [Tizonia](https://github.com/tizonia/tizonia-openmax-il) | Linux | Command-line streaming music client |
+| 14. | ![img][006] | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 15. | ![img][004] | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 16. | ![img][004] | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 17. | ![img][006] | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 18. | ![img][004] | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 19. | ![img][006] | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+| 20. | ![img][004] | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
+
 
 
 [001]: https://img.shields.io/badge/-%E2%80%83-E040FB
@@ -196,3 +213,4 @@ Apps that can be used across multiple social media apps.
 [005]: https://img.shields.io/badge/-%E2%80%83-64DD17
 [006]: https://img.shields.io/badge/-%E2%80%83-FDD835
 [007]: https://img.shields.io/badge/-%E2%80%83-F50057
+[008]: https://img.shields.io/badge/-%E2%80%83-00BCD4
