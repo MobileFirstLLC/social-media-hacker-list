@@ -38,7 +38,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 ![img][006] Productivity & Tools  &nbsp; &nbsp;
 ![img][007] Video
 
-`❋` = Open source 
+**❋**  = Open source
 
 ---
 
