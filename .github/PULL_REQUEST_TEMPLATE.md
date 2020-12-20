@@ -1,8 +1,10 @@
 ### Choose category
 
-- If solution works primarily with 1 platform, choose that platform
-- If the solution works exactly between 2 platforms of equal weight, for example, "post instagram photos to twitter", then choose those two platforms
-- Otherwise choose multi-platform
+If solution works primarily with 1 platform, choose that platform
+
+If the solution works exactly between 2 platforms of equal weight, for example, "post instagram photos to twitter", then choose those two platforms
+
+Otherwise choose multi-platform
 
 - [ ] Facebook 
 - [ ] Instagram 
