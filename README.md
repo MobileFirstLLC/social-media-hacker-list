@@ -23,10 +23,6 @@
 
 These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. No sketchy extensions that must be run in dev mode.
 
-#### Motivation
-
-The purpose of this document is to serve as a handy resource when you are looking for existing solutions, or intend to build upon some platform and are looking for a baseline of what already exists. This is a living document, expect it to grow over time. 
-
 #### Contributing
 
 If you would like to add a project, flag an inactive project, or suggest some other correction, edit this readme and submit a PR.
