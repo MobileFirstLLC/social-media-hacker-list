@@ -8,7 +8,7 @@
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
 
-<h3 align="center">List of unofficial apps and tools that enhance user capabilities and experiences related to social media.</h3>
+<h3 align="center">List of unofficial apps and tools that enhance social media user capabilities and experiences.</h3>
 
 **Inclusion criteria**
 
