@@ -7,46 +7,41 @@
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
-
 <h3 align="center">List of unofficial apps and tools that enhance social media user capabilities and experiences.</h3>
+<h3 align="center">
+  <a href="#facebook">Facebook</a> &bull; 
+  <a href="#instagram">Instagram</a> &bull; 
+  <a href="#linkedin">LinkedIn</a> &bull; 
+  <a href="#reddit">Reddit</a> &bull; 
+  <a href="#snapchat">Snapchat</a> &bull; 
+  <a href="#twitter">Twitter</a> &bull; 
+  <a href="#youtube">Youtube</a> &bull; 
+  <a href="#multi-platform">Multi-Platform</a>
+</h3>
 
 #### Inclusion criteria
 
 These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. No sketchy extensions that must be run in dev mode.
 
-#### Motivation
-
-The purpose of this document is to serve as a handy resource when you are looking for existing solutions, or intend to build upon some platform and are looking for a baseline of what already exists. This is a living document, expect it to grow over time. 
-
 #### Contributing
 
 If you would like to add a project, flag an inactive project, or suggest some other correction, edit this readme and submit a PR.
 
-#### Platforms
+* * *
 
-**[Facebook](#facebook) &bull; 
-[Instagram](#instagram) &bull; 
-[LinkedIn](#linkedin) &bull; 
-[Multi-Platform](#multi-platform) &bull; 
-[Reddit](#reddit) &bull; 
-[Snapchat](#snapchat) &bull; 
-[Twitter](#twitter) &bull; 
-[Youtube](#youtube)**
-
-#### Tags Legend
+#### Legend
 
 ![img][001] Alternative client &nbsp; &nbsp;
 ![img][002] Analytics & Data &nbsp; &nbsp;
 ![img][008] Bots &nbsp; &nbsp;
 ![img][003] Content creation  &nbsp; &nbsp;
 ![img][004] Dev Tools &nbsp; &nbsp;
-![img][005] Image  &nbsp; &nbsp; <br/>
-![img][006] Productivity & Tools  &nbsp; &nbsp;
-![img][007] Video
-
+![img][005] Image  &nbsp; &nbsp;
+![img][006] Productivity & Tools &nbsp; &nbsp;
+![img][007] Video  &nbsp; &nbsp;
 **❋**  = Open source
 
----
+* * *
 
 ### Facebook
 
@@ -236,12 +231,11 @@ Apps that can be used across multiple social media apps.
 
 
 
-[001]: https://img.shields.io/badge/-%E2%80%83-E040FB
-[002]: https://img.shields.io/badge/-%E2%80%83-FF8F00
-[003]: https://img.shields.io/badge/-%E2%80%83-304FFE
-[004]: https://img.shields.io/badge/-%E2%80%83-795548
-[005]: https://img.shields.io/badge/-%E2%80%83-64DD17
-[006]: https://img.shields.io/badge/-%E2%80%83-FDD835
-[007]: https://img.shields.io/badge/-%E2%80%83-F50057
-[008]: https://img.shields.io/badge/-%E2%80%83-00BCD4
-[oss]: https://img.shields.io/badge/-✓-brightgreen
+[001]: https://img.shields.io/badge/-%E2%80%83-E040FB?style=flat-square
+[002]: https://img.shields.io/badge/-%E2%80%83-FF8F00?style=flat-square
+[003]: https://img.shields.io/badge/-%E2%80%83-304FFE?style=flat-square
+[004]: https://img.shields.io/badge/-%E2%80%83-795548?style=flat-square
+[005]: https://img.shields.io/badge/-%E2%80%83-64DD17?style=flat-square
+[006]: https://img.shields.io/badge/-%E2%80%83-FDD835?style=flat-square
+[007]: https://img.shields.io/badge/-%E2%80%83-F50057?style=flat-square
+[008]: https://img.shields.io/badge/-%E2%80%83-00BCD4?style=flat-square
