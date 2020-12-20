@@ -228,12 +228,11 @@ Apps that can be used across multiple social media apps.
 
 
 
-[001]: https://img.shields.io/badge/-%E2%80%83-E040FB
-[002]: https://img.shields.io/badge/-%E2%80%83-FF8F00
-[003]: https://img.shields.io/badge/-%E2%80%83-304FFE
-[004]: https://img.shields.io/badge/-%E2%80%83-795548
-[005]: https://img.shields.io/badge/-%E2%80%83-64DD17
-[006]: https://img.shields.io/badge/-%E2%80%83-FDD835
-[007]: https://img.shields.io/badge/-%E2%80%83-F50057
-[008]: https://img.shields.io/badge/-%E2%80%83-00BCD4
-[oss]: https://img.shields.io/badge/-✓-brightgreen
+[001]: https://img.shields.io/badge/-%E2%80%83-E040FB?style=flat-square
+[002]: https://img.shields.io/badge/-%E2%80%83-FF8F00?style=flat-square
+[003]: https://img.shields.io/badge/-%E2%80%83-304FFE?style=flat-square
+[004]: https://img.shields.io/badge/-%E2%80%83-795548?style=flat-square
+[005]: https://img.shields.io/badge/-%E2%80%83-64DD17?style=flat-square
+[006]: https://img.shields.io/badge/-%E2%80%83-FDD835?style=flat-square
+[007]: https://img.shields.io/badge/-%E2%80%83-F50057?style=flat-square
+[008]: https://img.shields.io/badge/-%E2%80%83-00BCD4?style=flat-square
