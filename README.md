@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-115-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-120-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -12,7 +12,7 @@
 
 #### Inclusion criteria
 
-These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms.  Also included are solutions that repurpose social media platforms and their content in elevated ways.
+These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included.
 
 #### Motivation
 
@@ -86,16 +86,20 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 | # | ` ` |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-|  1. | ![img][003] | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-|  2. | ![img][004] | ❋ | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
-|  3. | ![img][004] | ❋ | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
-|  4. | ![img][004] | ❋ | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-|  5. | ![img][004] | ❋ | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
-|  6. | ![img][004] | ❋ | [LinkedRW](https://github.com/zeshuaro/LinkedRW) | Python | Convert Linkedin profile to a website |
-|  7. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-|  8. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-|  9. | ![img][004] | ❋ | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
-| 10. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+|  1. | ![img][006] | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chrome.google.com/webstore/detail/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
+|  2. | ![img][003] | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
+|  3. | ![img][006] | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
+|  4. | ![img][004] | ❋ | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
+|  5. | ![img][004] | ❋ | [LinkedIn Auto Connect Tool](https://github.com/rousan/linkedin-auto-connect) | JavaScript | Automate connection requests on LinkedIn |
+|  6. | ![img][002] |   | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dateset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
+|  7. | ![img][004] | ❋ | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
+|  8. | ![img][004] | ❋ | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+|  9. | ![img][004] | ❋ | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 10. | ![img][004] | ❋ | [LinkedRW](https://github.com/zeshuaro/LinkedRW) | Python | Convert Linkedin profile to a website |
+| 11. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 12. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 13. | ![img][004] | ❋ | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
+| 14. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -124,8 +128,9 @@ Apps that can be used across multiple social media apps.
 | 17. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
 | 18. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
 | 19. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 20. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 21. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 20. | ![img][004] | ❋ | [Vanilla Sharing](https://github.com/avdeev/vanilla-sharing) | JavaScript | Small js package for sharing content | 
+| 21. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 22. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
