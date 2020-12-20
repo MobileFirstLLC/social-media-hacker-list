@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-123-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-127-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -86,21 +86,25 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 | # | ` ` |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-|  1. | ![img][006] | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chrome.google.com/webstore/detail/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
-|  2. | ![img][003] | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-|  3. | ![img][006] | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
-|  4. | ![img][004] | [❋](https://github.com/tomquirk/linkedin-api) | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
-|  5. | ![img][004] | [❋](https://github.com/rousan/linkedin-auto-connect) | [LinkedIn Auto Connect Tool](https://github.com/rousan/linkedin-auto-connect) | JavaScript | Automate connection requests on LinkedIn |
-|  6. | ![img][002] |   | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dataset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
-|  7. | ![img][004] | [❋](https://github.com/jvandenaardweg/linkedin-profile-scraper) | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
-|  8. | ![img][004] | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-|  9. | ![img][004] | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
-| 10. | ![img][004] | [❋](https://github.com/zeshuaro/LinkedRW) | [LinkedRW](https://github.com/zeshuaro/LinkedRW) | Python | Convert Linkedin profile to a website |
-| 11. | ![img][004] | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
-| 12. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 13. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 14. | ![img][004] | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
-| 15. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+|  1. | ![img][004] | [❋](https://github.com/coding-ai/EasyApply-Linkedin) | [EasyApply-Linkedin](https://github.com/coding-ai/EasyApply-Linkedin) | Python | Automatically apply for jobs on LinkedIn |
+|  2. | ![img][004] | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
+|  3. | ![img][006] | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chrome.google.com/webstore/detail/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
+|  4. | ![img][003] | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
+|  5. | ![img][006] | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
+|  6. | ![img][004] | [❋](https://github.com/tomquirk/linkedin-api) | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
+|  7. | ![img][004] | [❋](https://github.com/rousan/linkedin-auto-connect) | [LinkedIn Auto Connect Tool](https://github.com/rousan/linkedin-auto-connect) | JavaScript | Automate connection requests on LinkedIn |
+|  8. | ![img][002] | | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dataset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
+|  9. | ![img][004] | [❋](https://github.com/jvandenaardweg/linkedin-profile-scraper) | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
+| 10. | ![img][004] | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+| 11. | ![img][004] | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 12. | ![img][006] | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
+| 13. | ![img][004] | [❋](https://github.com/zeshuaro/LinkedRW) | [LinkedRW](https://github.com/zeshuaro/LinkedRW) | Python | Convert Linkedin profile to a website |
+| 14. | ![img][004] | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
+| 15. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 16. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 17. | ![img][004] | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
+| 18. | ![img][004] | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
+| 19. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -131,7 +135,7 @@ Apps that can be used across multiple social media apps.
 | 19. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
 | 20. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
 | 21. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 22. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](https://github.com/avdeev/vanilla-sharing) | JavaScript | Small js package for sharing content | 
+| 22. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
 | 23. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
 | 24. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
