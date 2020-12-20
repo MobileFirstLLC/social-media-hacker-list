@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-120-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-123-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -12,7 +12,7 @@
 
 #### Inclusion criteria
 
-These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included.
+These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. No sketchy extensions that must be run in dev mode.
 
 #### Motivation
 
@@ -91,15 +91,16 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 |  3. | ![img][006] | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
 |  4. | ![img][004] | [❋](https://github.com/tomquirk/linkedin-api) | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
 |  5. | ![img][004] | [❋](https://github.com/rousan/linkedin-auto-connect) | [LinkedIn Auto Connect Tool](https://github.com/rousan/linkedin-auto-connect) | JavaScript | Automate connection requests on LinkedIn |
-|  6. | ![img][002] |   | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dateset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
+|  6. | ![img][002] |   | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dataset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
 |  7. | ![img][004] | [❋](https://github.com/jvandenaardweg/linkedin-profile-scraper) | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
 |  8. | ![img][004] | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
 |  9. | ![img][004] | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
 | 10. | ![img][004] | [❋](https://github.com/zeshuaro/LinkedRW) | [LinkedRW](https://github.com/zeshuaro/LinkedRW) | Python | Convert Linkedin profile to a website |
-| 11. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 12. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 13. | ![img][004] | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
-| 14. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+| 11. | ![img][004] | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
+| 12. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 13. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 14. | ![img][004] | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
+| 15. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -125,12 +126,14 @@ Apps that can be used across multiple social media apps.
 | 14. | ![img][005] | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
 | 15. | ![img][005] | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 16. | ![img][004] | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 17. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 18. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 19. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 20. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](https://github.com/avdeev/vanilla-sharing) | JavaScript | Small js package for sharing content | 
-| 21. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 22. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 17. | ![img][004] | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 18. | ![img][004] | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 19. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 20. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 21. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 22. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](https://github.com/avdeev/vanilla-sharing) | JavaScript | Small js package for sharing content | 
+| 23. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 24. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
