@@ -3,14 +3,18 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-108-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-115-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
 
-<h3 align="center">List of unofficial apps and tools that enhance user capabilities and experiences on social media.</h3>
+<h3 align="center">List of unofficial apps and tools that enhance user capabilities and experiences related to social media.</h3>
 
-Apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. This is a living document, expect it to grow over time. 
+**Inclusion criteria**
+
+These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms.  Also included are solutions that repurpose social media platforms and their content in elevated ways.
+
+The purpose of this document is to serve as a handy resource when you are looking for existing solutions, or intend to build upon some platform and are looking for a baseline of what already exists. This is a living document, expect it to grow over time. 
 
 #### Contributing
 
@@ -65,7 +69,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 |  3. | ![img][003] | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
 |  4. | ![img][002] | | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
 |  5. | ![img][002] | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-|  6. | ![img][004] | | [Instagram.css](https://picturepan2.github.io/instagram.css/) | Web | Instagram filters in CSS |
+|  6. | ![img][004] | ❋ | [Instagram.css](https://picturepan2.github.io/instagram.css/) | Web | Instagram filters in CSS |
 |  7. | ![img][003] | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 |  8. | ![img][006] | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
 |  9. | ![img][003] | | [Linebreaks](https://linebreaks.igrm.me/) | Web | Instagram Line Break Generator |
@@ -80,10 +84,16 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 | # | ` ` |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-| 1. | ![img][003] | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-| 2. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 3. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 4. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+|  1. | ![img][003] | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
+|  2. | ![img][004] | ❋ | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
+|  3. | ![img][004] | ❋ | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
+|  4. | ![img][004] | ❋ | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+|  5. | ![img][004] | ❋ | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+|  6. | ![img][004] | ❋ | [LinkedRW](https://github.com/zeshuaro/LinkedRW) | Python | Convert Linkedin profile to a website |
+|  7. | ![img][006] | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+|  8. | ![img][002] | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+|  9. | ![img][004] | ❋ | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
+| 10. | ![img][002] | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -108,11 +118,12 @@ Apps that can be used across multiple social media apps.
 | 13. | ![img][003] | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
 | 14. | ![img][005] | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
 | 15. | ![img][005] | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 16. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 17. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 18. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 19. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 20. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 16. | ![img][004] | ❋ | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 17. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 18. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 19. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 20. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 21. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -126,7 +137,7 @@ Apps that can be used across multiple social media apps.
 |  4. | ![img][002] | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
 |  5. | ![img][001] | ❋ | [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Android | Open source client |
 |  6. | ![img][002] | | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
-|  7. | ![img][004] |❋ | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
+|  7. | ![img][004] | ❋ | [PRAW](https://github.com/tweepy/tweepy) | Python | Python Reddit API Wrapper; for building bots |
 |  8. | ![img][001] | | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
 |  9. | ![img][001] | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
 | 10. | ![img][001] | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
@@ -168,7 +179,7 @@ Apps that can be used across multiple social media apps.
 | 17. | ![img][002] | ❋ | [TweetedAt](https://github.com/oduwsdl/tweetedat) | Web | Extracts date and time from the tweet ID | 
 | 18. | ![img][006] | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
 | 19. | ![img][005] | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 20. | ![img][004] |❋ | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
+| 20. | ![img][004] | ❋ | [Tweepy](https://github.com/tweepy/tweepy) | Python | Twitter API client |
 | 21. | ![img][002] | | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
 | 22. | ![img][003] | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
 | 23. | ![img][006] | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
@@ -192,7 +203,7 @@ Apps that can be used across multiple social media apps.
 |  5. | ![img][001] | ❋ | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
 |  6. | ![img][004] | ❋ | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
 |  7. | ![img][004] | ❋ | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
-|  8. | ![img][006] || [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+|  8. | ![img][006] |  | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
 |  9. | ![img][004] | ❋ | [PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) | JavaScript | Prettier embeds for your YouTubes |
 | 10. | ![img][004] | ❋ | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
 | 11. | ![img][001] | ❋ | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
