@@ -10,9 +10,11 @@
 
 <h3 align="center">List of unofficial apps and tools that enhance social media user capabilities and experiences.</h3>
 
-**Inclusion criteria**
+#### Inclusion criteria
 
 These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms.  Also included are solutions that repurpose social media platforms and their content in elevated ways.
+
+#### Motivation
 
 The purpose of this document is to serve as a handy resource when you are looking for existing solutions, or intend to build upon some platform and are looking for a baseline of what already exists. This is a living document, expect it to grow over time. 
 
