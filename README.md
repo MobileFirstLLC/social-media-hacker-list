@@ -7,8 +7,17 @@
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
-
 <h3 align="center">List of unofficial apps and tools that enhance social media user capabilities and experiences.</h3>
+<h3 align="center">
+  <a href="#facebook">Facebook</a> &bull; 
+  <a href="#instagram">Instagram</a> &bull; 
+  <a href="#linkedin">LinkedIn</a> &bull; 
+  <a href="#reddit">Reddit</a> &bull; 
+  <a href="#snapchat">Snapchat</a> &bull; 
+  <a href="#twitter">Twitter</a> &bull; 
+  <a href="#youtube">Youtube</a> &bull; 
+  <a href="#multi-platform">Multi-Platform</a>
+</h3>
 
 #### Inclusion criteria
 
@@ -22,18 +31,9 @@ The purpose of this document is to serve as a handy resource when you are lookin
 
 If you would like to add a project, flag an inactive project, or suggest some other correction, edit this readme and submit a PR.
 
-#### Platforms
+* * *
 
-**[Facebook](#facebook) &bull; 
-[Instagram](#instagram) &bull; 
-[LinkedIn](#linkedin) &bull; 
-[Multi-Platform](#multi-platform) &bull; 
-[Reddit](#reddit) &bull; 
-[Snapchat](#snapchat) &bull; 
-[Twitter](#twitter) &bull; 
-[Youtube](#youtube)**
-
-#### Tags Legend
+#### Legend
 
 ![img][001] Alternative client &nbsp; &nbsp;
 ![img][002] Analytics & Data &nbsp; &nbsp;
@@ -42,11 +42,10 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 ![img][004] Dev Tools &nbsp; &nbsp;
 ![img][005] Image  &nbsp; &nbsp; <br/>
 ![img][006] Productivity & Tools  &nbsp; &nbsp;
-![img][007] Video
-
+![img][007] Video  &nbsp; &nbsp;
 **❋**  = Open source
 
----
+* * *
 
 ### Facebook
 
