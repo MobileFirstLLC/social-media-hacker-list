@@ -1,24 +1,31 @@
-### Choose 1 category
+### Choose category
 
-- [ ] Facebook
+- If solution works primarily with 1 platform, choose that platform
+- If the solution works exactly between 2 platforms of equal weight, for example, "post instagram photos to twitter", then choose those two platforms
+- Otherwise choose multi-platform
+
+- [ ] Facebook 
 - [ ] Instagram 
-- [ ] LinkedIn 
-- [ ] Multi-Platform
+- [ ] LinkedIn  
+- [ ] Multi-platform 
 - [ ] Reddit 
 - [ ] Snapchat  
-- [ ] TikTok 
-- [ ] Twitter 
-- [ ] Youtube
+- [ ] TikTok  
+- [ ] Twitter  
+- [ ] Youtube 
 - [ ] Other: {specify}
 
-### Did you include:
+### I have included...
 
-- [ ] App name
-- [ ] Appropriate tags
-- [ ] Link to app
-- [ ] Platform(s)
-- [ ] Short description
+- [ ] app name
+- [ ] appropriate tag
+- [ ] link to app and open source link if applicable
+- [ ] platform(s)
+- [ ] short description
 
+* * *
 
-- You must check off all of the above to have your PR approved
-- Please maintain numbering and case-insensitive, alphabetical ordering by app name
+You must check off all of the above to have your PR approved.<br/>
+Please maintain numbering and case-insensitive, alphabetical ordering by app name
+
+* * *
