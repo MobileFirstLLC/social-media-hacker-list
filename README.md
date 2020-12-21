@@ -202,7 +202,7 @@ Apps that can be used across multiple social media apps.
 | 27. | ![img][001] | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
 | 28. | ![img][006] | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
 | 29. | ![img][004] | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 30. | ![img][002] | | [TwitterIPLIsts](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 30. | ![img][002] | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
 | 31. | ![img][007] | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
 | 32. | ![img][004] | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
 | 33. | ![img][008] | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
