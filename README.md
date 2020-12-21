@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-130-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-135-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -116,23 +116,24 @@ Apps that can be used across multiple social media apps.
 |  5. | ![img][002] | | [Dasheroo](https://dasheroo.com) | Web | Analytics for social media |
 |  6. | ![img][003] | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram | 
 |  7. | ![img][007] | | [Glitterly](https://www.glitterly.app/) | Web | Make videos of apps to share on social media |
-|  8. | ![img][006] | | [Hootsuite](https://hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
-|  9. | ![img][006] | | [I Lazy To Read](https://ilazytoread.herokuapp.com/) | Web | Auto-summarize any online article |
-| 10. | ![img][004] | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 11. | ![img][003] | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 12. | ![img][006] | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 13. | ![img][003] | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
-| 14. | ![img][005] | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
-| 15. | ![img][005] | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 16. | ![img][004] | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 17. | ![img][004] | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 18. | ![img][004] | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
-| 19. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 20. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 21. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 22. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 23. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 24. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+|  8. | ![img][008] | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+|  9. | ![img][006] | | [Hootsuite](https://hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
+| 10. | ![img][006] | | [I Lazy To Read](https://ilazytoread.herokuapp.com/) | Web | Auto-summarize any online article |
+| 11. | ![img][004] | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 12. | ![img][003] | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 13. | ![img][006] | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 14. | ![img][003] | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
+| 15. | ![img][005] | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
+| 16. | ![img][005] | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 17. | ![img][004] | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 18. | ![img][004] | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 19. | ![img][004] | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 20. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 21. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 22. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 23. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 24. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 25. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -173,7 +174,7 @@ Apps that can be used across multiple social media apps.
 | # | ` ` |  |  Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | ![img][007] | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-|  2. | ![img][001] | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |
+|  2. | ![img][001] | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
 |  3. | ![img][002] | | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | Dataset | Twitter handles for members of US 116th Congress | 
 |  4. | ![img][002] | | [Ilo](http://ilo.so/) | Web | Twitter analytics |
 |  5. | ![img][005] | | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
@@ -181,26 +182,30 @@ Apps that can be used across multiple social media apps.
 |  7. | ![img][006] | | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
 |  8. | ![img][005] | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
 |  9. | ![img][002] | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
-| 10. | ![img][004] | [❋](https://github.com/OisinMoran/quinetweet) | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | Code to generate a tweet that quotes itself |
-| 11. | ![img][005] | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
-| 12. | ![img][002] | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 13. | ![img][004] | | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
-| 14. | ![img][006] | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
-| 15. | ![img][001] | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 16. | ![img][006] | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 17. | ![img][002] | [❋](https://github.com/oduwsdl/tweetedat) | [TweetedAt](https://oduwsdl.github.io/tweetedat/) | Web | Extracts date and time from the tweet ID | 
-| 18. | ![img][006] | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 19. | ![img][005] | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 20. | ![img][004] | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 21. | ![img][002] | | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
-| 22. | ![img][003] | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 23. | ![img][006] | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 24. | ![img][001] | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
-| 25. | ![img][006] | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 26. | ![img][004] | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 27. | ![img][007] | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 28. | ![img][004] | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 29. | ![img][008] | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
+| 10. | ![img][004] | [❋](https://github.com/OisinMoran/quinetweet) | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | How to post self-quoting tweet |
+| 11. | ![img][008] | [❋](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | [Quotes Twitter Bot](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | Python | Twitter bot for daily famous quotes |
+| 12. | ![img][004] | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 13. | ![img][005] | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
+| 14. | ![img][002] | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 15. | ![img][004] | | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
+| 16. | ![img][008] | [❋](https://github.com/simplyrangel/this-bot-quotes) | [This Bot Quotes](https://github.com/simplyrangel/this-bot-quotes) | Python | Bot that saves random quote to an image and tweets the image with several hashtags |
+| 17. | ![img][006] | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |  
+| 18. | ![img][001] | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 19. | ![img][006] | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 20. | ![img][002] | [❋](https://github.com/oduwsdl/tweetedat) | [TweetedAt](https://oduwsdl.github.io/tweetedat/) | Web | Extracts date and time from the tweet ID | 
+| 21. | ![img][006] | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 22. | ![img][005] | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 23. | ![img][004] | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 24. | ![img][002] | | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
+| 25. | ![img][003] | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 26. | ![img][006] | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 27. | ![img][001] | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
+| 28. | ![img][006] | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 29. | ![img][004] | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 30. | ![img][002] | | [TwitterIPLIsts](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 31. | ![img][007] | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 32. | ![img][004] | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 33. | ![img][008] | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
 
 * * *
 
