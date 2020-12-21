@@ -36,7 +36,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 ![img][008] Bots &nbsp; &nbsp;
 ![img][003] Content creation  &nbsp; &nbsp;
 ![img][004] For Developers &nbsp; &nbsp;
-![img][005] Image  &nbsp; &nbsp;
+![img][005] Image  &nbsp; &nbsp;<br/>
 ![img][006] Productivity & Tools &nbsp; &nbsp;
 ![img][007] Video  &nbsp; &nbsp;
 **❋**  = Open source
