@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-136-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-145-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -125,15 +125,16 @@ Apps that can be used across multiple social media apps.
 | 14. | ![img][003] | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
 | 15. | ![img][005] | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
 | 16. | ![img][005] | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 17. | ![img][004] | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 18. | ![img][004] | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 19. | ![img][004] | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
-| 20. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 21. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 22. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 23. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 24. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 25. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 17. | ![img][004] | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
+| 18. | ![img][004] | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 19. | ![img][004] | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 20. | ![img][004] | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 21. | ![img][003] | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 22. | ![img][007] | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 23. | ![img][002] | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 24. | ![img][004] | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 25. | ![img][007] | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 26. | ![img][007] | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -142,18 +143,26 @@ Apps that can be used across multiple social media apps.
 | # | ` ` |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | ![img][001] | | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
-|  2. | ![img][001] | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client | 
+|  2. | ![img][001] | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 |  3. | ![img][008] | [❋](https://github.com/MobileFirstLLC/first-bot-for-reddit) | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
 |  4. | ![img][002] | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
-|  5. | ![img][001] | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
-|  6. | ![img][002] | | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
-|  7. | ![img][004] | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-|  8. | ![img][001] | | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
-|  9. | ![img][001] | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-| 10. | ![img][001] | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 11. | ![img][001] | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
-| 12. | ![img][001] | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
-| 13. | ![img][004] | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+|  5. | ![img][001] | | [Gallery for reddit](https://play.google.com/store/apps/details?id=org.mightyfrog.android.redditgallery) | Android | Image browsing app for image & picture related subreddits |
+|  6. | ![img][001] | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
+|  7. | ![img][001] | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
+|  8. | ![img][001] | | [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) | Android |  Reddit client that provides a fresh, never before experience of Reddit |
+|  9. | ![img][002] | | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
+| 10. | ![img][001] | [❋](https://github.com/spikecodes/libreddit) | [Libreddit](https://libredd.it/) | Web | Private front-end for Reddit |
+| 11. | ![img][001] | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
+| 12. | ![img][004] | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
+| 13. | ![img][001] | | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
+| 14. | ![img][004] | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
+| 15. | ![img][008] | [❋](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | [Reddit-Karma-Bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | Python | Bot for farming karma |
+| 16. | ![img][001] | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 17. | ![img][001] | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 18. | ![img][001] | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 19. | ![img][001] | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
+| 20. | ![img][001] | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| 21. | ![img][004] | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
 
 * * * 
 
