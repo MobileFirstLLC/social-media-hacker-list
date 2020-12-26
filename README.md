@@ -45,7 +45,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Facebook
 
-| # | ` ` |  | Name | Platform | Description | 
+| # |  |  | Name | Platform | Description | 
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟪 | [❋](https://github.com/specious/facebook-cli) | [Facebook CLI](https://github.com/specious/facebook-cli) | Ruby | Command line FB client | 
 |  2. | 🟫 | [❋](https://github.com/node-facebook/facebook-node-sdk) | [Facebook NodeJS SDK](https://github.com/node-facebook/facebook-node-sdk) | JavaScript | NodeJS Library for Facebook |
@@ -59,7 +59,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### Instagram
 
-| # | ` ` |  | Name | Platform | Description |
+| # |  |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟨 | | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
 |  2. | 🟪 | [❋](https://github.com/austinhuang0131/barinsta) | [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) | Android | Open source client |
@@ -79,7 +79,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 ### LinkedIn
 
-| # | ` ` |  | Name | Platform | Description |
+| # |  |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟫 | [❋](https://github.com/coding-ai/EasyApply-Linkedin) | [EasyApply-Linkedin](https://github.com/coding-ai/EasyApply-Linkedin) | Python | Automatically apply for jobs on LinkedIn |
 |  2. | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
@@ -107,7 +107,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 Apps that can be used across multiple social media apps.
 
-| # | ` ` |  | Name | Platform | Description |
+| # |  |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
 |  2. | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
@@ -140,7 +140,7 @@ Apps that can be used across multiple social media apps.
 
 ### Reddit
 
-| # | ` ` |  | Name | Platform | Description |
+| # |  |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
 |  2. | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
@@ -168,7 +168,7 @@ Apps that can be used across multiple social media apps.
 
 ### Snapchat
 
-| # | ` ` |  | Name | Platform | Description |
+| # | |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 | 1. | 🟫 | [❋](https://github.com/emermacko/download-snap-memories) | [Download snapchat memories](https://github.com/emermacko/download-snap-memories) | Python |  Download all memories from Snapchat |
 | 2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
@@ -180,7 +180,7 @@ Apps that can be used across multiple social media apps.
 
 ### Twitter
 
-| # | ` ` |  |  Name | Platform | Description |
+| # |  |  |  Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
 |  2. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
@@ -224,7 +224,7 @@ Apps that can be used across multiple social media apps.
 
 ### Youtube
 
-| # | ` ` |  | Name | Platform | Description |
+| # |  |  | Name | Platform | Description |
 | :---: | --- | ---| --- | --- | --- |
 |  1. | 🟨 | [❋](https://github.com/alltomp3/alltomp3-app) | [AllToMP3](https://alltomp3.org/) | Web | Open source video downloader |
 |  2. | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube](https://alltubedownload.net/) | Web | Web GUI for youtube-dl |
@@ -247,13 +247,3 @@ Apps that can be used across multiple social media apps.
 | 19. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
 | 20. | 🟫 | [❋](https://github.com/0xced/XCDYouTubeKit) | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
 
-
-
-[001]: https://img.shields.io/badge/-%E2%80%83-E040FB?style=flat-square
-[002]: https://img.shields.io/badge/-%E2%80%83-FF8F00?style=flat-square
-[003]: https://img.shields.io/badge/-%E2%80%83-304FFE?style=flat-square
-[004]: https://img.shields.io/badge/-%E2%80%83-795548?style=flat-square
-[005]: https://img.shields.io/badge/-%E2%80%83-64DD17?style=flat-square
-[006]: https://img.shields.io/badge/-%E2%80%83-FDD835?style=flat-square
-[007]: https://img.shields.io/badge/-%E2%80%83-F50057?style=flat-square
-[008]: https://img.shields.io/badge/-%E2%80%83-00BCD4?style=flat-square
