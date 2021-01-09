@@ -12,6 +12,7 @@
   <a href="#facebook">Facebook</a> &bull; 
   <a href="#instagram">Instagram</a> &bull; 
   <a href="#linkedin">LinkedIn</a> &bull; 
+  <a href="#mastodon">Mastodon</a> &bull;   
   <a href="#reddit">Reddit</a> &bull; 
   <a href="#snapchat">Snapchat</a> &bull; 
   <a href="#twitter">Twitter</a> &bull; 
@@ -100,6 +101,27 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 | 17. | 🟫 | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
 | 18. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
 | 19. | 🟧 | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+
+* * *
+
+### Mastodon
+
+| # |  |  | Name | Platform | Description |
+| :---: | --- | --- | --- | --- | --- |
+|  1. | 🟪 |  | [Amaroq for Mastodon](https://apps.apple.com/us/app/amarok-for-mastodon/id1214116200) | iOS | Lightweight universal client for any Mastodon instance |
+|  2. | 🟪 | [❋](https://framagit.org/tom79/fedilab) | [Fedilab](https://fedilab.app) | Android | multifunctional Android client that supports Mastodon |
+|  3. | 🟪 |  | [Halcyon](https://www.halcyon.social) | Web | A webclient which looks like Twitter |
+|  4. | 🟪 | [❋](https://github.com/hyperspacedev/hyperspace) | [Hyperspace](https://hyperspace.marquiskurt.net) | Web | The new beautiful, fluffy client for Mastodon in React + TypeScript |
+|  5. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
+|  6. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
+|  7. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
+|  8. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
+|  9. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
+| 10. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
+| 11. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 12. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
+| 13. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 14. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) | Android | An Android client for Mastodon |
 
 * * *
 
