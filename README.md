@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-163-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-164-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -114,14 +114,15 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 |  4. | 🟪 | [❋](https://github.com/hyperspacedev/hyperspace) | [Hyperspace](https://hyperspace.marquiskurt.net) | Web | The new beautiful, fluffy client for Mastodon in React + TypeScript |
 |  5. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
 |  6. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
-|  7. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
-|  8. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
-|  9. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
-| 10. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
-| 11. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 12. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
-| 13. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 14. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) | Android | An Android client for Mastodon |
+|  7. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
+|  8. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
+|  9. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
+| 10. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
+| 11. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
+| 12. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 13. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
+| 14. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 15. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) | Android | An Android client for Mastodon |
 
 * * *
 
