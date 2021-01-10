@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-165-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-166-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -255,20 +255,21 @@ Apps that can be used across multiple social media apps.
 |  2. | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube](https://alltubedownload.net/) | Web | Web GUI for youtube-dl |
 |  3. | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
 |  4. | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
-|  5. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
-|  6. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
-|  7. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
-|  8. | 🟨 |  | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
-|  9. | 🟫 | [❋](https://github.com/mike-zarandona/PrettyEmbed.js) | [PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) | JavaScript | Prettier embeds for your YouTubes |
-| 10. | 🟫 | [❋](https://github.com/nficano/pytube) | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
-| 11. | 🟪 | [❋](https://github.com/ram-on/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
-| 12. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
-| 13. | 🟪 | [❋](https://github.com/tizonia/tizonia-openmax-il) | [Tizonia](https://github.com/tizonia/tizonia-openmax-il) | Linux | Command-line streaming music client |
-| 14. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 15. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 16. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 17. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 18. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 19. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
-| 20. | 🟫 | [❋](https://github.com/0xced/XCDYouTubeKit) | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
+|  5. | 🟨 |  | [Clean Up Youtube](https://chrome.google.com/webstore/detail/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+|  6. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
+|  7. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+|  8. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
+|  9. | 🟨 |  | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+| 10. | 🟫 | [❋](https://github.com/mike-zarandona/PrettyEmbed.js) | [PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) | JavaScript | Prettier embeds for your YouTubes |
+| 11. | 🟫 | [❋](https://github.com/nficano/pytube) | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
+| 12. | 🟪 | [❋](https://github.com/ram-on/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
+| 13. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
+| 14. | 🟪 | [❋](https://github.com/tizonia/tizonia-openmax-il) | [Tizonia](https://github.com/tizonia/tizonia-openmax-il) | Linux | Command-line streaming music client |
+| 15. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 16. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 17. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 18. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 19. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 20. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+| 21. | 🟫 | [❋](https://github.com/0xced/XCDYouTubeKit) | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
 
