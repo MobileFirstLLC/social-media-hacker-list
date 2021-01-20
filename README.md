@@ -165,7 +165,7 @@ Apps that can be used across multiple social media apps.
 
 | # |  |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-|  1. | ⬛ | [❋](https://github.com/micah5/ace-attorney-reddit-bot)  | [Ace Attorney Reddit bot](https://www.reddit.com/user/objection-bot/) | Reddit bot that turns comment chains into ace attorney scenes. |
+|  1. | ⬛ | [❋](https://github.com/micah5/ace-attorney-reddit-bot)  | [Ace Attorney Reddit bot](https://www.reddit.com/user/objection-bot/) | Python | Reddit bot that turns comment chains into ace attorney scenes. |
 |  2. | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client | 
 |  3. | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 |  4. | ⬛ | [❋](https://github.com/MobileFirstLLC/first-bot-for-reddit) | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
