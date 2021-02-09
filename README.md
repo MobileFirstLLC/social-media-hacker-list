@@ -140,24 +140,25 @@ Apps that can be used across multiple social media apps.
 |  6. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram | 
 |  7. | 🟥 | | [Glitterly](https://www.glitterly.app/) | Web | Make videos of apps to share on social media |
 |  8. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-|  9. | 🟨 | | [Hootsuite](https://hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
-| 10. | 🟨 | | [I Lazy To Read](https://ilazytoread.herokuapp.com/) | Web | Auto-summarize any online article |
-| 11. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 12. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 13. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 14. | 🟦 | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
-| 15. | 🟩 | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
-| 16. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 17. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
-| 18. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 19. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 20. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
-| 21. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 22. | 🟥 | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 23. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 24. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 25. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 26. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+|  9. | ⬛ | | [HandleDroid](https://handledroid.com/) | Web | Sends an alert when a desired username is released on Twitter, Facebook or Instagram |
+| 10. | 🟨 | | [Hootsuite](https://hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
+| 11. | 🟨 | | [I Lazy To Read](https://ilazytoread.herokuapp.com/) | Web | Auto-summarize any online article |
+| 12. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 13. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 14. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 15. | 🟦 | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
+| 16. | 🟩 | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
+| 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 18. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
+| 19. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 20. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 21. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 22. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 23. | 🟥 | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 24. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 25. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 26. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 27. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
