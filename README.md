@@ -13,7 +13,7 @@
   <a href="#instagram">Instagram</a> &bull; 
   <a href="#linkedin">LinkedIn</a> &bull; 
   <a href="#mastodon">Mastodon</a> &bull;   
-  <a href="#reddit">Reddit</a> &bull; 
+  <a href="#reddit">Reddit</a> <br/>
   <a href="#snapchat">Snapchat</a> &bull; 
   <a href="#twitter">Twitter</a> &bull; 
   <a href="#youtube">Youtube</a> &bull; 
