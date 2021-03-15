@@ -205,7 +205,7 @@ Apps that can be used across multiple social media apps.
 |  7. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | [snapmap-dl](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | Python | Download stories from SnapMap with and without filter/overlay | 
 |  8. | 🟫 | [❋](https://github.com/verdie-g/snap-data-analyzer) | [snap-stats](https://github.com/verdie-g/snap-data-analyzer) | NodeJs | Analyze the contents of your Snapchat data export |
 |  9. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
-| 10. | 🟨 | [❋](https://github.com/jusleg/snaptag) | [Snaptag](https://snapcodes.herokuapp.com/) | | Make your own custom snapcode |
+| 10. | 🟨 | [❋](https://github.com/jusleg/snaptag) | [Snaptag](https://snapcodes.herokuapp.com/) | Web | Make your own custom snapcode |
 
 * * *
 
