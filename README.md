@@ -196,7 +196,7 @@ Apps that can be used across multiple social media apps.
 
 | # | |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-|  1. | 🟫 | [❋](https://github.com/emermacko/download-snap-memories) | [Download snapchat memories](https://github.com/emermacko/download-snap-memories) | Python |  Download all memories from Snapchat |
+|  1. | 🟫 | [❋](https://github.com/macie-k/download-snap-memories) | [Download snapchat memories](https://github.com/macie-k/download-snap-memories) | Python |  Download all memories from Snapchat |
 |  2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
 |  3. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
 |  4. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
