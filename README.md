@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-171-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-176-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -150,15 +150,16 @@ Apps that can be used across multiple social media apps.
 | 16. | 🟩 | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
 | 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 18. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
-| 19. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 20. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 21. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
-| 22. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 23. | 🟥 | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
-| 24. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 25. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 26. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 27. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 19. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
+| 20. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 21. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 22. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 23. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 24. | 🟥 | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 25. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 26. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 27. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 28. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -197,9 +198,13 @@ Apps that can be used across multiple social media apps.
 | :---: | --- | --- | --- | --- | --- |
 | 1. | 🟫 | [❋](https://github.com/emermacko/download-snap-memories) | [Download snapchat memories](https://github.com/emermacko/download-snap-memories) | Python |  Download all memories from Snapchat |
 | 2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-| 3. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat Public Story Downlaoder |
-| 4. | 🟧 | | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
-| 5. | 🟫 | [❋](https://github.com/verdie-g/snap-data-analyzer) | [snap-stats](https://github.com/verdie-g/snap-data-analyzer) | NodeJs | Analyze the contents of your Snapchat data export |
+| 3. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+| 4. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
+| 5. | 🟧 | | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
+| 6. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | [snapmap-dl](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | Python | Download stories from SnapMap with and without filter/overlay | 
+| 7. | 🟫 | [❋](https://github.com/verdie-g/snap-data-analyzer) | [snap-stats](https://github.com/verdie-g/snap-data-analyzer) | NodeJs | Analyze the contents of your Snapchat data export |
+| 8. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
+| 9. | 🟨 | [❋](https://github.com/jusleg/snaptag) | [Snaptag](https://snapcodes.herokuapp.com/) | | Make your own custom snapcode |
 
 * * *
 
