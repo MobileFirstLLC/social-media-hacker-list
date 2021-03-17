@@ -122,7 +122,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 | 12. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
 | 13. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
 | 14. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 15. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) | Android | An Android client for Mastodon |
+| 15. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
 
 * * *
 
