@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-185-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-186-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -215,49 +215,50 @@ Apps that can be used across multiple social media apps.
 | # |  |  |  Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
-|  2. | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
-|  3. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
-|  4. | 🟨 | [❋](https://github.com/MobileFirstLLC/doucheblock) | [DoucheBlock for Twitter](https://chrome.google.com/webstore/detail/eeledoologbepiegnccedjigjkblhmhi) | Extension | Block anyone with specific keywords in their Twitter bio |
-|  5. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-|  6. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
-|  7. | 🟧 | | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | Dataset | Twitter handles for members of US 116th Congress | 
-|  8. | 🟧 | | [Ilo](http://ilo.so/) | Web | Twitter analytics |
-|  9. | 🟩 | | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
-| 10. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter](https://nitter.net) | Web | open-source front-end mirror of Twitter | 
-| 11. | 🟨 | | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
-| 12. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 13. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
-| 14. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
-| 15. | 🟫 | [❋](https://github.com/OisinMoran/quinetweet) | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | How to post self-quoting tweet |
-| 16. | ⬛ | [❋](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | [Quotes Twitter Bot](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | Python | Twitter bot for daily famous quotes |
-| 17. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 18. | 🟨 | | [squearl](https://squearl.com/) | Web | twitter scheduling tool | 
-| 19. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
-| 20. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 21. | 🟫 | | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
-| 22. | 🟪 | | [Talon for Twitter](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) | Android | Alternative Twitter client |
-| 23. | ⬛ | [❋](https://github.com/simplyrangel/this-bot-quotes) | [This Bot Quotes](https://github.com/simplyrangel/this-bot-quotes) | Python | Bot that saves random quote to an image and tweets the image with several hashtags |
-| 24. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 25. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
-| 26. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 27. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 28. | 🟧 | [❋](https://github.com/oduwsdl/tweetedat) | [TweetedAt](https://oduwsdl.github.io/tweetedat/) | Web | Extracts date and time from the tweet ID | 
-| 29. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 30. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 31. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 32. | 🟧 | | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
-| 33. | 🟦 | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 34. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 35. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
-| 36. | 🟨 | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 37. | 🟫 | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 38. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
-| 39. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 40. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 41. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 42. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 43. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client | 
-| 44. | ⬛ | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
+|  2. | 🟧 | | [Blindspotter](https://ground.news/blindspotter) | Web | Analyze the news diet of any account on Twitter |
+|  3. | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
+|  4. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
+|  5. | 🟨 | [❋](https://github.com/MobileFirstLLC/doucheblock) | [DoucheBlock for Twitter](https://chrome.google.com/webstore/detail/eeledoologbepiegnccedjigjkblhmhi) | Extension | Block anyone with specific keywords in their Twitter bio |
+|  6. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
+|  7. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
+|  8. | 🟧 | | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | Dataset | Twitter handles for members of US 116th Congress | 
+|  9. | 🟧 | | [Ilo](http://ilo.so/) | Web | Twitter analytics |
+| 10. | 🟩 | | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
+| 11. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter](https://nitter.net) | Web | open-source front-end mirror of Twitter | 
+| 12. | 🟨 | | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
+| 13. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| 14. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
+| 15. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
+| 16. | 🟫 | [❋](https://github.com/OisinMoran/quinetweet) | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | How to post self-quoting tweet |
+| 17. | ⬛ | [❋](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | [Quotes Twitter Bot](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | Python | Twitter bot for daily famous quotes |
+| 18. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 19. | 🟨 | | [squearl](https://squearl.com/) | Web | twitter scheduling tool | 
+| 20. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
+| 21. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 22. | 🟫 | | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
+| 23. | 🟪 | | [Talon for Twitter](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) | Android | Alternative Twitter client |
+| 24. | ⬛ | [❋](https://github.com/simplyrangel/this-bot-quotes) | [This Bot Quotes](https://github.com/simplyrangel/this-bot-quotes) | Python | Bot that saves random quote to an image and tweets the image with several hashtags |
+| 25. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 26. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
+| 27. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 28. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 29. | 🟧 | [❋](https://github.com/oduwsdl/tweetedat) | [TweetedAt](https://oduwsdl.github.io/tweetedat/) | Web | Extracts date and time from the tweet ID | 
+| 30. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 31. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 32. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 33. | 🟧 | | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
+| 34. | 🟦 | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 35. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 36. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
+| 37. | 🟨 | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 38. | 🟫 | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 39. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
+| 40. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 41. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 42. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 43. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 44. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client | 
+| 45. | ⬛ | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
 
 * * *
 
