@@ -172,8 +172,8 @@ Apps that can be used across multiple social media apps.
 |  2. | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client | 
 |  3. | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 |  4. | ⬛ | [❋](https://github.com/MobileFirstLLC/first-bot-for-reddit) | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
-|  5. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
-|  6. | ⬛ | [❋](https://github.com/umbresp/flairBot) | [FlairBot](https://github.com/umbresp/flairBot) | Bot | A moderation tool for reddit that flairs posts based on comment scores. | 
+|  5. | ⬛ | [❋](https://github.com/umbresp/flairBot) | [FlairBot](https://github.com/umbresp/flairBot) | Bot | A moderation tool for reddit that flairs posts based on comment scores. | 
+|  6. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
 |  7. | 🟪 | | [Gallery for reddit](https://play.google.com/store/apps/details?id=org.mightyfrog.android.redditgallery) | Android | Image browsing app for image & picture related subreddits |
 |  8. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
 |  9. | 🟪 | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
