@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-195-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-196-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -173,24 +173,25 @@ Apps that can be used across multiple social media apps.
 |  3. | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 |  4. | ⬛ | [❋](https://github.com/MobileFirstLLC/first-bot-for-reddit) | [First bot for Reddit](https://github.com/MobileFirstLLC/first-bot-for-reddit) | Python | Starter tutorial for building a Reddit bot |
 |  5. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
-|  6. | 🟪 | | [Gallery for reddit](https://play.google.com/store/apps/details?id=org.mightyfrog.android.redditgallery) | Android | Image browsing app for image & picture related subreddits |
-|  7. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
-|  8. | 🟪 | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
-|  9. | 🟪 | | [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) | Android |  Reddit client that provides a fresh, never before experience of Reddit |
-| 10. | 🟧 | | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
-| 11. | 🟪 | [❋](https://github.com/spikecodes/libreddit) | [Libreddit](https://libredd.it/) | Web | Private front-end for Reddit |
-| 12. | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
-| 13. | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-| 14. | 🟪 | | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
-| 15. | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
-| 16. | ⬛ | [❋](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | [Reddit-Karma-Bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | Python | Bot for farming karma |
-| 17. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-| 18. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 19. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 20. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 21. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
-| 22. | 🟪 | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
-| 23. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+|  6. | ⬛ | [❋](https://github.com/umbresp/flairBot) | [FlairBot](https://github.com/umbresp/flairBot) | Bot | A moderation tool for reddit that flairs posts based on comment scores. | 
+|  7. | 🟪 | | [Gallery for reddit](https://play.google.com/store/apps/details?id=org.mightyfrog.android.redditgallery) | Android | Image browsing app for image & picture related subreddits |
+|  8. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
+|  9. | 🟪 | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
+| 10. | 🟪 | | [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) | Android |  Reddit client that provides a fresh, never before experience of Reddit |
+| 11. | 🟧 | | [KarmaDB](https://www.karmalb.com/) | Web | Reddit karma leaderboard | 
+| 12. | 🟪 | [❋](https://github.com/spikecodes/libreddit) | [Libreddit](https://libredd.it/) | Web | Private front-end for Reddit |
+| 13. | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
+| 14. | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
+| 15. | 🟪 | | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
+| 16. | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
+| 17. | ⬛ | [❋](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | [Reddit-Karma-Bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | Python | Bot for farming karma |
+| 18. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 19. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 20. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 21. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
+| 22. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
+| 23. | 🟪 | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| 24. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
 
 * * * 
 
