@@ -17,7 +17,6 @@ failures = []
 
 def false_alert(status_code, url):
     return status_code in acceptable_headers or \
-        # sometimes reddit throws 502 for bots -> bypass
         'reddit' in url and status_code == 502
 
 print(f'Checking {total} urls...')
