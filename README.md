@@ -3,7 +3,7 @@
   <br/><br/>☙✽ Social Media Hacker List ✽❧ 
   <br/><br/>
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-196-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-191-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
 </h1>
@@ -84,9 +84,9 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟫 | [❋](https://github.com/coding-ai/EasyApply-Linkedin) | [EasyApply-Linkedin](https://github.com/coding-ai/EasyApply-Linkedin) | Python | Automatically apply for jobs on LinkedIn |
 |  2. | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
-|  3. | 🟨 | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chrome.google.com/webstore/detail/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
+|  3. | 🟨 | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chrome.google.com/webstore/detail/indoors-show-glassdoor-ra/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
 |  4. | 🟦 | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-|  5. | 🟨 | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
+|  5. | 🟨 | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
 |  6. | 🟫 | [❋](https://github.com/tomquirk/linkedin-api) | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
 |  7. | 🟫 | [❋](https://github.com/rousan/linkedin-auto-connect) | [LinkedIn Auto Connect Tool](https://github.com/rousan/linkedin-auto-connect) | JavaScript | Automate connection requests on LinkedIn |
 |  8. | 🟧 | | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dataset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
@@ -100,7 +100,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 | 16. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
 | 17. | 🟫 | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
 | 18. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
-| 19. | 🟧 | | [SHIELD](https://shieldapp.ai/) | Web | Analytics |
+| 19. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -142,21 +142,20 @@ Apps that can be used across multiple social media apps.
 |  8. | 🟩 | | [Glitterly](https://www.glitterly.app/) | Web | Create beautiful images for social media |
 |  9. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
 | 10. | ⬛ | | [HandleDroid](https://handledroid.com/) | Web | Sends an alert when a desired username is released on Twitter, Facebook or Instagram |
-| 11. | 🟨 | | [Hootsuite](https://hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
+| 11. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
 | 12. | 🟨 | | [I Lazy To Read](https://ilazytoread.herokuapp.com/) | Web | Auto-summarize any online article |
 | 13. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 14. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
 | 15. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 | 16. | 🟦 | | [Moji BG](https://apps.apple.com/app/id1533341787) | iOS | Custom backgrounds for memojis |
-| 17. | 🟩 | | [Perfect Quote](https://www.perfectquote.app/) | iOS, Android | Find quotes that match your photo using AI |
-| 18. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 19. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
-| 20. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
-| 21. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 22. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 23. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
-| 24. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 25. | 🟥 | | [Story Creator](https://storycreatorapp.com/) | Web | Simple online video editing for digital creators |
+| 17. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
+| 19. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 20. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
+| 21. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
+| 22. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 23. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 24. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 25. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
 | 26. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
 | 27. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
 | 28. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
@@ -201,14 +200,13 @@ Apps that can be used across multiple social media apps.
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟫 | [❋](https://github.com/macie-k/download-snap-memories) | [Download snapchat memories](https://github.com/macie-k/download-snap-memories) | Python |  Download all memories from Snapchat |
 |  2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-|  3. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
-|  4. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
-|  5. | 🟧 | | [Snapdex](https://snapdex.com/) | Web | Searchable database of Snapchat usernames | 
+|  3. | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
+|  4. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+|  5. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
 |  6. | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
 |  7. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | [snapmap-dl](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | Python | Download stories from SnapMap with and without filter/overlay | 
 |  8. | 🟫 | [❋](https://github.com/verdie-g/snap-data-analyzer) | [snap-stats](https://github.com/verdie-g/snap-data-analyzer) | NodeJs | Analyze the contents of your Snapchat data export |
 |  9. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
-| 10. | 🟨 | [❋](https://github.com/jusleg/snaptag) | [Snaptag](https://snapcodes.herokuapp.com/) | Web | Make your own custom snapcode |
 
 * * *
 
@@ -217,56 +215,53 @@ Apps that can be used across multiple social media apps.
 | # |  |  |  Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
 |  1. | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
-|  2. | 🟧 | | [Blindspotter](https://ground.news/blindspotter) | Web | Analyze the news diet of any account on Twitter |
+|  2. | 🟧 | | [Blindspotter](https://ground.news/blindspotter/twitter) | Web | Analyze the news diet of any account on Twitter |
 |  3. | 🟨 | | [Bkmark](https://bkmark.io) | Extension, bot | Bookmark your favorite tweets |
 |  4. | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
 |  5. | 🟨 | | [Chime Social](https://chime.so/) | Web | Tweet when your audience is listening |
 |  6. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
 |  7. | 🟦 | | [Chirr App](https://getchirrapp.com/) | Web | Thread creation tool |
 |  8. | 🟨 | | [Dewey](https://getdewey.co/) | Web | Search, organize, and share all your Twitter bookmarks |
-|  9. | 🟨 | [❋](https://github.com/MobileFirstLLC/doucheblock) | [DoucheBlock for Twitter](https://chrome.google.com/webstore/detail/eeledoologbepiegnccedjigjkblhmhi) | Extension | Block anyone with specific keywords in their Twitter bio |
+|  9. | 🟨 | [❋](https://github.com/MobileFirstLLC/doucheblock) | [DoucheBlock for Twitter](https://chrome.google.com/webstore/detail/doucheblock-for-twitter/eeledoologbepiegnccedjigjkblhmhi) | Extension | Block anyone with specific keywords in their Twitter bio |
 | 10. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
 | 11. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
 | 12. | 🟧 | | [Handles for US Congress](https://github.com/oduwsdl/US-Congress) | Dataset | Twitter handles for members of US 116th Congress | 
-| 13. | 🟧 | | [Ilo](http://ilo.so/) | Web | Twitter analytics |
-| 14. | 🟩 | | [Mugshot Bot](https://www.mugshotbot.com/) | Web | Automated link previews |
-| 15. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter](https://nitter.net) | Web | open-source front-end mirror of Twitter | 
-| 16. | 🟨 | | [Notion Tweet](https://www.notiontweet.app/) | Web | Write, schedule, and see analytics of tweets on Notion |
-| 17. | 🟨 | | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
-| 18. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 19. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
-| 20. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
-| 21. | 🟫 | [❋](https://github.com/OisinMoran/quinetweet) | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | How to post self-quoting tweet |
-| 22. | ⬛ | [❋](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | [Quotes Twitter Bot](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | Python | Twitter bot for daily famous quotes |
-| 23. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
-| 24. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 25. | 🟨 | | [squearl](https://squearl.com/) | Web | twitter scheduling tool | 
-| 26. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
-| 27. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 28. | 🟫 | | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
-| 29. | 🟪 | | [Talon for Twitter](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) | Android | Alternative Twitter client |
-| 30. | ⬛ | [❋](https://github.com/simplyrangel/this-bot-quotes) | [This Bot Quotes](https://github.com/simplyrangel/this-bot-quotes) | Python | Bot that saves random quote to an image and tweets the image with several hashtags |
-| 31. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 32. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
-| 33. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 34. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
-| 35. | 🟧 | [❋](https://github.com/oduwsdl/tweetedat) | [TweetedAt](https://oduwsdl.github.io/tweetedat/) | Web | Extracts date and time from the tweet ID | 
-| 36. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 37. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 38. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 39. | 🟧 | | [TweetWords](https://tweetword.com/) | Web | Visualize word frequencies |
-| 40. | 🟦 | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
-| 41. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 42. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
-| 43. | 🟨 | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
-| 44. | 🟫 | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
-| 45. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
-| 46. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 47. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 48. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 49. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 50. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client | 
-| 51. | ⬛ | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
+| 13. | 🟧 | | [Ilo](https://ilo.so/) | Web | Twitter analytics |
+| 14. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
+| 15. | 🟨 | | [Notion Tweet](https://www.notiontweet.app/) | Web | Write, schedule, and see analytics of tweets on Notion |
+| 16. | 🟨 | | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
+| 17. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| 18. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
+| 19. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
+| 20. | 🟫 | [❋](https://github.com/OisinMoran/quinetweet) | [quinetweet](https://github.com/OisinMoran/quinetweet) | Python | How to post self-quoting tweet |
+| 21. | ⬛ | [❋](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | [Quotes Twitter Bot](https://github.com/miguel-osuna/Quotes-Twitter-Bot) | Python | Twitter bot for daily famous quotes |
+| 22. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
+| 23. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 24. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
+| 25. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 26. | 🟫 | | [The.Rip](https://the.rip/) | Web/Bot | Convert tweets to markdown |
+| 27. | 🟪 | | [Talon for Twitter](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) | Android | Alternative Twitter client |
+| 28. | ⬛ | [❋](https://github.com/simplyrangel/this-bot-quotes) | [This Bot Quotes](https://github.com/simplyrangel/this-bot-quotes) | Python | Bot that saves random quote to an image and tweets the image with several hashtags |
+| 29. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 30. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
+| 31. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 32. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline | 
+| 33. | 🟧 | [❋](https://github.com/oduwsdl/tweetedat) | [TweetedAt](https://oduwsdl.github.io/tweetedat/) | Web | Extracts date and time from the tweet ID | 
+| 34. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 35. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 36. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 37. | 🟦 | | [Tweet Game Maker](https://tweetgamemaker.mobilefirst.me/) | Web | Build games for Twitter |
+| 38. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 39. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
+| 40. | 🟨 | | [Twiks](https://twiks.pro/) | Extension | Adds special features like undo button |
+| 41. | 🟫 | [❋](https://github.com/twintproject/twint) | [Twint](https://github.com/twintproject/twint) | Python | Scrape twitter without authentication | 
+| 42. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
+| 43. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 44. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 45. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 46. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 47. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client | 
+| 48. | ⬛ | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
 
 * * *
 
@@ -278,27 +273,26 @@ Apps that can be used across multiple social media apps.
 |  2. | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube](https://alltubedownload.net/) | Web | Web GUI for youtube-dl |
 |  3. | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
 |  4. | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
-|  5. | 🟨 | | [Clean Up Youtube](https://chrome.google.com/webstore/detail/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
-|  6. | 🟨 | | [CONV.](https://www.convyoutube.com/) | Web | Convert any YouTube video to MP3, GIF or MP4 |
-|  7. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
-|  8. | 🟩 | | [gifs.com](https://gifs.com/) | Web | Make gifs of Youtube videos |
-|  9. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
-| 10. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
-| 11. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
-| 12. | 🟫 | [❋](https://github.com/mike-zarandona/PrettyEmbed.js) | [PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) | JavaScript | Prettier embeds for your YouTubes |
-| 13. | 🟫 | [❋](https://github.com/nficano/pytube) | [PyTube](https://github.com/nficano/pytube) | Python | Command line library for downloading videos |
-| 14. | 🟪 | [❋](https://github.com/ram-on/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
-| 15. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
-| 16. | 🟪 | [❋](https://github.com/tizonia/tizonia-openmax-il) | [Tizonia](https://github.com/tizonia/tizonia-openmax-il) | Linux | Command-line streaming music client |
-| 17. | 🟫 | [❋](https://github.com/0xced/XCDYouTubeKit) | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
-| 18. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
-| 19. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
-| 20. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
-| 21. | 🟨 | | [YouTubeDLD](https://www.youtubedld.com/) | Web | add 'dld' after 'youtube' in the URL and hit enter |
-| 22. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 23. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 24. | 🟨 | [❋](https://github.com/Foxite/YoutubeDL) | [YoutubeDL](https://github.com/Foxite/YoutubeDL/releases) | Android | An android app that quickly downloads youtube videos as MP3 | 
-| 25. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 26. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 27. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 28. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+|  5. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
+|  6. | 🟩 | | [gifs.com](https://gifs.com/) | Web | Make gifs of Youtube videos |
+|  7. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+|  8. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
+|  9. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+| 10. | 🟫 | [❋](https://github.com/mike-zarandona/PrettyEmbed.js) | [PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) | JavaScript | Prettier embeds for your YouTubes |
+| 11. | 🟫 | [❋](https://github.com/pytube/pytube) | [PyTube](https://github.com/pytube/pytube) | Python | Command line library for downloading videos |
+| 12. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
+| 13. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
+| 14. | 🟪 | [❋](https://github.com/tizonia/tizonia-openmax-il) | [Tizonia](https://github.com/tizonia/tizonia-openmax-il) | Linux | Command-line streaming music client |
+| 15. | 🟨 | | [Unhook - Remove YouTube Recommended Videos](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+| 16. | 🟫 | [❋](https://github.com/0xced/XCDYouTubeKit) | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
+| 17. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
+| 18. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
+| 19. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
+| 20. | 🟨 | | [YouTubeDLD](https://www.youtubedld.com/) | Web | add 'dld' after 'youtube' in the URL and hit enter |
+| 21. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 22. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 23. | 🟨 | [❋](https://github.com/Foxite/YoutubeDL) | [YoutubeDL](https://github.com/Foxite/YoutubeDL/releases) | Android | An android app that quickly downloads youtube videos as MP3 | 
+| 24. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 25. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 26. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 27. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
