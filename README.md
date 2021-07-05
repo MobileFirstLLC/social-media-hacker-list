@@ -6,6 +6,7 @@
   <img src='https://img.shields.io/badge/entries-191-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
+  <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
 </h1>
 <h3 align="center">List of unofficial apps and tools that enhance social media user capabilities and experiences.</h3>
 <h3 align="center">
@@ -22,7 +23,7 @@
 
 #### Inclusion criteria
 
-These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects ([checked periodically](https://github.com/MobileFirstLLC/social-media-hacker-list/actions)). Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. No sketchy extensions that must be run in dev mode.
+These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. No dead or broken projects. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. No sketchy extensions that must be run in dev mode.
 
 #### Contributing
 
