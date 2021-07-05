@@ -1,4 +1,4 @@
-"""check all urls in readme for OK response code"""
+"""check all urls in readme for ~OK (acceptable) response"""
 import re
 import sys
 import requests
