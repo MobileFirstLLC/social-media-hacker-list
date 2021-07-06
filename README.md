@@ -31,7 +31,7 @@ If you would like to add a project, flag an inactive project, or suggest some ot
 
 * * *
 
-#### Legend
+### Legend
 
 🟪 Alternative client &nbsp; &nbsp;
 🟧 Analytics & Data &nbsp; &nbsp;
