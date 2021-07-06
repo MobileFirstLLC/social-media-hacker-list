@@ -27,7 +27,7 @@ These are apps and projects made by unaffiliated developers. This list features 
 
 #### Contributing
 
-If you would like to add a project, flag an inactive project, or suggest some other correction, edit this readme and submit a PR.
+If you would like to add a project or suggest some other correction, edit this readme and submit a PR.
 
 * * *
 
