@@ -1,4 +1,4 @@
-name: Check URLs
+name: URL check
 
 on:
   schedule:
