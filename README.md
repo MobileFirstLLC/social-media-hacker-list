@@ -38,7 +38,7 @@ If you would like to add a project or suggest some other correction, edit this r
 ⬛ Bots &nbsp; &nbsp;
 🟦 Content creation  &nbsp; &nbsp;
 🟫 For Developers &nbsp; &nbsp;
-🟩 Image  &nbsp; &nbsp;<br/>
+🟩 Image  &nbsp; &nbsp;
 🟨 Productivity & Tools &nbsp; &nbsp;
 🟥 Video  &nbsp; &nbsp;
 **❋**  = Open source
