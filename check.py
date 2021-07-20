@@ -11,7 +11,7 @@ PATTERN = r'(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-z' \
 
 def is_ok(status_code, domain):
     return status_code in [200, 403, 406] or \
-           ('reddit' in domain and status_code == 502)
+           ('reddit.com' in domain and status_code == 502)
 
 
 def display_progress(n, progress, total):
