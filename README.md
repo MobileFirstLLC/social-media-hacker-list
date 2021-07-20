@@ -300,7 +300,7 @@ Apps that can be used across multiple social media apps.
 | 13. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
 | 14. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
 | 15. | 🟪 | [❋](https://github.com/tizonia/tizonia-openmax-il) | [Tizonia](https://github.com/tizonia/tizonia-openmax-il) | Linux | Command-line streaming music client |
-| 16. | 🟨 | | [Unhook - Remove YouTube Recommended Videos](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+| 16. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
 | 17. | 🟪 | | [Vanced](https://vancedapp.com/) | Android | Youtube client with built-in adblocking |
 | 18. | 🟫 | [❋](https://github.com/0xced/XCDYouTubeKit) | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | iOS, tvOS, macOS  | YouTube video player |  
 | 19. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
