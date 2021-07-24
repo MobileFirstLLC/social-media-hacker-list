@@ -1,0 +1,6 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section.main-content > p:first-child { display:none }
