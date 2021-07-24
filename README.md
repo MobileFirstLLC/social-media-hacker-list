@@ -1,7 +1,6 @@
-<h1 align="center">
-  🛠️ &nbsp; ⚗️ &nbsp; 🎉  
-  <br/><br/>☙✽ Social Media Hacker List ✽❧ 
-</h1>
+<p align="center">
+  <img src="https://socialify.git.ci/mobilefirstllc/social-media-hacker-list/image?description=1&font=Inter&pattern=Circuit%20Board&theme=Light" />
+</p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
   <img src='https://img.shields.io/badge/entries-210-orange?style=flat-square' />
@@ -9,7 +8,6 @@
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
 </p>
-<h3 align="center">List of unofficial apps and tools that enhance social media user capabilities and experiences.</h3>
 <h3 align="center">
   <a href="#facebook">Facebook</a> &bull; 
   <a href="#instagram">Instagram</a> &bull; 
