@@ -20,13 +20,13 @@ def path(url):
     return urlparse(url).path.split('/')
 
 
-def in_host(url, domain):
+def host(url, domain):
     return domain in urlparse(url).netloc
 
 
-def ok(status, domain):
+def ok(status, url):
     return status in [200, 403, 406] or \
-           (status == 502 and in_host(domain, 'reddit.com'))
+           (status == 502 and host(url, 'reddit.com'))
 
 
 def active(latest_change):
@@ -53,7 +53,7 @@ def active_repo(url):
         return False, response.status_code
     if not active(parse(loads(response.content)['updated_at'])):
         return False, "INACTIVE"
-    return True, "OK"
+    return True, 200
 
 
 def main():
@@ -63,7 +63,7 @@ def main():
 
     print(f'Checking {total} entries...')
     for index, url in enumerate(urls):
-        is_repo = in_host(url, 'github.com') and len(path(url)) > 2
+        is_repo = host(url, 'github.com') and len(path(url)) > 2
         try:
             success, code = active_repo(url) if is_repo \
                 else check_url(url, "HEAD")
