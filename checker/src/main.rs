@@ -2,9 +2,15 @@ use std::fs;
 use regex::Regex;
 use std::collections::HashSet;
 use std::env;
+use reqwest::StatusCode;
+use reqwest::Error;
+use serde::Deserialize;
+use url::{Url, ParseError};
 
-fn is_repo(url: &str) -> bool {
-    return url.contains("github.com");
+
+#[derive(Deserialize, Debug)]
+struct Repo {
+    updated_at: String,
 }
 
 fn is_ok(status: reqwest::StatusCode, url: &str) -> bool {
@@ -12,17 +18,47 @@ fn is_ok(status: reqwest::StatusCode, url: &str) -> bool {
         (status == 502 && url.contains("reddit.com"));
 }
 
-async fn check_repo(_url: &str) -> Result<bool, reqwest::Error> {
-    return Ok(true);
+fn path(u: &str) -> Result<Url, ParseError> {
+    let parsed = Url::parse(u)?;
+    return Ok(parsed);
 }
 
-async fn make_request(url: &str) -> Result<bool, reqwest::Error> {
+fn is_repo(u: &str) -> bool {
+    if !u.contains("github.com") { return false; }
+    match path(u) {
+        Ok(p) => return p.path().split("/").count() > 2,
+        _ => return false
+    }
+}
+
+async fn check_repo(u: &str) -> Result<StatusCode, Error> {
+    let mut owner: &str = "";
+    let mut repo: &str = "";
+    if let Ok(p) = path(u) {
+        let parts: Vec<&str> = p.path().split("/").collect();
+        //        owner = parts[1];
+        //        repo = parts[2];
+        //        println!("owner/repo: {} {}", _owner, _repo);
+    }
+
+    let request_url = format!("https://api.github.com/repos/{owner}/{repo}", owner = owner, repo = repo);
+    let client = reqwest::Client::builder().build()?;
+    let response = reqwest::get(&request_url).await?;
+    let status = response.status();
+    let data: Repo = response.json().await?;
+    println!("updated {} {}", status, data.updated_at);
+    if !is_ok(status, u) { return Ok(status); }
+    return Ok(status);
+}
+
+async fn check_url(url: &str) -> Result<StatusCode, Error> {
     let client = reqwest::Client::builder().build()?;
     let mut response = client.head(url).send().await?;
-    if is_ok(response.status(), url) { return Ok(true); }
+    if is_ok(response.status(), url) {
+        return Ok(response.status());
+    }
     response = client.get(url).send().await?;
-    if is_ok(response.status(), url) { return Ok(true); }
-    Ok(false)
+    return Ok(response.status());
 }
 
 #[tokio::main]
@@ -42,15 +78,13 @@ async fn main() {
     let mut fails: Vec<&str> = Vec::new();
 
     println!("Checking {} entries...", match_count);
-
-    for url in urls {
+    for u in urls {
         let status_check =
-            if is_repo(url) { check_repo(url).await } else { make_request(&url).await };
+            if is_repo(u) { check_repo(u).await } else { check_url(&u).await };
 
         match status_check {
-            Ok(true) => {}
-            Ok(false) => fails.push(url),
-            Err(_e) => fails.push(url),
+            Ok(code) => { if !is_ok(code, u) { fails.push(&u); } }
+            Err(_) => { fails.push(&u); }
         };
 
         i = i + 1;
