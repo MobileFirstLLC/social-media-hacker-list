@@ -7,3 +7,5 @@ edition = "2018"
 
 [dependencies]
 regex = "*"
+reqwest = "*"
+tokio = {version = "1.9.0", features = ["full"] }
