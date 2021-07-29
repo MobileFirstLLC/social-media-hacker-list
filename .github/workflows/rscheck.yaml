@@ -1,4 +1,4 @@
-name: URL check
+name: Rust URL check
 
 on:
   schedule:
