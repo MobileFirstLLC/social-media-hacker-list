@@ -8,7 +8,8 @@ edition = "2018"
 [dependencies]
 regex = "*"
 json = "*"
-url= { version="*", features=[] }
+url= "*"
+chrono = { version = "*", features = ["serde"] }
 reqwest = { version = "*", features = ["json"] }
 serde = {version = "*", features = ["derive"] }
 tokio = {version = "*", features = ["full"] }
