@@ -82,8 +82,7 @@ async fn check_url(u: &str) -> Result<CheckResult, Error> {
     if is_ok(get.status(), u) {
         return Ok(CheckResult::new(u));
     }
-    let text = get.text().await?;
-    return Ok(CheckResult::error(u, &text));
+    return Ok(CheckResult::error(u, &get.status().to_string()));
 }
 
 #[tokio::main]
@@ -95,14 +94,13 @@ async fn main() {
     let contents = read_to_string(readme).expect("File read error!");
     let re = Regex::new(pattern).unwrap();
     let matches: Vec<&str> = re.find_iter(&contents).filter_map(|cap| { Some(cap.as_str()) }).collect();
-    let unique_urls: HashSet<_> = matches.iter().cloned().collect();
-    let urls: Vec<_> = unique_urls.into_iter().collect();
-    let match_count = urls.len();
+    let urls: Vec<_> = matches.iter().cloned().collect::<HashSet<_>>().into_iter().collect();
+    let total = urls.len();
     let mut fails: Vec<CheckResult> = Vec::new();
     let mut progress = 0;
     let mut i = 0;
 
-    println!("Checking {} entries...", match_count);
+    println!("Checking {} entries...", total);
     for u in urls {
         let check_result;
         if is_repo(u) {
@@ -115,7 +113,7 @@ async fn main() {
             Err(_) => { fails.push(CheckResult::error(u, "error")) }
         }
         i = i + 1;
-        let percent = (i * 100) / match_count;
+        let percent = (i * 100) / total;
         if percent % 10 == 0 && percent > progress {
             println!("...{ } % ({})", percent, fails.len());
             progress = percent;
