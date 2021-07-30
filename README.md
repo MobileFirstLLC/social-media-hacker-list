@@ -6,7 +6,7 @@
   <img src='https://img.shields.io/badge/entries-212-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
-  <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
+  <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/rscheck.yaml/badge.svg'/></a>
 </p>
 <h3 align="center">
   <a href="#facebook">Facebook</a> &bull; 
