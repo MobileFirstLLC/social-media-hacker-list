@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-213-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-214-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -195,8 +195,9 @@ Apps that can be used across multiple social media apps.
 | 25. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
 | 26. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
 | 27. | 🟪 | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
-| 28. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
-| 29. | 🟫 | [❋](https://github.com/amickael/wipeit) | [Wipeit!](https://github.com/amickael/wipeit) | Python | A small CLI to purge your Reddit history. | 
+| 28. | 🟫 | [❋](https://github.com/Artraxon/unexBot) | [UnexBot](https://www.reddit.com/user/unexBot/) | Kotlin | Reddit bot that filters rubbish and collects data for analyzing submissions |
+| 29. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+| 30. | 🟫 | [❋](https://github.com/amickael/wipeit) | [Wipeit!](https://github.com/amickael/wipeit) | Python | A small CLI to purge your Reddit history. | 
 
 * * * 
 
