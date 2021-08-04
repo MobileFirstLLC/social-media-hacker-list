@@ -172,7 +172,7 @@ Apps that can be used across multiple social media apps.
 |  2. | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client | 
 |  3. | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
 |  4. | 🟫 | [❋](https://github.com/aliparlakci/bulk-downloader-for-reddit) | [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) | Python | Downloads and archives content from reddit. |
-|  5. | 🟪 | [❋](https://github.com/Tunous/Dawn) | [Dawn for Reddit]() | Android | Open source client for Reddit |
+|  5. | 🟪 | [❋](https://github.com/Tunous/Dawn) | [Dawn for Reddit](https://github.com/Tunous/Dawn) | Android | Open source client for Reddit |
 |  6. | ⬛ | [❋](https://github.com/umbresp/flairBot) | [FlairBot](https://github.com/umbresp/flairBot) | Bot | A moderation tool for reddit that flairs posts based on comment scores. | 
 |  7. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
 |  8. | 🟪 | | [Gallery for reddit](https://play.google.com/store/apps/details?id=org.mightyfrog.android.redditgallery) | Android | Image browsing app for image & picture related subreddits |
