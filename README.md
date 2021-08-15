@@ -71,7 +71,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |  7. | 🟫 | [❋](https://github.com/picturepan2/instagram.css) | [Instagram.css](https://picturepan2.github.io/instagram.css/) | Web | Instagram filters in CSS |
 |  8. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
 |  9. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 10. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Free modification of the Instagram app with many improvements over the original application. | 
+| 10. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
 | 11. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 | 12. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
 | 13. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
