@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-223-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-224-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -156,15 +156,16 @@ Apps that can be used across multiple social media apps.
 | 17. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
 | 19. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 20. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
-| 21. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
-| 22. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 23. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 24. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
-| 25. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 26. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 27. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 28. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 29. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 21. | 🟨 | [❋](https://github.com/shinigami-eyes/shinigami-eyes) | [Shinigami Eyes](https://shinigami-eyes.github.io/) | Extension | highlights transphobic and trans-friendly social network pages and users with different colors |
+| 22. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
+| 23. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 24. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 25. | 🟫 | [❋](https://github.com/adarshPatel509/sociall-cli) | [Sociall-CLI](https://github.com/adarshPatel509/sociall-cli) | JavaScript | CLI tool for managing multiple platforms |
+| 26. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 27. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 28. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 29. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 30. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
