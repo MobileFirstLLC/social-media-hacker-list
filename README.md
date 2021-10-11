@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-228-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-229-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -51,10 +51,11 @@ If you would like to add a project or suggest some other correction, edit this r
 |  1. | 🟪 | [❋](https://github.com/specious/facebook-cli) | [Facebook CLI](https://github.com/specious/facebook-cli) | Ruby | Command line FB client | 
 |  2. | 🟫 | [❋](https://github.com/node-facebook/facebook-node-sdk) | [Facebook NodeJS SDK](https://github.com/node-facebook/facebook-node-sdk) | JavaScript | NodeJS Library for Facebook |
 |  3. | 🟫 | [❋](https://github.com/roundrop/facebook4j) | [Facebook4J](https://facebook4j.github.io) | Java | Facebook API wrapper in Java |
-|  4. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-|  5. | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
-|  6. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
-|  7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  4. | 🟥 | | [fdown.net](https://fdown.net/) | Web | Facebook video downloader |
+|  5. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
+|  6. | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
+|  7. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+|  8. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
