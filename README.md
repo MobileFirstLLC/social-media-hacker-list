@@ -68,7 +68,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |  3. | 🟧 | | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
 |  4. | 🟫 | [❋](https://github.com/ahmdrz/goinsta) | [goinsta](https://github.com/ahmdrz/goinsta) | Go | Unofficial Instagram API written in Golang |
 |  5. | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-|  6. | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader]((https://github.com/HuiiBuh/InstagramDownloader)) | [Chrome](https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/instagram_download/) | Extension that adds a download button for images and videos. |
+|  6. | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/instagram_download/) | Extension that adds a download button for images and videos. |
 |  7. | 🟫 | [❋](https://github.com/picturepan2/instagram.css) | [Instagram.css](https://picturepan2.github.io/instagram.css/) | Web | Instagram filters in CSS |
 |  8. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
 |  9. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
