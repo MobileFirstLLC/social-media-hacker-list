@@ -292,6 +292,7 @@ Apps that can be used across multiple social media apps.
 | 58. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client |
 | 59. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
 | 60. | ⬛ | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
+| 61. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
 
 * * *
 
