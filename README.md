@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-234-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-232-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -115,20 +115,19 @@ If you would like to add a project or suggest some other correction, edit this r
 
 | # |  |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-|  1. | 🟪 |  | [Amaroq for Mastodon](https://apps.apple.com/us/app/amarok-for-mastodon/id1214116200) | iOS | Lightweight universal client for any Mastodon instance |
-|  2. | 🟪 | [❋](https://framagit.org/tom79/fedilab) | [Fedilab](https://fedilab.app) | Android | multifunctional Android client that supports Mastodon |
-|  3. | 🟪 | [❋](https://github.com/hyperspacedev/hyperspace) | [Hyperspace](https://hyperspace.marquiskurt.net) | Web | The new beautiful, fluffy client for Mastodon in React + TypeScript |
-|  4. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
-|  5. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
-|  6. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
-|  7. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
-|  8. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
-|  9. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
-| 10. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
-| 11. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 12. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
-| 13. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 14. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
+|  1. | 🟪 | [❋](https://framagit.org/tom79/fedilab) | [Fedilab](https://fedilab.app) | Android | multifunctional Android client that supports Mastodon |
+|  2. | 🟪 | [❋](https://github.com/hyperspacedev/hyperspace) | [Hyperspace](https://hyperspace.marquiskurt.net) | Web | The new beautiful, fluffy client for Mastodon in React + TypeScript |
+|  3. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
+|  4. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
+|  5. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
+|  6. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
+|  7. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
+|  8. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
+|  9. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
+| 10. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 11. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
+| 12. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 13. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
 
 * * *
 
@@ -225,8 +224,7 @@ Apps that can be used across multiple social media apps.
 |  5. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
 |  6. | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
 |  7. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | [snapmap-dl](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | Python | Download stories from SnapMap with and without filter/overlay | 
-|  8. | 🟫 | [❋](https://github.com/verdie-g/snap-data-analyzer) | [snap-stats](https://github.com/verdie-g/snap-data-analyzer) | NodeJs | Analyze the contents of your Snapchat data export |
-|  9. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
+|  8. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
 
 * * *
 
