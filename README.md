@@ -202,14 +202,15 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
 | 25. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
 | 26. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 27. | 🟫 | [❋](https://github.com/pythonInRelay/Shreddit) | [Shreddit](https://github.com/pythonInRelay/Shreddit) | Python | Reddit post/comment mass deletion program. |
-| 28. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
-| 29. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 30. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
-| 31. | 🟪 | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
-| 32. | 🟫 | [❋](https://github.com/Artraxon/unexBot) | [UnexBot](https://www.reddit.com/user/unexBot/) | Kotlin | Reddit bot that filters rubbish and collects data for analyzing submissions |
-| 33. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
-| 34. | 🟫 | [❋](https://github.com/amickael/wipeit) | [Wipeit!](https://github.com/amickael/wipeit) | Python | A small CLI to purge your Reddit history. | 
+| 27. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 28. | 🟫 | [❋](https://github.com/pythonInRelay/Shreddit) | [Shreddit](https://github.com/pythonInRelay/Shreddit) | Python | Reddit post/comment mass deletion program. |
+| 29. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
+| 30. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
+| 31. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
+| 32. | 🟪 | | [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | Android | Reddit client |
+| 33. | 🟫 | [❋](https://github.com/Artraxon/unexBot) | [UnexBot](https://www.reddit.com/user/unexBot/) | Kotlin | Reddit bot that filters rubbish and collects data for analyzing submissions |
+| 34. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+| 35. | 🟫 | [❋](https://github.com/amickael/wipeit) | [Wipeit!](https://github.com/amickael/wipeit) | Python | A small CLI to purge your Reddit history. | 
 
 * * * 
 
