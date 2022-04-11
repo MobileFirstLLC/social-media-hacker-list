@@ -125,7 +125,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |  8. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
 |  9. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
 | 10. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 11. | 🟪 |  | [TheDesk](https://thedesk.top/en/) | Windows, Mac, Linux | Desktop client |
+| 11. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
 | 12. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
 | 13. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
 
