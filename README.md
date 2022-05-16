@@ -308,7 +308,7 @@ Apps that can be used across multiple social media apps.
 |  5. | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
 |  6. | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
 |  7. | 🟩 | [❋](https://github.com/victor-savinov/frame-by-frame) | [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh) | Extension | Move your mouse cursor over any video and use keyboard arrows to switch frames. |
-|  8. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://freetubeapp.io/) | Desktop | The Private YouTube Client |
+|  8. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
 |  9. | 🟩 | | [gifs.com](https://gifs.com/) | Web | Make gifs of Youtube videos |
 | 10. | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](http://improvedtube.com/) | Extension | Improved youtube experience |
 | 11. | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
