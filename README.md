@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-240-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-254-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -126,15 +126,23 @@ If you would like to add a project or suggest some other correction, edit this r
 |  2. | 🟪 | [❋](https://github.com/hyperspacedev/hyperspace) | [Hyperspace](https://hyperspace.marquiskurt.net) | Web | The new beautiful, fluffy client for Mastodon in React + TypeScript |
 |  3. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
 |  4. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
-|  5. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
-|  6. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
-|  7. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
-|  8. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
-|  9. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
-| 10. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 11. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
-| 12. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 13. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
+|  5. | ⬛ | [❋](https://github.com/TheTarr/mastodon_bot) | [Mastodon Bot](https://github.com/TheTarr/mastodon_bot) | Bot | Auto-reply bot for Mastodon (Chinese) |   
+|  6. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
+|  7. | 🟫 | [❋](https://github.com/neet/masto.js) | [Masto.js](https://neet.github.io/masto.js/) | JavaScript | Mastodon API client for JavaScript, TypeScript, Node.js, browsers | 
+|  8. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
+|  9. | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
+| 10. | 🟪 |  | [Mercury for Mastodon](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200) | iOS | Customisable client for the Mastodon |
+| 11. | ⬛ | [❋](https://github.com/cadadr/moody_bot) | [Moody Bot](https://botsin.space/@moody_bot) | Bot |  A bot that replies with moody quips | 
+| 12. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
+| 13. | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
+| 14. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
+| 15. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 16. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
+| 17. | 🟪 |  | [tooot](https://apps.apple.com/us/app/tooot/id1549772269) | iOS | Open source, simple yet elegant Mastodon mobile client |
+| 18. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 19. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
+| 20. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
+| 21. | ⬛ | [❋](https://github.com/andi1984/wandern_bot) | [Wandern Bot](https://github.com/andi1984/wandern_bot) | Bot | Mastodon bot for #hiking and everything that goes with it. |   
 
 * * *
 
@@ -160,23 +168,25 @@ Apps that can be used across multiple social media apps.
 | 13. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 14. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
 | 15. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 16. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 17. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
-| 19. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 20. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
-| 21. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 22. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
-| 23. | 🟨 | [❋](https://github.com/shinigami-eyes/shinigami-eyes) | [Shinigami Eyes](https://shinigami-eyes.github.io/) | Extension | highlights transphobic and trans-friendly social network pages and users with different colors |
-| 24. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 25. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
-| 26. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 27. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 28. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 29. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 30. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
-| 31. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 32. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 33. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 16. | 🟨 | [❋](https://github.com/renatolond/mastodon-twitter-poster) | [Mastodon-Twitter Crossposter](https://crossposter.masto.donte.com.br/) | Web | Post statuses between Mastodon and Twitter |
+| 17. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 19. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
+| 20. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 21. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
+| 22. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
+| 23. | 🟫 | [❋](https://github.com/prashantsengar/RedIns) | [RedIns](https://github.com/prashantsengar/RedIns) | Python | Post images from reddit to FB, IG, Twitter |
+| 24. | 🟫 | [❋](https://github.com/philgyford/samuelpepys-twitter) | [Samuel Pepys Twitter](https://github.com/philgyford/samuelpepys-twitter) | Python | Posting tweets and/or toots at specific times |
+| 25. | 🟨 | [❋](https://github.com/shinigami-eyes/shinigami-eyes) | [Shinigami Eyes](https://shinigami-eyes.github.io/) | Extension | highlights transphobic and trans-friendly social network pages and users with different colors |
+| 26. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 27. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
+| 28. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 29. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 30. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 31. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 32. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
+| 33. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 34. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 35. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 
 * * *
@@ -226,14 +236,18 @@ Apps that can be used across multiple social media apps.
 
 | # | |  | Name | Platform | Description |
 | :---: | --- | --- | --- | --- | --- |
-|  1. | 🟫 | [❋](https://github.com/macie-k/download-snap-memories) | [Download snapchat memories](https://github.com/macie-k/download-snap-memories) | Python |  Download all memories from Snapchat |
-|  2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-|  3. | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
-|  4. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
-|  5. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
-|  6. | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
-|  7. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | [snapmap-dl](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | Python | Download stories from SnapMap with and without filter/overlay | 
-|  8. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
+|  1. | 🟨 | [❋](https://github.com/ChristianLisle/memory-download) | [Download snapchat memories](https://www.downloadmysnapchatmemories.com/) | Desktop |  Download all memories from Snapchat |
+|  2. | 🟫 | [❋](https://github.com/macie-k/download-snap-memories) | [Download snapchat memories](https://github.com/macie-k/download-snap-memories) | Python | Script to download all memories from Snapchat |
+|  3. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
+|  4. | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
+|  5. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+|  6. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
+|  7. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | [SnapCode](https://github.com/sdushantha/snapchat/tree/master/SnapCode) | Python | Download snapcodes with or without the Bitmoji |
+|  8. | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
+|  9. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | [snapmap-dl](https://github.com/sdushantha/snapchat/tree/master/snapmap-dl) | Python | Download stories from SnapMap with and without filter/overlay | 
+| 10. | 🟫 | [❋](https://github.com/allendema/SnapScrap.py) | [SnapScrap](https://github.com/allendema/SnapScrap.py) | Python | Downloads public Snapchat stories with Python |
+| 11. | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
+| 12. | 🟫 | [❋](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | [SnapStory](https://github.com/sdushantha/snapchat/tree/master/SnapStory) | Python | A public SnapChat story downloader |
 
 * * *
 
