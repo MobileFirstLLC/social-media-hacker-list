@@ -273,7 +273,7 @@ Apps that can be used across multiple social media apps.
 | 18. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
 | 19. | 🟨 | | [Megablock](https://megablock.xyz/) | Web | Block the tweet, its author, and every single person who liked it. |
 | 20. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
-| 21. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://nitter.net/) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously  |
+| 21. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://github.com/zedeus/nitter) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously  |
 | 22. | 🟨 | | [Notion Tweet](https://www.notiontweet.app/) | Web | Write, schedule, and see analytics of tweets on Notion |
 | 23. | 🟨 | | [OnlyTweets](https://onlytweets.co/) | - | Account monetization |
 | 24. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
