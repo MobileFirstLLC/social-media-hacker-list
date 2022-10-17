@@ -321,7 +321,7 @@ Apps that can be used across multiple social media apps.
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | ---| --- | --- | --- |
 | 1.  | 🟨 | | [Adblock for Youtube™](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) | Extension | Removes ads from Youtube |
-| 2.  | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube Download](https://alltubedownload.net/) | Web | Web app for downloading youtube videos |
+| 2.  | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube Download](https://github.com/Rudloff/alltube) | Web | Web app for downloading youtube videos |
 | 3.  | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
 | 4.  | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
 | 5.  | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
