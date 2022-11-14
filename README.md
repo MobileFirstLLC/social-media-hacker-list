@@ -250,17 +250,17 @@ Apps that can be used across multiple social media apps.
 
 ### Twitter
 
-|  #  |  |  |  Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
-| 2.  | ⬛ | | [AwardThisTweet](https://twitter.com/AwardThisTweet) | Bot | Award your favorite tweets with this bot |
-| 3.  | 🟨 | [❋](https://github.com/eramdam/BetterTweetDeck) | [Better TweetDeck](https://better.tw/) | Extension | A browser extension to improve TweetDeck with a lot of features |
-| 4.  | 🟧 | | [Blindspotter](https://ground.news/blindspotter/twitter) | Web | Analyze the news diet of any account on Twitter |
-| 5.  | 🟨 | | [Block Party](https://www.blockpartyapp.com/) | App | filter out unwanted Twitter @mentions | 
-| 6.  | 🟧 | | [Blolook](https://blolook.osa-p.net/) | Web | This service provides information on how many accounts are blocking your account. |
-| 7.  | 🟨 | | [Bkmark](https://bkmark.io) | Extension, bot | Bookmark your favorite tweets |
-| 8.  | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
-| 9.  | 🟨 | | [Chime Social](https://chime.so/) | Web | Tweet when your audience is listening |
+|  # |  |  |  Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟪 | | [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) | Android | Albatross for Twitter is an ad-free, effortless Twitter client |  
+| 2. | ⬛ | | [AwardThisTweet](https://twitter.com/AwardThisTweet) | Bot | Award your favorite tweets with this bot |
+| 3. | 🟨 | [❋](https://github.com/eramdam/BetterTweetDeck) | [Better TweetDeck](https://better.tw/) | Extension | A browser extension to improve TweetDeck with a lot of features |
+| 4. | 🟧 | | [Blindspotter](https://ground.news/blindspotter/twitter) | Web | Analyze the news diet of any account on Twitter |
+| 5. | 🟨 | | [Block Party](https://www.blockpartyapp.com/) | App | filter out unwanted Twitter @mentions | 
+| 6. | 🟧 | | [Blolook](https://blolook.osa-p.net/) | Web | This service provides information on how many accounts are blocking your account. |
+| 7. | 🟨 | | [Bkmark](https://bkmark.io) | Extension, bot | Bookmark your favorite tweets |
+| 8. | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
+| 9. | 🟨 | | [Chime Social](https://chime.so/) | Web | Tweet when your audience is listening |
 | 10. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
 | 11. | 🟦 | | [Chirr App](https://getchirrapp.com/) | Web | Thread creation tool |
 | 12. | 🟨 | | [Dewey](https://getdewey.co/) | Web | Search, organize, and share all your Twitter bookmarks |
@@ -310,8 +310,7 @@ Apps that can be used across multiple social media apps.
 | 56. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
 | 57. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
 | 58. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client |
-| 69. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
-| 60. | ⬛ | [❋](https://github.com/hugovk/wotdbot) | [wotdbot](https://github.com/hugovk/wotdbot) | Python | Word of the day bot |
+| 59. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
 
 * * *
 
