@@ -225,7 +225,6 @@ Apps that can be used across multiple social media apps.
 | 29. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 | 30. | 🟫 | [❋](https://github.com/Artraxon/unexBot) | [UnexBot](https://www.reddit.com/user/unexBot/) | Kotlin | Reddit bot that filters rubbish and collects data for analyzing submissions |
 | 31. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
-| 32. | 🟫 | [❋](https://github.com/amickael/wipeit) | [Wipeit!](https://github.com/amickael/wipeit) | Python | A small CLI to purge your Reddit history. | 
 
 * * * 
 
