@@ -15,7 +15,7 @@ enum CheckResult {
 
 #[derive(Deserialize)]
 struct Repo {
-    updated_at: DateTime<Utc>,
+    pushed_at: DateTime<Utc>,
 }
 
 fn is_ok(status: StatusCode, url: &str) -> bool {
@@ -56,7 +56,7 @@ async fn check_repo(u: &str, token: &str) -> Result<CheckResult, Error> {
     let status = response.status();
     if is_ok(status, u) {
         let repo: Repo = response.json().await?;
-        if is_active(repo.updated_at) {
+        if is_active(repo.pushed_at) {
             return Ok(CheckResult::Success());
         }
         return Ok(CheckResult::Error(String::from("inactive")));
