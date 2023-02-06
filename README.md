@@ -69,22 +69,21 @@ If you would like to add a project or suggest some other correction, edit this r
 |:---:| --- | --- | --- | --- | --- |
 | 1.  | 🟨 | | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
 | 2.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 3.  | 🟧 | | [Curate](https://curate-app.com/) | Web | Hashtag analysis | 
-| 4.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 5.  | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
-| 6.  | 🟫 | [❋](https://github.com/picturepan2/instagram.css) | [Instagram.css](https://picturepan2.github.io/instagram.css/) | Web | Instagram filters in CSS |
-| 7.  | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
-| 8.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 9.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 10. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
-| 11. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 12. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 13. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
-| 14. | 🟧 | | [Lisa](https://apps.apple.com/us/app/lisa-smart-photo-assistant/id1203797462?_branch_match_id=716422862006729962) | iOS | ML powered engagement predictor for Instagram |
-| 15. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
-| 16. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 17. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 18. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 3.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
+| 4.  | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
+| 5.  | 🟫 | [❋](https://github.com/picturepan2/instagram.css) | [Instagram.css](https://picturepan2.github.io/instagram.css/) | Web | Instagram filters in CSS |
+| 6.  | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
+| 7.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 8.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 9.  | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
+| 10. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 11. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
+| 12. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
+| 13. | 🟧 | | [Lisa](https://apps.apple.com/us/app/lisa-smart-photo-assistant/id1203797462?_branch_match_id=716422862006729962) | iOS | ML powered engagement predictor for Instagram |
+| 14. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
+| 15. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 16. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 17. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 
 * * *
 
@@ -144,42 +143,40 @@ If you would like to add a project or suggest some other correction, edit this r
 
 Apps that can be used across multiple social media apps.
 
-|  #  |  |  | Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
-| 2.  | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
-| 3.  | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
-| 4.  | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
-| 5.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 6.  | 🟥 | | [Descript](https://www.descript.com/) | Web | Collaborative video editor with fancy captions |
-| 8.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
-| 7.  | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram | 
-| 8.  | 🟩 | | [Glitterly](https://www.glitterly.app/) | Web | Create beautiful images for social media |
-| 9.  | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+|  # |  |  | Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
+| 2. | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
+| 3. | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
+| 4. | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
+| 5. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
+| 6. | 🟥 | | [Descript](https://www.descript.com/) | Web | Collaborative video editor with fancy captions |
+| 8. | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
+| 7. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram | 
+| 8. | 🟩 | | [Glitterly](https://www.glitterly.app/) | Web | Create beautiful images for social media |
+| 9. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
 | 10. | ⬛ | | [HandleDroid](https://handledroid.com/) | Web | Sends an alert when a desired username is released on Twitter, Facebook or Instagram |
 | 11. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
 | 12. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media | 
 | 13. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 14. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
 | 15. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 16. | 🟨 | [❋](https://github.com/renatolond/mastodon-twitter-poster) | [Mastodon-Twitter Crossposter](https://crossposter.masto.donte.com.br/) | Web | Post statuses between Mastodon and Twitter |
-| 17. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 19. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
-| 20. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 21. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
-| 22. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 23. | 🟫 | [❋](https://github.com/philgyford/samuelpepys-twitter) | [Samuel Pepys Twitter](https://github.com/philgyford/samuelpepys-twitter) | Python | Posting tweets and/or toots at specific times |
-| 24. | 🟨 | [❋](https://github.com/shinigami-eyes/shinigami-eyes) | [Shinigami Eyes](https://shinigami-eyes.github.io/) | Extension | highlights transphobic and trans-friendly social network pages and users with different colors |
-| 25. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 26. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
-| 27. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 28. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 29. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 30. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 31. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
-| 32. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 33. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 34. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 16. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 17. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
+| 18. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 19. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
+| 20. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
+| 21. | 🟨 | [❋](https://github.com/shinigami-eyes/shinigami-eyes) | [Shinigami Eyes](https://shinigami-eyes.github.io/) | Extension | highlights transphobic and trans-friendly social network pages and users with different colors |
+| 22. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 23. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
+| 24. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 25. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
+| 26. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 27. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 28. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
+| 29. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 30. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 31. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 
 * * *
@@ -274,29 +271,30 @@ Apps that can be used across multiple social media apps.
 | 32. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
 | 33. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
 | 34. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
-| 35. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 36. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
-| 37. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 38. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
-| 39. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
-| 40. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 41. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 42. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 43. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 44. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
-| 45. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 46. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
-| 47. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 48. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 49. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 50. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 51. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 52. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 53. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 54. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 55. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 56. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client |
-| 57. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
+| 35. | 🟪 | | [Talon for Twitter](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) | Android | Alternative Twitter client |
+| 36. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 37. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
+| 38. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 39. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
+| 40. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
+| 41. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 42. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 43. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 44. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 45. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
+| 46. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 47. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
+| 48. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 49. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 50. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
+| 51. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 52. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 53. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 54. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 55. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 56. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 57. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client |
+| 58. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
 
 * * *
 
