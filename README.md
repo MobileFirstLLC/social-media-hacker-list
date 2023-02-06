@@ -271,30 +271,29 @@ Apps that can be used across multiple social media apps.
 | 32. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
 | 33. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
 | 34. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
-| 35. | 🟪 | | [Talon for Twitter](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) | Android | Alternative Twitter client |
-| 36. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 37. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
-| 38. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 39. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
-| 40. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
-| 41. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 42. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 43. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 44. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 45. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
-| 46. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 47. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
-| 48. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 49. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 50. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 51. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 52. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 53. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 54. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 55. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 56. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 57. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client |
-| 58. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
+| 35. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 36. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
+| 37. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 38. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
+| 39. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
+| 40. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 41. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 42. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 43. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 44. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://play.google.com/store/apps/details?id=com.twidere.twiderex) | Open source client |
+| 45. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 46. | 🟫 | [❋](https://github.com/ttezel/twit) | [Twit](https://github.com/ttezel/twit) | Node.js | Node.js Twitter client |
+| 47. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 48. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 49. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
+| 50. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 51. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 52. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 53. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 54. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 55. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 56. | 🟪 | | [UberSocial for Twitter](https://play.google.com/store/apps/details?id=com.twidroid) | Android | Alternative client |
+| 57. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower |
 
 * * *
 
