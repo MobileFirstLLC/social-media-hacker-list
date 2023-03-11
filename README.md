@@ -232,6 +232,14 @@ Apps that can be used across multiple social media apps.
 
 * * *
 
+### TikTok
+
+|  # |  |  |  Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟥 | | [Lana James](https://itslanajames.com/bulk-tiktok-downloader-and-tiktok-watermark-remover) | Web | TikTok Watermark Remover & Bulk TikTok Downloader |
+
+* * *
+
 ### Twitter
 
 |  # |  |  |  Name | Platform | Description |
