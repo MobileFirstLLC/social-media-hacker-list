@@ -207,7 +207,7 @@ Apps that can be used across multiple social media apps.
 | 20. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
 | 21. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
 | 22. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 23. | 🟫 | [❋](https://github.com/pythonInRelay/Shreddit) | [Shreddit](https://github.com/pythonInRelay/Shreddit) | Python | Reddit post/comment mass deletion program. |
+| 23. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
 | 24. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
 | 25. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
 | 26. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
