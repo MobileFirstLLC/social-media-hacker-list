@@ -47,20 +47,19 @@ If you would like to add a project or suggest some other correction, edit this r
 
 ### Facebook
 
-|  #  |  |  | Name | Platform | Description | 
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟪 | [❋](https://github.com/specious/facebook-cli) | [Facebook CLI](https://github.com/specious/facebook-cli) | Ruby | Command line FB client | 
-| 2.  | 🟫 | [❋](https://github.com/roundrop/facebook4j) | [Facebook4J](https://facebook4j.github.io) | Java | Facebook API wrapper in Java |
-| 3.  | ⬛ | [❋](https://github.com/PedjPedj/Facebook-gc-bot) | [Facebook Group Chat bot](https://github.com/PedjPedj/Facebook-gc-bot) | bot | Simple chat bot for group chat | 
-| 4.  | 🟧 | [❋](https://github.com/SecOps-Institute/FacebookIPLists) | [Facebook IP Lists](https://github.com/SecOps-Institute/FacebookIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Facebook |
-| 4.  | 🟫 | [❋](https://github.com/LuisAlejandro/fb-last-post-from-feed) | [Facebook Last Post from Feed]() | GH Action | Post the latest entry from an atom feed to a facebook page | 
-| 5.  | 🟫 | [❋](https://github.com/karlicoss/fbmessengerexport) | [FB Messenger Export](https://github.com/karlicoss/fbmessengerexport) | Python | Export Messenger/Facebook chat messages |  
-| 6.  | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
-| 7.  | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
-| 8.  | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-| 9.  | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
-| 10. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
-| 11. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  # |  |  | Name | Platform | Description | 
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟪 | [❋](https://github.com/specious/facebook-cli) | [Facebook CLI](https://github.com/specious/facebook-cli) | Ruby | Command line FB client | 
+| 2.  | ⬛ | [❋](https://github.com/PedjPedj/Facebook-gc-bot) | [Facebook Group Chat bot](https://github.com/PedjPedj/Facebook-gc-bot) | bot | Simple chat bot for group chat | 
+| 3. | 🟧 | [❋](https://github.com/SecOps-Institute/FacebookIPLists) | [Facebook IP Lists](https://github.com/SecOps-Institute/FacebookIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Facebook |
+| 4. | 🟫 | [❋](https://github.com/LuisAlejandro/fb-last-post-from-feed) | [Facebook Last Post from Feed]() | GH Action | Post the latest entry from an atom feed to a facebook page | 
+| 4. | 🟫 | [❋](https://github.com/karlicoss/fbmessengerexport) | [FB Messenger Export](https://github.com/karlicoss/fbmessengerexport) | Python | Export Messenger/Facebook chat messages |  
+| 5. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+| 6. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
+| 7. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
+| 8. | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
+| 9. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+| 10. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
