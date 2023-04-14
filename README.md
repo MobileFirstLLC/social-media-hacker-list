@@ -103,12 +103,13 @@ If you would like to add a project or suggest some other correction, edit this r
 | 9. | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
 | 10. | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
 | 11. | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 12. | 🟫 | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
-| 13. | 🟨 | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 14. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 15. | 🟫 | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
-| 16. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
-| 17. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 12. | 🟥 |  | [LinkedIn Video Downloader](https://taplio.com/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 13. | 🟫 | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
+| 14. | 🟨 | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 15. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 16. | 🟫 | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
+| 17. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
+| 18. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 
 * * *
 
