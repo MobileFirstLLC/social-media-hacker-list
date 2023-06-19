@@ -49,16 +49,15 @@ If you would like to add a project or suggest some other correction, edit this r
 
 |  # |  |  | Name | Platform | Description | 
 |:--:| --- | --- | --- | --- | --- |
-| 1. | ⬛ | [❋](https://github.com/PedjPedj/Facebook-gc-bot) | [Facebook Group Chat bot](https://github.com/PedjPedj/Facebook-gc-bot) | bot | Simple chat bot for group chat | 
-| 2. | 🟧 | [❋](https://github.com/SecOps-Institute/FacebookIPLists) | [Facebook IP Lists](https://github.com/SecOps-Institute/FacebookIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Facebook |
-| 3. | 🟫 | [❋](https://github.com/LuisAlejandro/fb-last-post-from-feed) | [Facebook Last Post from Feed]() | GH Action | Post the latest entry from an atom feed to a facebook page | 
-| 4. | 🟫 | [❋](https://github.com/karlicoss/fbmessengerexport) | [FB Messenger Export](https://github.com/karlicoss/fbmessengerexport) | Python | Export Messenger/Facebook chat messages |  
-| 4. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
-| 5. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
-| 6. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-| 7. | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
-| 8. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
-| 9. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  1. | 🟧 | [❋](https://github.com/SecOps-Institute/FacebookIPLists) | [Facebook IP Lists](https://github.com/SecOps-Institute/FacebookIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Facebook |
+|  2. | 🟫 | [❋](https://github.com/LuisAlejandro/fb-last-post-from-feed) | [Facebook Last Post from Feed]() | GH Action | Post the latest entry from an atom feed to a facebook page | 
+|  3. | 🟫 | [❋](https://github.com/karlicoss/fbmessengerexport) | [FB Messenger Export](https://github.com/karlicoss/fbmessengerexport) | Python | Export Messenger/Facebook chat messages |  
+|  4. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+|  4. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
+|  5. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
+|  6. | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
+|  7. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+|  8. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
@@ -113,26 +112,25 @@ If you would like to add a project or suggest some other correction, edit this r
 
 ### Mastodon
 
-|  #  |  |  | Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟪 | [❋](https://github.com/hyperspacedev/hyperspace) | [Hyperspace](https://hyperspace.marquiskurt.net) | Web | The new beautiful, fluffy client for Mastodon in React + TypeScript |
-| 2.  | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
-| 3.  | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
-| 4.  | ⬛ | [❋](https://github.com/TheTarr/mastodon_bot) | [Mastodon Bot](https://github.com/TheTarr/mastodon_bot) | Bot | Auto-reply bot for Mastodon (Chinese) |   
-| 5.  | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
-| 6.  | 🟫 | [❋](https://github.com/neet/masto.js) | [Masto.js](https://neet.github.io/masto.js/) | JavaScript | Mastodon API client for JavaScript, TypeScript, Node.js, browsers | 
-| 7.  | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
-| 8.  | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
-| 9.  | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
-| 10. | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
-| 11. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
-| 12. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 13. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
-| 14. | 🟪 |  | [tooot](https://apps.apple.com/us/app/tooot/id1549772269) | iOS | Open source, simple yet elegant Mastodon mobile client |
-| 15. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 16. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
-| 17. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
-| 18. | ⬛ | [❋](https://github.com/andi1984/wandern_bot) | [Wandern Bot](https://github.com/andi1984/wandern_bot) | Bot | Mastodon bot for #hiking and everything that goes with it. |   
+|  # |  |  | Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟪 |  | [iMast](https://apps.apple.com/us/app/imast/id1229461703) | iOS, iPad | Mastodon client for iPhones and iPads |
+| 2. | 🟪 |  | [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) | Mac, iOS, iPad, Apple Watch | Beautiful Microblogging |
+| 3. | ⬛ | [❋](https://github.com/TheTarr/mastodon_bot) | [Mastodon Bot](https://github.com/TheTarr/mastodon_bot) | Bot | Auto-reply bot for Mastodon (Chinese) |   
+| 4. | 🟫 | [❋](https://github.com/halcy/Mastodon.py) | [Mastodon.py](https://github.com/halcy/Mastodon.py) | Python | Python wrapper for the Mastodon API | 
+| 5. | 🟫 | [❋](https://github.com/neet/masto.js) | [Masto.js](https://neet.github.io/masto.js/) | JavaScript | Mastodon API client for JavaScript, TypeScript, Node.js, browsers | 
+| 6. | 🟪 |  | [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) | Mac | A delightful Mastodon client | 
+| 7. | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
+| 8. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
+| 9. | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
+| 10. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
+| 11. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 12. | 🟪 | [❋](https://github.com/cutls/TheDesk) | [TheDesk](https://github.com/cutls/TheDesk) | Windows, Mac, Linux | Desktop client |
+| 13. | 🟪 |  | [tooot](https://apps.apple.com/us/app/tooot/id1549772269) | iOS | Open source, simple yet elegant Mastodon mobile client |
+| 14. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 15. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
+| 16. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
+| 17. | ⬛ | [❋](https://github.com/andi1984/wandern_bot) | [Wandern Bot](https://github.com/andi1984/wandern_bot) | Bot | Mastodon bot for #hiking and everything that goes with it. |   
 
 * * *
 
