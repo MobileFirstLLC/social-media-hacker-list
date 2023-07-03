@@ -165,49 +165,46 @@ Apps that can be used across multiple social media apps.
 | 22. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
 | 23. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
 | 24. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 25. | 🟫 | [❋](https://github.com/pandrey2003/social-media-profiler) | [SocialMediaProfiler](https://github.com/pandrey2003/social-media-profiler) | Python | Find information about a person across platforms |
-| 26. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 27. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 28. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
-| 29. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 30. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 31. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 25. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 26. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 27. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
+| 28. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 29. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 30. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 
 * * *
 
 ### Reddit
 
-|  #  |  |  | Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client | 
-| 2.  | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
-| 3.  | 🟧 | | [Bot Ranks](https://botranks.com/) | Web | Website that shows the ranks of bots on Reddit |
-| 4.  | 🟫 | [❋](https://github.com/aliparlakci/bulk-downloader-for-reddit) | [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) | Python | Downloads and archives content from reddit. |
-| 5.  | 🟪 | [❋](https://github.com/Tunous/Dawn) | [Dawn for Reddit](https://github.com/Tunous/Dawn) | Android | Open source client for Reddit |
-| 6.  | ⬛ | | [F5Bot](https://f5bot.com/) | Bot | Get an email when selected keywords are mentioned on Reddit |
-| 7.  | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics | 
-| 8.  | 🟪 | | [Gallery for reddit](https://play.google.com/store/apps/details?id=org.mightyfrog.android.redditgallery) | Android | Image browsing app for image & picture related subreddits |
-| 9.  | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
-| 10. | 🟪 | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
-| 11. | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
-| 12. | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-| 13. | 🟪 | | [rif is fun for Reddit](https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit) | Android | Alternative client |
-| 14. | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
-| 15. | ⬛ | [❋](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | [Reddit-Karma-Bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | Python | Bot for farming karma |
-| 16. | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 17. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-| 18. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
-| 19. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 20. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 21. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 22. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 23. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 24. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
-| 25. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 26. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
-| 27. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
-| 28. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+|  # |  |  | Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client | 
+| 2. | 🟪 | | [Boost for Reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) | Android | Reddit client |
+| 3. | 🟧 | | [Bot Ranks](https://botranks.com/) | Web | Website that shows the ranks of bots on Reddit |
+| 4. | 🟫 | [❋](https://github.com/aliparlakci/bulk-downloader-for-reddit) | [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) | Python | Downloads and archives content from reddit. |
+| 5. | 🟪 | [❋](https://github.com/Tunous/Dawn) | [Dawn for Reddit](https://github.com/Tunous/Dawn) | Android | Open source client for Reddit |
+| 6. | ⬛ | | [F5Bot](https://f5bot.com/) | Bot | Get an email when selected keywords are mentioned on Reddit |
+| 7. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics |
+| 8. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
+| 9. | 🟪 | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
+| 10. | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
+| 11. | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
+| 12. | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
+| 13. | ⬛ | [❋](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | [Reddit-Karma-Bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | Python | Bot for farming karma |
+| 14. | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
+| 15. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 16. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
+| 17. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 18. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
+| 19. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
+| 20. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 21. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 22. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
+| 23. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
+| 24. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
+| 25. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 26. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
 
 * * * 
 
