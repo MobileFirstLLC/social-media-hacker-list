@@ -196,15 +196,13 @@ Apps that can be used across multiple social media apps.
 | 15. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
 | 16. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
 | 17. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 18. | 🟪 | | [Relay for Reddit](https://play.google.com/store/apps/details?id=free.reddit.news) | Android | Reddit client |
-| 19. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 20. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 21. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 22. | 🟪 | [❋](https://github.com/ccrama/Slide) | [Slide for Reddit](https://play.google.com/store/apps/details?id=me.ccrama.redditslide) | Android | Open source client |
-| 23. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 24. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
-| 25. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
-| 26. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
+| 18. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
+| 19. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 20. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 21. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
+| 22. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
+| 23. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 24. | 🟫 | [❋](https://github.com/voussoir/reddit) | [voussoir/reddit](https://github.com/voussoir/reddit) | Python | Collection of reddit bots |
 
 * * * 
 
@@ -246,52 +244,51 @@ Apps that can be used across multiple social media apps.
 | 7. | 🟧 | | [Blolook](https://blolook.osa-p.net/) | Web | This service provides information on how many accounts are blocking your account. |
 | 8. | 🟨 | | [Bkmark](https://bkmark.io) | Extension, bot | Bookmark your favorite tweets |
 | 9. | 🟨 | | [Changelog.life](https://changelog.life/) | Web | A Changelog automatically generated from your Tweets |
-| 10. | 🟨 | | [Chime Social](https://chime.so/) | Web | Tweet when your audience is listening |
-| 11. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
-| 12. | 🟦 | | [Chirr App](https://getchirrapp.com/) | Web | Thread creation tool |
-| 13. | 🟨 | | [Dewey](https://getdewey.co/) | Web | Search, organize, and share all your Twitter bookmarks |
-| 14. | 🟨 | [❋](https://github.com/MobileFirstLLC/doucheblock) | [DoucheBlock for Twitter](https://chrome.google.com/webstore/detail/doucheblock-for-twitter/eeledoologbepiegnccedjigjkblhmhi) | Extension | Block anyone with specific keywords in their Twitter bio |
-| 15. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
-| 16. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
-| 17. | 🟧 | | [ExportData](https://www.exportdata.io/) | Web | Export Twitter Historical Data |
-| 18. | 🟧 | | [Ilo](https://ilo.so/) | Web | Twitter analytics |
-| 19. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
-| 20. | 🟨 | | [Megablock](https://megablock.xyz/) | Web | Block the tweet, its author, and every single person who liked it. |
-| 21. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
-| 22. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://github.com/zedeus/nitter) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously  |
-| 23. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
-| 24. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
-| 25. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
-| 26. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
-| 27. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
-| 28. | 🟨 | [❋](https://github.com/gaeulbyul/RedBlock) | [Red Block](https://github.com/gaeulbyul/RedBlock) | Extension ([Firefox](https://addons.mozilla.org/firefox/addon/red-block/), [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf), [Edge](https://microsoftedge.microsoft.com/addons/detail/red-block/pfafjkemefoedhcdlhbniejjealpglbj)) | Block, unblock, mute, or unmute multiple users from Twitter. Supports Firefox, Chrome, and Chromium-based browsers. |
-| 29. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 30. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
-| 31. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 32. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
-| 33. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 34. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
-| 35. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 36. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
-| 37. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
-| 38. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 39. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 40. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 41. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 42. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
-| 43. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 44. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 45. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 46. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 47. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 48. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 49. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 50. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 51. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 52. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 53. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 54. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 55. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 10. | 🟩 | | [Chirpty](https://chirpty.com/) | Web |  Create your own Twitter interaction circle |
+| 11. | 🟦 | | [Chirr App](https://getchirrapp.com/) | Web | Thread creation tool |
+| 12. | 🟨 | | [Dewey](https://getdewey.co/) | Web | Search, organize, and share all your Twitter bookmarks |
+| 13. | 🟨 | [❋](https://github.com/MobileFirstLLC/doucheblock) | [DoucheBlock for Twitter](https://chrome.google.com/webstore/detail/doucheblock-for-twitter/eeledoologbepiegnccedjigjkblhmhi) | Extension | Block anyone with specific keywords in their Twitter bio |
+| 14. | 🟥 | | [Download Twitter Videos](https://play.google.com/store/apps/details?id=tweeter.gif.twittervideodownloader) | Android | Download videos |
+| 15. | 🟪 | | [Echofon](https://echofon.com/) | iOS, Android | Twitter app for iOS and Android. |  
+| 16. | 🟧 | | [ExportData](https://www.exportdata.io/) | Web | Export Twitter Historical Data |
+| 17. | 🟧 | | [Ilo](https://ilo.so/) | Web | Twitter analytics |
+| 18. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
+| 19. | 🟨 | | [Megablock](https://megablock.xyz/) | Web | Block the tweet, its author, and every single person who liked it. |
+| 20. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
+| 21. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://github.com/zedeus/nitter) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously  |
+| 22. | 🟩 | | [Pikaso](https://pikaso.me/) | Web, Extension | Take screenshots of tweets |
+| 23. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
+| 24. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
+| 25. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
+| 26. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
+| 27. | 🟨 | [❋](https://github.com/gaeulbyul/RedBlock) | [Red Block](https://github.com/gaeulbyul/RedBlock) | Extension ([Firefox](https://addons.mozilla.org/firefox/addon/red-block/), [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf), [Edge](https://microsoftedge.microsoft.com/addons/detail/red-block/pfafjkemefoedhcdlhbniejjealpglbj)) | Block, unblock, mute, or unmute multiple users from Twitter. Supports Firefox, Chrome, and Chromium-based browsers. |
+| 28. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 29. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
+| 30. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 31. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
+| 32. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 33. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
+| 34. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 35. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
+| 36. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
+| 37. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 38. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 39. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 40. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 41. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
+| 42. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 43. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 44. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 45. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
+| 46. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 47. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 48. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 49. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 50. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 51. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 52. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
+| 53. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 54. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 
 
 * * *
