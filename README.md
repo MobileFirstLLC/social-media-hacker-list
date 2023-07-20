@@ -15,6 +15,7 @@
   <a href="#mastodon">Mastodon</a> &bull;   
   <a href="#reddit">Reddit</a> <br/>
   <a href="#snapchat">Snapchat</a> &bull; 
+  <a href="#threads">Threads</a> &bull; 
   <a href="#tiktok">TikTok</a> &bull; 
   <a href="#twitter">Twitter</a> &bull; 
   <a href="#youtube">Youtube</a> &bull; 
@@ -219,6 +220,14 @@ Apps that can be used across multiple social media apps.
 | 7.  | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
 | 8.  | 🟫 | [❋](https://github.com/allendema/SnapScrap.py) | [SnapScrap](https://github.com/allendema/SnapScrap.py) | Python | Downloads public Snapchat stories with Python |
 | 9.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
+
+* * *
+
+### Threads
+
+|  # |  |  |  Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟥 | | [Threads Downloader](https://threadsdownloader.com) | Web | Threads Video Downloader |
 
 * * *
 
