@@ -228,6 +228,8 @@ Apps that can be used across multiple social media apps.
 |  # |  |  |  Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
 | 1. | 🟥 | | [Threads Downloader](https://threadsdownloader.com) | Web | Threads Video Downloader |
+| 2. | 🟩 | | [ThreadFaker](https://threadfaker.com) | Web | Fake Threads Post Generator |
+| 3. | 🟩 | | [Threads Circles](https://threadscircles.com) | Web | Create your own Threads interaction circle |
 
 * * *
 
