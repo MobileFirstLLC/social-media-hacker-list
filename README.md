@@ -278,26 +278,25 @@ Apps that can be used across multiple social media apps.
 | 32. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
 | 33. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
 | 34. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 35. | 🟨 | | [TweetDelete](https://tweetdelete.net/) | Web | Bulk-delete tweets from your timeline |
-| 36. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
-| 37. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 38. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 39. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 40. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 41. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
-| 42. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 43. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 44. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 45. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 46. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 47. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 48. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 49. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 50. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 51. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 52. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 53. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 54. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 35. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
+| 36. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 37. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 38. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 39. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 40. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
+| 41. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 42. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 43. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 44. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
+| 45. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 46. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 47. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 48. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 49. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 50. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 51. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
+| 52. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 53. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 
 
 * * *
