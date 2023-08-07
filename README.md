@@ -148,29 +148,28 @@ Apps that can be used across multiple social media apps.
 | 5. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
 | 6. | 🟥 | | [Descript](https://www.descript.com/) | Web | Collaborative video editor with fancy captions |
 | 8. | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
-| 7. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram | 
-| 8. | 🟩 | | [Glitterly](https://www.glitterly.app/) | Web | Create beautiful images for social media |
-| 9. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-| 10. | ⬛ | | [HandleDroid](https://handledroid.com/) | Web | Sends an alert when a desired username is released on Twitter, Facebook or Instagram |
-| 11. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
-| 12. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media | 
-| 13. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 14. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 15. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 16. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 17. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
-| 18. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 19. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
-| 20. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 21. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 22. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
-| 23. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
-| 24. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 25. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 26. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
-| 27. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 28. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 29. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 7. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
+| 8. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+| 9. | ⬛ | | [HandleDroid](https://handledroid.com/) | Web | Sends an alert when a desired username is released on Twitter, Facebook or Instagram |
+| 10. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
+| 11. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media | 
+| 12. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 13. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 14. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
+| 15. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 16. | 🟥 | | [Motionbox](https://motionbox.io/) | Web | Simple online video editing for digital creators |
+| 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 18. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
+| 19. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
+| 20. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 21. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
+| 22. | 🟫 | [❋](https://github.com/lorey/social-media-profiles-regexs) | [Social Media Profiles Regexs](https://github.com/lorey/social-media-profiles-regexs) | Code | Extract social media profiles with regular expressions |
+| 23. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 24. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 25. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
+| 26. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 27. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 28. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 
 * * *
@@ -327,15 +326,14 @@ Apps that can be used across multiple social media apps.
 | 20. | 🟨 | [❋](https://github.com/yashagarwal1411/SubtitlesForYoutube) | [Subtitles For YouTube](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal) | Extension | Add subtitles to youtube videos. | 
 | 21. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
 | 22. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
-| 23. | 🟨 | [❋](https://github.com/shuowu/yi-note) | [YiNote](https://yinote.co/) | Extension | Take & share time-stamped notes while watching videos. |
-| 24. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
-| 25. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
-| 26. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
-| 27. | 🟨 | [❋](https://github.com/Eugene-Gubar/ycs) | [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) | Extension | Search comments, replies, chat replay, video transcript for the current video. |
-| 28. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 39. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 30. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 31. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 32. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 33. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
-| 34. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+| 23. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
+| 24. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
+| 25. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
+| 26. | 🟨 | [❋](https://github.com/Eugene-Gubar/ycs) | [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) | Extension | Search comments, replies, chat replay, video transcript for the current video. |
+| 27. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 28. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 39. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 30. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 31. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 32. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
+| 33. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
