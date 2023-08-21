@@ -271,31 +271,30 @@ Apps that can be used across multiple social media apps.
 | 26. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
 | 27. | 🟨 | [❋](https://github.com/gaeulbyul/RedBlock) | [Red Block](https://github.com/gaeulbyul/RedBlock) | Extension ([Firefox](https://addons.mozilla.org/firefox/addon/red-block/), [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf), [Edge](https://microsoftedge.microsoft.com/addons/detail/red-block/pfafjkemefoedhcdlhbniejjealpglbj)) | Block, unblock, mute, or unmute multiple users from Twitter. Supports Firefox, Chrome, and Chromium-based browsers. |
 | 28. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 29. | 🟩 | | [Sticker Cards](https://apps.apple.com/us/app/id1522226018) | iOS | Create images of tweets for sharing on other platforms |
-| 30. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 31. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
-| 32. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 33. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
-| 34. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 35. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
-| 36. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 37. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 38. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 39. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 40. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
-| 41. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 42. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 43. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 44. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 45. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
-| 46. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 47. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 48. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 49. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 50. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 51. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 52. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 53. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 29. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 30. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
+| 31. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 32. | 🟦 | | [ThreadStart](https://threadstart.io/) | Web | Write better Twitter threads |  
+| 33. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 34. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
+| 35. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 36. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 37. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 38. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 39. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
+| 40. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 41. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 42. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 43. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
+| 44. | 🟥 | | [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) | Extension | Download images and videos |
+| 45. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 46. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 47. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 48. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 49. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 50. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
+| 51. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 52. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 
 
 * * *
@@ -309,31 +308,30 @@ Apps that can be used across multiple social media apps.
 | 3.  | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
 | 4.  | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
 | 5.  | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
-| 6.  | 🟩 | [❋](https://github.com/victor-savinov/frame-by-frame) | [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh) | Extension | Move your mouse cursor over any video and use keyboard arrows to switch frames. |
-| 7.  | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
-| 8.  | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](http://improvedtube.com/) | Extension | Improved youtube experience |
-| 9.  | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
-| 10. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
-| 11. | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
-| 12. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
-| 13. | 🟨 | | [Picture in Picture - PiP View](https://chrome.google.com/webstore/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
-| 14. | 🟪 | [❋](https://github.com/TeamPiped/Piped) | [Piped](https://piped.kavin.rocks) | Web | Privacy-friendly YouTube frontend which is efficient by design |
-| 15. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
-| 16. | 🟫 | [❋](https://github.com/pytube/pytube) | [PyTube](https://github.com/pytube/pytube) | Python | Command line library for downloading videos |
-| 17. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
-| 18. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
-| 19. | 🟫 | [❋](https://github.com/streamlink/streamlink) | [Streamlink](https://github.com/streamlink/streamlink) | Python | CLI utility which pipes video streams from various services into a video player | 
-| 20. | 🟨 | [❋](https://github.com/yashagarwal1411/SubtitlesForYoutube) | [Subtitles For YouTube](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal) | Extension | Add subtitles to youtube videos. | 
-| 21. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
-| 22. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
-| 23. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
-| 24. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
-| 25. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
-| 26. | 🟨 | [❋](https://github.com/Eugene-Gubar/ycs) | [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) | Extension | Search comments, replies, chat replay, video transcript for the current video. |
-| 27. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 28. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 39. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 30. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 31. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 32. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
-| 33. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+| 6.  | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
+| 7.  | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](http://improvedtube.com/) | Extension | Improved youtube experience |
+| 8.  | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
+| 9.  | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+| 10. | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
+| 11. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
+| 12. | 🟨 | | [Picture in Picture - PiP View](https://chrome.google.com/webstore/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
+| 13. | 🟪 | [❋](https://github.com/TeamPiped/Piped) | [Piped](https://piped.kavin.rocks) | Web | Privacy-friendly YouTube frontend which is efficient by design |
+| 14. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+| 15. | 🟫 | [❋](https://github.com/pytube/pytube) | [PyTube](https://github.com/pytube/pytube) | Python | Command line library for downloading videos |
+| 16. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
+| 17. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
+| 18. | 🟫 | [❋](https://github.com/streamlink/streamlink) | [Streamlink](https://github.com/streamlink/streamlink) | Python | CLI utility which pipes video streams from various services into a video player | 
+| 19. | 🟨 | [❋](https://github.com/yashagarwal1411/SubtitlesForYoutube) | [Subtitles For YouTube](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal) | Extension | Add subtitles to youtube videos. | 
+| 20. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
+| 21. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+| 22. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
+| 23. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
+| 24. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
+| 25. | 🟨 | [❋](https://github.com/Eugene-Gubar/ycs) | [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) | Extension | Search comments, replies, chat replay, video transcript for the current video. |
+| 26. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 27. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 28. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 39. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 30. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 31. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
+| 32. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
