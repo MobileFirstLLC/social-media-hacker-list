@@ -215,8 +215,7 @@ Apps that can be used across multiple social media apps.
 | 5.  | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
 | 6.  | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
 | 7.  | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
-| 8.  | 🟫 | [❋](https://github.com/allendema/SnapScrap.py) | [SnapScrap](https://github.com/allendema/SnapScrap.py) | Python | Downloads public Snapchat stories with Python |
-| 9.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
+| 8.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
 
 * * *
 
@@ -303,35 +302,34 @@ Apps that can be used across multiple social media apps.
 
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | ---| --- | --- | --- |
-| 1.  | 🟨 | | [Adblock for Youtube™](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) | Extension | Removes ads from Youtube |
-| 2.  | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube Download](https://github.com/Rudloff/alltube) | Web | Web app for downloading youtube videos |
-| 3.  | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
-| 4.  | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
-| 5.  | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
-| 6.  | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
-| 7.  | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](http://improvedtube.com/) | Extension | Improved youtube experience |
-| 8.  | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
-| 9.  | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
-| 10. | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
-| 11. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
-| 12. | 🟨 | | [Picture in Picture - PiP View](https://chrome.google.com/webstore/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
-| 13. | 🟪 | [❋](https://github.com/TeamPiped/Piped) | [Piped](https://piped.kavin.rocks) | Web | Privacy-friendly YouTube frontend which is efficient by design |
-| 14. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
-| 15. | 🟫 | [❋](https://github.com/pytube/pytube) | [PyTube](https://github.com/pytube/pytube) | Python | Command line library for downloading videos |
-| 16. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
-| 17. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
-| 18. | 🟫 | [❋](https://github.com/streamlink/streamlink) | [Streamlink](https://github.com/streamlink/streamlink) | Python | CLI utility which pipes video streams from various services into a video player | 
-| 19. | 🟨 | [❋](https://github.com/yashagarwal1411/SubtitlesForYoutube) | [Subtitles For YouTube](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal) | Extension | Add subtitles to youtube videos. | 
-| 20. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
-| 21. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
-| 22. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
-| 23. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
-| 24. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
-| 25. | 🟨 | [❋](https://github.com/Eugene-Gubar/ycs) | [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) | Extension | Search comments, replies, chat replay, video transcript for the current video. |
-| 26. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 27. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 28. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 39. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 30. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 31. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
-| 32. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+| 1.  | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube Download](https://github.com/Rudloff/alltube) | Web | Web app for downloading youtube videos |
+| 2.  | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
+| 3.  | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
+| 4.  | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
+| 5.  | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
+| 6.  | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](http://improvedtube.com/) | Extension | Improved youtube experience |
+| 7.  | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
+| 8.  | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+| 9.  | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
+| 10. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
+| 11. | 🟨 | | [Picture in Picture - PiP View](https://chrome.google.com/webstore/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
+| 12. | 🟪 | [❋](https://github.com/TeamPiped/Piped) | [Piped](https://piped.kavin.rocks) | Web | Privacy-friendly YouTube frontend which is efficient by design |
+| 13. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
+| 14. | 🟫 | [❋](https://github.com/pytube/pytube) | [PyTube](https://github.com/pytube/pytube) | Python | Command line library for downloading videos |
+| 15. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
+| 16. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
+| 17. | 🟫 | [❋](https://github.com/streamlink/streamlink) | [Streamlink](https://github.com/streamlink/streamlink) | Python | CLI utility which pipes video streams from various services into a video player | 
+| 18. | 🟨 | [❋](https://github.com/yashagarwal1411/SubtitlesForYoutube) | [Subtitles For YouTube](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal) | Extension | Add subtitles to youtube videos. | 
+| 19. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
+| 20. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+| 21. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
+| 22. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
+| 23. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
+| 24. | 🟨 | [❋](https://github.com/Eugene-Gubar/ycs) | [YouTube Comment Search](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) | Extension | Search comments, replies, chat replay, video transcript for the current video. |
+| 25. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
+| 26. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 27. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 28. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 39. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 30. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
+| 31. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
