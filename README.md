@@ -106,9 +106,8 @@ If you would like to add a project or suggest some other correction, edit this r
 | 13. | 🟫 | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
 | 14. | 🟨 | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 15. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 16. | 🟫 | [❋](https://github.com/austinoboyle/scrape-linkedin-selenium) | [Scrape Linkedin](https://github.com/austinoboyle/scrape-linkedin-selenium) | Python | Scrape all details from public LinkedIn profiles |
-| 17. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
-| 18. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 16. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
+| 17. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -305,7 +304,7 @@ Apps that can be used across multiple social media apps.
 | 3. | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
 | 4. | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
 | 5. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
-| 6. | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](http://improvedtube.com/) | Extension | Improved youtube experience |
+| 6. | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](https://github.com/code4charity/YouTube-Extension) | Extension | Improved youtube experience |
 | 7. | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
 | 8. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
 | 9. | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
