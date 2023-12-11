@@ -55,9 +55,8 @@ If you would like to add a project or suggest some other correction, edit this r
 |  3. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
 |  4. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
 |  4. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-|  5. | 🟪 | [❋](https://github.com/Alex-Rose/fb-messenger-cli) | [Messenger CLI](https://github.com/Alex-Rose/fb-messenger-cli) | JavaScript | Command line client for Messenger | 
-|  6. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
-|  7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  5. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+|  6. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
@@ -182,21 +181,19 @@ Apps that can be used across multiple social media apps.
 | 4. | ⬛ | | [F5Bot](https://f5bot.com/) | Bot | Get an email when selected keywords are mentioned on Reddit |
 | 5. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics |
 | 6. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
-| 7. | 🟪 | [❋](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) | Android | Open source client |
-| 8.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
-| 9.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-| 10. | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
-| 11. | ⬛ | [❋](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | [Reddit-Karma-Bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot) | Python | Bot for farming karma |
-| 12. | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 13. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-| 14. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
-| 15. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 16. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 17. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 18. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 19. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 20. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
-| 21. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 7.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
+| 8.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
+| 9.  | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
+| 10. | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
+| 11. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
+| 12. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
+| 13. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 14. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
+| 15. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 16. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 17. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
+| 18. | 🟫 | [❋](https://github.com/not-an-aardvark/snoowrap) | [snoowrap](https://github.com/not-an-aardvark/snoowrap) | JavaScript | A JavaScript wrapper for the reddit API |
+| 19. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 
 * * * 
 
@@ -318,10 +315,9 @@ Apps that can be used across multiple social media apps.
 | 20. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
 | 21. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
 | 22. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
-| 23. | 🟨 | [❋](https://github.com/MrS0m30n3/youtube-dl-gui) | [youtube-dlG](https://github.com/MrS0m30n3/youtube-dl-gui) | Desktop | GUI for youtube-dl video downloader  |
-| 24. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 25. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 26. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 27. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 28. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
-| 29. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
+| 23. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 24. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 25. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 26. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 27. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
+| 28. | 🟨 | [❋](https://github.com/deepjyoti30/ytmdl) | [Ytmdl](https://github.com/deepjyoti30/ytmdl) | Web, Python | Mp3 audio downloader |
