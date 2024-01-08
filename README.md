@@ -202,13 +202,12 @@ Apps that can be used across multiple social media apps.
 |  #  | |  | Name | Platform | Description |
 |:---:| --- | --- | --- | --- | --- |
 | 1.  | 🟨 | [❋](https://github.com/ChristianLisle/memory-download) | [Download snapchat memories](https://www.downloadmysnapchatmemories.com/) | Desktop |  Download all memories from Snapchat |
-| 2.  | 🟫 | [❋](https://github.com/macie-k/download-snap-memories) | [Download snapchat memories](https://github.com/macie-k/download-snap-memories) | Python | Script to download all memories from Snapchat |
-| 3.  | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-| 4.  | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
-| 5.  | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
-| 6.  | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
-| 7.  | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
-| 8.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
+| 2.  | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
+| 3.  | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
+| 4.  | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+| 5.  | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
+| 6.  | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
+| 7.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
 
 * * *
 
@@ -267,24 +266,23 @@ Apps that can be used across multiple social media apps.
 | 30. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
 | 31. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
 | 32. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 33. | 🟨 | [❋](https://github.com/alexdevero/tweeterize-web-app) | [Tweeterize](https://tweeterize-web-app.vercel.app/) | Web | Format long texts into tweet-sized messages | 
-| 34. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 35. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 36. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 37. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 38. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
-| 39. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 40. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 41. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 42. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 43. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 44. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 45. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 46. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 47. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 48. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 49. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 50. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 33. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 34. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 35. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 36. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 37. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
+| 38. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 39. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 40. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 41. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
+| 42. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 43. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 44. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 45. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 46. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 47. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
+| 48. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 49. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 
 
 * * *
