@@ -198,15 +198,14 @@ Apps that can be used across multiple social media apps.
 
 ### Snapchat
 
-|  #  | |  | Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟨 | [❋](https://github.com/ChristianLisle/memory-download) | [Download snapchat memories](https://www.downloadmysnapchatmemories.com/) | Desktop |  Download all memories from Snapchat |
-| 2.  | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-| 3.  | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
-| 4.  | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
-| 5.  | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
-| 6.  | 🟫 | [❋](https://github.com/king-millez/snapmap-archiver) | [snapmap-archiver](https://github.com/king-millez/snapmap-archiver) | Python | Download all Snapmaps content from a specific location | 
-| 7.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
+|  # | |  | Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟨 | [❋](https://github.com/ChristianLisle/memory-download) | [Download snapchat memories](https://www.downloadmysnapchatmemories.com/) | Desktop |  Download all memories from Snapchat |
+| 2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
+| 3. | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
+| 4. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+| 5. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
+| 6.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
 
 * * *
 
