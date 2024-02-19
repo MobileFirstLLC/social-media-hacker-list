@@ -17,7 +17,7 @@
   <a href="#snapchat">Snapchat</a> &bull; 
   <a href="#threads">Threads</a> &bull; 
   <a href="#tiktok">TikTok</a> &bull; 
-  <a href="#twitter">Twitter</a> &bull; 
+  <a href="#x">X/Twitter</a> &bull; 
   <a href="#youtube">Youtube</a> &bull; 
   <a href="#multi-platform">Multi-platform</a>
 </h3>
@@ -228,7 +228,7 @@ Apps that can be used across multiple social media apps.
 
 * * *
 
-### Twitter
+### X
 
 |  # | |  | Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
