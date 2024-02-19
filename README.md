@@ -52,7 +52,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |:--:| --- | --- | --- | --- | --- |
 |  1. | 🟧 | [❋](https://github.com/SecOps-Institute/FacebookIPLists) | [Facebook IP Lists](https://github.com/SecOps-Institute/FacebookIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Facebook |
 |  2. | 🟫 | [❋](https://github.com/karlicoss/fbmessengerexport) | [FB Messenger Export](https://github.com/karlicoss/fbmessengerexport) | Python | Export Messenger/Facebook chat messages |  
-|  3. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+|  3. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
 |  4. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
 |  4. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
 |  5. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
@@ -68,7 +68,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 2.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
 | 3.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
 | 4.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 5.  | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
+| 5.  | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chromewebstore.google.com/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
 | 6.  | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
 | 7.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
 | 8.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
@@ -90,9 +90,9 @@ If you would like to add a project or suggest some other correction, edit this r
 |:--:| --- | --- | --- | --- | --- |
 | 1. | 🟫 | [❋](https://github.com/coding-ai/EasyApply-Linkedin) | [EasyApply-Linkedin](https://github.com/coding-ai/EasyApply-Linkedin) | Python | Automatically apply for jobs on LinkedIn |
 | 2. | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
-| 3. | 🟨 | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chrome.google.com/webstore/detail/indoors-show-glassdoor-ra/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
+| 3. | 🟨 | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chromewebstore.google.com/detail/indoors-show-glassdoor-ra/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
 | 4. | 🟦 | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-| 5. | 🟨 | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chrome.google.com/webstore/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
+| 5. | 🟨 | [❋](https://github.com/joshuatz/linkedin-to-jsonresume) | [JSON Resume Exporter](https://chromewebstore.google.com/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec) | Extension | Export a profile page to JSON Resume |
 | 6. | 🟫 | [❋](https://github.com/tomquirk/linkedin-api) | [Linkedin API](https://github.com/tomquirk/linkedin-api) | Python | Linkedin API for Python |
 | 7. | 🟧 | | [LinkedIn IP List](https://github.com/SecOps-Institute/LinkedInIPLists) | Dataset | List of IPv4 and IPv6 addresses used by LinkedIn crawlers |
 | 8. | 🟫 | [❋](https://github.com/jvandenaardweg/linkedin-profile-scraper) | [Linkedin Profile Scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) | TypeScript | LinkedIn profile scraper using Puppeteer headless browser |
@@ -101,7 +101,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 11. | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
 | 12. | 🟥 |  | [LinkedIn Video Downloader](https://taplio.com/linkedin-video-downloader) | Web | Download LinkedIn Videos |
 | 13. | 🟫 | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
-| 14. | 🟨 | | [Reply Email Finder](https://chrome.google.com/webstore/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 14. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 15. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
 | 16. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
 | 17. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
@@ -256,7 +256,7 @@ Apps that can be used across multiple social media apps.
 | 22. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
 | 23. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
 | 24. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
-| 25. | 🟨 | [❋](https://github.com/gaeulbyul/RedBlock) | [Red Block](https://github.com/gaeulbyul/RedBlock) | Extension ([Firefox](https://addons.mozilla.org/firefox/addon/red-block/), [Chrome](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf), [Edge](https://microsoftedge.microsoft.com/addons/detail/red-block/pfafjkemefoedhcdlhbniejjealpglbj)) | Block, unblock, mute, or unmute multiple users from Twitter. Supports Firefox, Chrome, and Chromium-based browsers. |
+| 25. | 🟨 | [❋](https://github.com/gaeulbyul/RedBlock) | [Red Block](https://github.com/gaeulbyul/RedBlock) | Extension ([Firefox](https://addons.mozilla.org/firefox/addon/red-block/), [Chrome](https://chromewebstore.google.com/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf), [Edge](https://microsoftedge.microsoft.com/addons/detail/red-block/pfafjkemefoedhcdlhbniejjealpglbj)) | Block, unblock, mute, or unmute multiple users from Twitter. Supports Firefox, Chrome, and Chromium-based browsers. |
 | 26. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
 | 27. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
 | 28. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
@@ -267,17 +267,17 @@ Apps that can be used across multiple social media apps.
 | 33. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
 | 34. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 | 35. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
-| 36. | 🟨 | | [Twiks](https://chrome.google.com/webstore/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 36. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
 | 37. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
 | 38. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
 | 39. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 40. | 🟨 | | [Twitter One Click Block](https://chrome.google.com/webstore/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 40. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
 | 41. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
 | 42. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
 | 43. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
 | 44. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
 | 45. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 46. | 🟥 | | [Twitter Video Downloader](https://chrome.google.com/webstore/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 46. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
 | 47. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 
 
@@ -290,14 +290,14 @@ Apps that can be used across multiple social media apps.
 | 1. | 🟨 | [❋](https://github.com/Rudloff/alltube) | [AllTube Download](https://github.com/Rudloff/alltube) | Web | Web app for downloading youtube videos |
 | 2. | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
 | 3. | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
-| 4. | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
+| 4. | 🟨 | [❋](https://github.com/Ashish-Bansal/audio-only-youtube) | [Audio Only Youtube](https://chromewebstore.google.com/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) | Extension | Disable video streams on youtube and listen to audio only. | 
 | 5. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
 | 6. | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](https://github.com/code4charity/YouTube-Extension) | Extension | Improved youtube experience |
 | 7. | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
 | 8. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
 | 9. | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
 | 10. | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
-| 11. | 🟨 | | [Picture in Picture - PiP View](https://chrome.google.com/webstore/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
+| 11. | 🟨 | | [Picture in Picture - PiP View](https://chromewebstore.google.com/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
 | 12. | 🟪 | [❋](https://github.com/TeamPiped/Piped) | [Piped](https://piped.kavin.rocks) | Web | Privacy-friendly YouTube frontend which is efficient by design |
 | 13. | 🟨 | | [PocketTube](https://yousub.info/) | Extension, iOS, Android | Organize subscriptions |
 | 14. | 🟫 | [❋](https://github.com/pytube/pytube) | [PyTube](https://github.com/pytube/pytube) | Python | Command line library for downloading videos |
@@ -305,7 +305,7 @@ Apps that can be used across multiple social media apps.
 | 16. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
 | 17. | 🟫 | [❋](https://github.com/streamlink/streamlink) | [Streamlink](https://github.com/streamlink/streamlink) | Python | CLI utility which pipes video streams from various services into a video player | 
 | 18. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
-| 19. | 🟨 | | [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+| 19. | 🟨 | | [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
 | 20. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
 | 21. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
 | 22. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
