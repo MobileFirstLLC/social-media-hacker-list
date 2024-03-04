@@ -62,25 +62,24 @@ If you would like to add a project or suggest some other correction, edit this r
 
 ### Instagram
 
-|  #  |  |  | Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟨 | | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
-| 2.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
-| 3.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 4.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 5.  | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chromewebstore.google.com/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
-| 6.  | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
-| 7.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 8.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 9.  | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
+|  # |  |  | Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟨 | | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
+| 2. | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
+| 3. | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
+| 4. | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
+| 5. | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chromewebstore.google.com/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
+| 6. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
+| 7. | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 8. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 9. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
 | 10. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 | 11. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
 | 12. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
-| 13. | 🟧 | | [Lisa](https://apps.apple.com/us/app/lisa-smart-photo-assistant/id1203797462?_branch_match_id=716422862006729962) | iOS | ML powered engagement predictor for Instagram |
-| 14. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
-| 15. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 16. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 17. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 13. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
+| 14. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 15. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 16. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 
 * * *
 
@@ -103,8 +102,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 13. | 🟫 | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
 | 14. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 15. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 16. | 🟫 | [❋](https://github.com/linkedtales/scrapedin) | [scrapedin](https://github.com/linkedtales/scrapedin) | JavScript | Scraper for LinkedIn full profile data | 
-| 17. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 16. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 
 * * *
 
@@ -269,15 +267,14 @@ Apps that can be used across multiple social media apps.
 | 36. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
 | 37. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
 | 38. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 39. | 🟫  | [❋](https://github.com/draftbit/twitter-lite) | [Twitter Lite](https://github.com/draftbit/twitter-lite) | Node.js | A tiny, full-featured, flexible client / server library for the Twitter API |
-| 40. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 41. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 42. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 43. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 44. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 45. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 46. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 47. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 39. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 40. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 41. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 42. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 43. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 44. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
+| 45. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 46. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 
 
 * * *
