@@ -57,6 +57,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |  4. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
 |  5. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
 |  6. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  7. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
 
 * * *
 
