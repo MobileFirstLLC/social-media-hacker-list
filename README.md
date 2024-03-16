@@ -81,6 +81,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 14. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 15. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 16. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 17. | 🟨 | | [Instagrab](https://instagrab.app/) | Web | Instagram Downloader |
 
 * * *
 
@@ -223,6 +224,7 @@ Apps that can be used across multiple social media apps.
 |:--:| --- | --- | --- | --- | --- |
 | 1. | 🟥 | | [Lana James](https://itslanajames.com/bulk-tiktok-downloader-and-tiktok-watermark-remover) | Web | TikTok Watermark Remover & Bulk TikTok Downloader |
 | 2. | 🟥 | | [TikTok Downloader](https://tiktokdownloader.com) | Web | TikTok Video Downloader |
+| 3. | 🟥 | | [SnapTik](https://snaptik.kim/) | Web | TikTok Downloader |
 
 * * *
 
@@ -276,6 +278,7 @@ Apps that can be used across multiple social media apps.
 | 44. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
 | 45. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
 | 46. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 47. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
 
 
 * * *
