@@ -51,13 +51,12 @@ If you would like to add a project or suggest some other correction, edit this r
 |  # |  |  | Name | Platform | Description | 
 |:--:| --- | --- | --- | --- | --- |
 |  1. | 🟧 | [❋](https://github.com/SecOps-Institute/FacebookIPLists) | [Facebook IP Lists](https://github.com/SecOps-Institute/FacebookIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Facebook |
-|  2. | 🟫 | [❋](https://github.com/karlicoss/fbmessengerexport) | [FB Messenger Export](https://github.com/karlicoss/fbmessengerexport) | Python | Export Messenger/Facebook chat messages |  
-|  3. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
-|  4. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
+|  2. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+|  3. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
 |  4. | 🟪 | [❋](https://github.com/AllanWang/Frost-for-Facebook) | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost/) | Android | Open source client |
-|  5. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
-|  6. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
-|  7. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
+|  4. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+|  5. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+|  6. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
 
 * * *
 
@@ -256,29 +255,28 @@ Apps that can be used across multiple social media apps.
 | 22. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
 | 23. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
 | 24. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
-| 25. | 🟨 | [❋](https://github.com/gaeulbyul/RedBlock) | [Red Block](https://github.com/gaeulbyul/RedBlock) | Extension ([Firefox](https://addons.mozilla.org/firefox/addon/red-block/), [Chrome](https://chromewebstore.google.com/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf), [Edge](https://microsoftedge.microsoft.com/addons/detail/red-block/pfafjkemefoedhcdlhbniejjealpglbj)) | Block, unblock, mute, or unmute multiple users from Twitter. Supports Firefox, Chrome, and Chromium-based browsers. |
-| 26. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 27. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 28. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
-| 29. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 30. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 31. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 32. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
-| 33. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 34. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 35. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
-| 36. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 37. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 38. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
-| 39. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 40. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 41. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 42. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
-| 43. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 44. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
-| 45. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 46. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
-| 47. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
+| 25. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 26. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 27. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
+| 28. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 29. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 30. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 31. | 🟩 | | [Tweetgen](https://www.tweetgen.com/) | Web | Generate fake tweets |
+| 32. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 33. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 34. | 🟪 | [❋](https://github.com/TwidereProject) | [Twidere](https://github.com/TwidereProject) | [iOS](https://github.com/TwidereProject/TwidereX-iOS), [Android](https://github.com/TwidereProject/TwidereX-Android) | Open source client |
+| 35. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 36. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 37. | 🟧 | | [Twitter IP Lists](https://github.com/SecOps-Institute/TwitterIPLists) | Dataset | List of IPv4 and IPv6 addresses used by Twitter crawlers |
+| 38. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 39. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 40. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
+| 41. | 🟫 | [❋](https://github.com/twitter/twurl) | [twurl](https://github.com/twitter/twurl) | cURL | OAuth-enabled curl for the Twitter API |
+| 42. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 43. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
+| 44. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 45. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
+| 46. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
 
 
 * * *
