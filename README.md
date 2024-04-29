@@ -57,6 +57,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |  4. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
 |  5. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 |  6. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
+|  7. | 🟥 | | [FVSave.com](https://fvsave.com/) | Web | Facebook Downloader |
 
 * * *
 
@@ -81,6 +82,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 15. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 16. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
 | 17. | 🟨 | | [Instagrab](https://instagrab.app/) | Web | Instagram Downloader |
+| 18. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
 
 * * *
 
@@ -221,6 +223,7 @@ Apps that can be used across multiple social media apps.
 | 1. | 🟥 | | [Lana James](https://itslanajames.com/bulk-tiktok-downloader-and-tiktok-watermark-remover) | Web | TikTok Watermark Remover & Bulk TikTok Downloader |
 | 2. | 🟥 | | [TikTok Downloader](https://tiktokdownloader.com) | Web | TikTok Video Downloader |
 | 3. | 🟥 | | [SnapTik](https://snaptik.kim/) | Web | TikTok Downloader |
+| 4. | 🟥 | | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
 
 * * *
 
@@ -273,6 +276,7 @@ Apps that can be used across multiple social media apps.
 | 43. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
 | 44. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
 | 45. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
+| 46. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs
 
 
 * * *
