@@ -182,14 +182,13 @@ Apps that can be used across multiple social media apps.
 | 7.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
 | 8.  | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
 | 9.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 10. | 🟪 | | [Redditoria for Reddit](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria) | Android | Alternative client |
-| 11. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
-| 12. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 13. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 14. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 15. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 16. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 17. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 10. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
+| 11. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 12. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
+| 13. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 14. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 15. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
+| 16. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 
 * * * 
 
@@ -199,10 +198,9 @@ Apps that can be used across multiple social media apps.
 |:--:| --- | --- | --- | --- | --- |
 | 1. | 🟨 | [❋](https://github.com/ChristianLisle/memory-download) | [Download snapchat memories](https://www.downloadmysnapchatmemories.com/) | Desktop |  Download all memories from Snapchat |
 | 2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-| 3. | 🟧 | | [Ghostdex](https://ghostdex.app/) | Web | Searchable database of Snapchat usernames | 
-| 4. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
-| 5. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
-| 6.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
+| 3. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+| 4. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
+| 5.  | 🟨 | [❋](https://github.com/rhematt/Snap-Scraper) | [Snap Scraper](https://github.com/rhematt/Snap-Scraper/releases) | Desktop | Download media uploaded to Snap Map using a set of latitude and longitude coordinates |
 
 * * *
 
