@@ -104,6 +104,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 13. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 14. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
 | 15. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 16. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
 
 * * *
 
