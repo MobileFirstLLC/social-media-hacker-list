@@ -69,20 +69,19 @@ If you would like to add a project or suggest some other correction, edit this r
 | 2. | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
 | 3. | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
 | 4. | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 5. | 🟨 | [❋](https://github.com/HuiiBuh/InstagramDownloader) | [IG Downloader](https://github.com/HuiiBuh/InstagramDownloader) | [Chrome](https://chromewebstore.google.com/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) | Extension that adds a download button for images and videos. |
-| 6. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
-| 7. | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 8. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 9. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
-| 10. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 11. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 12. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
-| 13. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
-| 14. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 15. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 16. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 17. | 🟨 | | [Instagrab](https://instagrab.app/) | Web | Instagram Downloader |
-| 18. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 5. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
+| 6. | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 7. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 8. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
+| 9.  | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 10. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
+| 11. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
+| 12. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
+| 13. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 14. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 15. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 16. | 🟨 | | [Instagrab](https://instagrab.app/) | Web | Instagram Downloader |
+| 17. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
 
 * * *
 
@@ -102,10 +101,9 @@ If you would like to add a project or suggest some other correction, edit this r
 | 10. | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
 | 11. | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
 | 12. | 🟥 |  | [LinkedIn Video Downloader](https://taplio.com/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 13. | 🟫 | [❋](https://github.com/eilonmore/linkedin-private-api) | [NodeJS LinkedIn Private API](https://github.com/eilonmore/linkedin-private-api) | TypeScript | Wrapper API for LinkedIn unofficial API |
-| 14. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 15. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 16. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 13. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 14. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 15. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 
 * * *
 
