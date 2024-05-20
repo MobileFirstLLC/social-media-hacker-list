@@ -181,15 +181,13 @@ Apps that can be used across multiple social media apps.
 | 5. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
 | 6.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
 | 7.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-| 8.  | 🟫 | [❋](https://github.com/Nakilon/reddit_bot) | [RedditBot](https://github.com/Nakilon/reddit_bot) | Ruby | Run bots and scripts that use Reddit API |
-| 9.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 10. | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
-| 11. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 12. | ⬛ | [❋](https://github.com/Watchful1/RemindMeBot) | [RemindMeBot](https://www.reddit.com/r/RemindMeBot/) | Python | Set a reminder for a certain amount of time, via a comment or private message | 
-| 13. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 14. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 15. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
-| 16. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 8.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
+| 9.  | 🟧 | [❋](https://github.com/HenryBalassiano/reddit-search-tool)  | [Reddit Search Tool](https://redditsearchtool.com/) | Web | reddit search tool using the pushift.io API | 
+| 10. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 11. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 12. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 13. | 🟫 | [❋](https://github.com/thislooksfun/snoots) | [snoots](https://github.com/thislooksfun/snoots) | TypeScript | A modern, fully-featured, strongly-typed reddit api wrapper. |
+| 14. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 
 * * * 
 
