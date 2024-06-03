@@ -128,7 +128,6 @@ If you would like to add a project or suggest some other correction, edit this r
 | 14. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
 | 15. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
 | 16. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
-| 17. | ⬛ | [❋](https://github.com/andi1984/wandern_bot) | [Wandern Bot](https://github.com/andi1984/wandern_bot) | Bot | Mastodon bot for #hiking and everything that goes with it. |   
 
 * * *
 
@@ -159,13 +158,12 @@ Apps that can be used across multiple social media apps.
 | 18. | ⬛ | [❋](https://github.com/lakuapik/quotes-indonesia) | [Quotes Indonesia](https://github.com/lakuapik/quotes-indonesia) | Bot | Autopost to facebook, twitter, telegram and instagram using github actions |
 | 19. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
 | 20. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 21. | 🟧 | [❋](https://github.com/d43m0nhLInt3r/socialblocklists) | [Social block lists](https://github.com/d43m0nhLInt3r/socialblocklists) | Dataset | Blocklists/domains of social networking sites |
-| 22. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
-| 23. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
-| 24. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
-| 25. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 26. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 27. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 21. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
+| 22. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
+| 23. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
+| 24. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
+| 25. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 26. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 
 * * *
