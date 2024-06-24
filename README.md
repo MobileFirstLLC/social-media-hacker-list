@@ -267,9 +267,8 @@ Apps that can be used across multiple social media apps.
 | 41. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
 | 42. | ⬛ | [❋](https://github.com/PLhery/unfollowNinja) | [Unfollow Ninja](https://unfollow.ninja/) | Bot | Get notified when your Twitter account loses a follower | 
 | 43. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 44. | 🟨 | | [Tweetbase](https://tweetbase.com) | Web | Organize your likes and bookmarks with AI
-| 45. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
-| 46. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs
+| 44. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
+| 45. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs
 
 
 * * *
