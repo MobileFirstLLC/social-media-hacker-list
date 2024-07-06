@@ -164,6 +164,7 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
 | 25. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
 | 26. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 27. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
 
 
 * * *
