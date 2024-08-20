@@ -185,6 +185,8 @@ Apps that can be used across multiple social media apps.
 | 11. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
 | 12. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
 | 13. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 14. | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
+
 
 * * * 
 
