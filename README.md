@@ -192,10 +192,9 @@ Apps that can be used across multiple social media apps.
 
 |  # | |  | Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
-| 1. | 🟨 | [❋](https://github.com/ChristianLisle/memory-download) | [Download snapchat memories](https://www.downloadmysnapchatmemories.com/) | Desktop |  Download all memories from Snapchat |
-| 2. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
-| 3. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
-| 4. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
+| 1. | 🟧 | | [GhostCodes](https://www.ghostcodes.com/) | Web, iOS, Android | Discover new people on Snapchat |
+| 2. | 🟫 | [❋](https://github.com/skyme5/snapchat-dl) | [snapchat-dl](https://github.com/skyme5/snapchat-dl) | Python | Snapchat public story downloader |
+| 3. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
 
 * * *
 
