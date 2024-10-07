@@ -265,6 +265,8 @@ Apps that can be used across multiple social media apps.
 | 40. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
 | 41. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader
 | 42. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs
+| 43. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks 
+| 44. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free  
 
 
 * * *
