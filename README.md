@@ -79,8 +79,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 13. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 14. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 15. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 16. | 🟨 | | [Instagrab](https://instagrab.app/) | Web | Instagram Downloader |
-| 17. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 16. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
 
 * * *
 
