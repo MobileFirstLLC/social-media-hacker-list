@@ -64,22 +64,21 @@ If you would like to add a project or suggest some other correction, edit this r
 
 |  # |  |  | Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
-| 1. | 🟨 | | [1stagram](https://air.inc/blog/1stagram) | Web | Discover anyone's first Instagram post |
-| 2. | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
-| 3. | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 4. | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 5. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
-| 6. | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 7. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 8. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
-| 9.  | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 10. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 11. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
-| 12. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
-| 13. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 14. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 15. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
-| 16. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 1. | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
+| 2. | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
+| 3. | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
+| 4. | 🟫 | [❋](https://github.com/ramtinak/InstagramApiSharp) | [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) | C# | Private Instagram API for .NET |
+| 5. | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 6. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 7. | 🟪 | | [Instander](https://thedise.me/instander/) | Android | Alternative client with many improvements over the original application | 
+| 8.  | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 9.  | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
+| 10. | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
+| 11. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
+| 12. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 13. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 14. | 🟨 | | [Tweet Photo](https://tweet.photo/) | Web | Automagically post your Instagram photos to Twitter |
+| 15. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
 
 * * *
 
