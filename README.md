@@ -101,6 +101,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 13. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
 | 14. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 | 15. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 16. | 🟦 | | [CommenTron](https://chromewebstore.google.com/detail/commentron-%E2%80%94-ai-booster-f/hdappgahcgpifoabanfifjicfllpokgo) | Extension | Auto-Comment on LinkedIn Posts |
 
 * * *
 
