@@ -138,8 +138,7 @@ Apps that can be used across multiple social media apps.
 | 3. | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
 | 4. | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
 | 5. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 6. | 🟥 | | [Descript](https://www.descript.com/) | Web | Collaborative video editor with fancy captions |
-| 8. | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
+| 6. | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
 | 7. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
 | 8. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
 | 9. | ⬛ | | [HandleDroid](https://handledroid.com/) | Web | Sends an alert when a desired username is released on Twitter, Facebook or Instagram |
