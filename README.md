@@ -56,6 +56,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |  4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 |  5. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
 |  6. | 🟥 | | [FVSave.com](https://fvsave.com/) | Web | Facebook Downloader |
+|  7. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
 
 * * *
 
@@ -179,6 +180,7 @@ Apps that can be used across multiple social media apps.
 | 11. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
 | 12. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 | 13. | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
+| 14. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
 
 
 * * * 
@@ -210,6 +212,7 @@ Apps that can be used across multiple social media apps.
 | 2. | 🟥 | | [SnapTik](https://snaptik.kim/) | Web | TikTok Downloader |
 | 3. | 🟥 | | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
 | 4. | 🟥 | | [TikTokio](https://tiktokio.com/) | Web | Fast and Free TikTok Video Downloader |
+| 5. | 🟥 | | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
 
 * * *
 
