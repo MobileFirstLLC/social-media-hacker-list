@@ -98,6 +98,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 11. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
 | 12. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 | 13. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 14. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
 
 
 * * *
