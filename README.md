@@ -48,15 +48,14 @@ If you would like to add a project or suggest some other correction, edit this r
 
 ### Facebook
 
-|  # |  |  | Name | Platform | Description | 
+| #  |  |  | Name | Platform | Description | 
 |:--:| --- | --- | --- | --- | --- |
-|  1. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
-|  2. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
-|  3. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
-|  4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
-|  5. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
-|  6. | 🟥 | | [FVSave.com](https://fvsave.com/) | Web | Facebook Downloader |
-|  7. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
+| 1. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+| 2. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
+| 3. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows |  Desktop client for Messenger |
+| 4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+| 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | [Web](https://fbtake.com) Facebook video downloader |
+| 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
 
 * * *
 
