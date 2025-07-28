@@ -71,7 +71,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 6.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
 | 7.  | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 | 8.  | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 9.  | 🟦 | | [Line Break Generator](https://instagramlinebreak.app/) | Web | Instagram Line Break Generator |
+| 9.  | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
 | 10. | 🟫 | [❋](https://github.com/dilame/instagram-private-api) | [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api) | TypeScript | NodeJS Instagram private API SDK |
 | 11. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 12. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
