@@ -85,18 +85,17 @@ If you would like to add a project or suggest some other correction, edit this r
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | --- | --- | --- | --- |
 | 1.  | 🟦 | | [CommenTron](https://chromewebstore.google.com/detail/commentron-%E2%80%94-ai-booster-f/hdappgahcgpifoabanfifjicfllpokgo) | Extension | Auto-Comment on LinkedIn Posts |
-| 2.  | 🟫 | [❋](https://github.com/coding-ai/EasyApply-Linkedin) | [EasyApply-Linkedin](https://github.com/coding-ai/EasyApply-Linkedin) | Python | Automatically apply for jobs on LinkedIn |
-| 3.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
-| 4.  | 🟨 | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chromewebstore.google.com/detail/indoors-show-glassdoor-ra/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
-| 5.  | 🟦 | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-| 6.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-| 7.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
-| 8.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 9.  | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 10. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 11. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
-| 12. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 13. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
+| 2.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
+| 3.  | 🟨 | [❋](https://github.com/CalvinWu4/inDoors) | [InDoors](https://chromewebstore.google.com/detail/indoors-show-glassdoor-ra/eapcedpgnlmgkigiieacngkpdjikfgci) | Extension | Displays companies' Glassdoor ratings on LinkedIn |
+| 4.  | 🟦 | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
+| 5.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+| 6.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 7.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
+| 8.  | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 9.  | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 10. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 11. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 12. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
 
 
 * * *
