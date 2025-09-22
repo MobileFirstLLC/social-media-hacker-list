@@ -244,13 +244,12 @@ Apps that can be used across multiple social media apps.
 | 33. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
 | 34. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
 | 35. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 36. | 🟥 | | [Twitter Vid](https://twittervid.com/) | Web | Twitter video downloader that works with multi-video tweets |
-| 37. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 38. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 39. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
-| 40. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
-| 41. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 42. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
+| 36. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
+| 37. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 38. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
+| 39. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
+| 40. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
+| 41. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
 
 * * *
 
