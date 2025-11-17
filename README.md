@@ -154,22 +154,21 @@ Apps that can be used across multiple social media apps.
 
 ### Reddit
 
-|  # |  |  | Name | Platform | Description |
-|:--:| --- | --- | --- | --- | --- |
-| 1. | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
-| 2. | 🟫 | [❋](https://github.com/aliparlakci/bulk-downloader-for-reddit) | [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) | Python | Downloads and archives content from reddit. |
-| 3. | ⬛ | | [F5Bot](https://f5bot.com/) | Bot | Get an email when selected keywords are mentioned on Reddit |
-| 4. | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics |
-| 5. | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
-| 6.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
-| 7.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-| 8.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 9. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 10. | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
-| 11. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 12. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
-| 13. | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
-| 14. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
+|  #  |  |  | Name | Platform | Description |
+|:---:| --- | --- | --- | --- | --- |
+| 1.  | 🟪 | | [Apollo](https://apolloapp.io/) | iOS | Reddit client |
+| 2.  | ⬛ | | [F5Bot](https://f5bot.com/) | Bot | Get an email when selected keywords are mentioned on Reddit |
+| 3.  | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics |
+| 4.  | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
+| 5.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
+| 6.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
+| 7.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
+| 8.  | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 9.  | 🟨 | | [Repost Sleuth](https://repostsleuth.com/) | Web, Bot | Reposting search and protection |
+| 10. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 11. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 12. | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
+| 13. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
 
 
 * * * 
