@@ -10,6 +10,6 @@ jobs:
   check-urls:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Check URLs
         run: ./check "README.md" ${{ secrets.GITHUB_TOKEN }}
