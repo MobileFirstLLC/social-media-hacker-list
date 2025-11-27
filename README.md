@@ -95,6 +95,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 10. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 | 11. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
 | 12. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
+| 13. | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
 
 
 * * *
