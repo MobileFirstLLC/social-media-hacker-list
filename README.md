@@ -151,6 +151,7 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
 | 25. | 🟨 | | [Statuz](https://statuz.gg) | MacOS | Cross-post to X, BlueSky and Mastodon straight from your menu bar |
 | 26. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
+| 27. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
 
 * * *
 
