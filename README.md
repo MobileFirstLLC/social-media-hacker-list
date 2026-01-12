@@ -111,11 +111,10 @@ If you would like to add a project or suggest some other correction, edit this r
 | 5. | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
 | 6. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
 | 7. | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
-| 8. | 🟪 | [❋](https://github.com/NicolasConstant/sengi) | [Sengi](https://nicolasconstant.github.io/sengi/) | Windows, Mac, Linux | A multi-account Mastodon desktop client |
-| 9.  | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
-| 10. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
-| 11. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
-| 12. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
+| 8.  | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 9. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
+| 10. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
+| 11. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
 
 * * *
 
