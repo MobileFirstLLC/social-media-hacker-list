@@ -32,7 +32,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v7
         with:
-          context: .github
+          context: checker
           platforms: linux/amd64,linux/arm64
           file: checker/Dockerfile
           tags: |
