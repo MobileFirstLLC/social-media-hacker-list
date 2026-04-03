@@ -24,8 +24,7 @@ jobs:
       - uses: docker/setup-buildx-action@v4
       - id: meta
         run: |
-          handle=${{ github.repository_owner }}
-          OWNER=$(echo "$handle" | tr '[:upper:]' '[:lower:]') 
+          OWNER=$(echo "$GITHUB_REPOSITORY_OWNER" | tr '[:upper:]' '[:lower:]') 
           VERSION=$(grep '^version' checker/Cargo.toml | head -1 | sed 's/version = "\(.*\)"/\1/')
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
           echo "owner=$OWNER" >> "$GITHUB_OUTPUT"
