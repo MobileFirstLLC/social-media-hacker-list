@@ -8,6 +8,9 @@ use std::env;
 use std::fs::read_to_string;
 use url::{Host, Url};
 
+const INACTIVE_AFTER_N_DAYS: i64 = 365;
+const ACCEPT_STATUS: [u16; 3] = [200, 403, 406];
+
 enum CheckResult {
     Success(),
     Error(String),
@@ -16,38 +19,41 @@ enum CheckResult {
 #[derive(Deserialize)]
 struct Repo {
     pushed_at: DateTime<Utc>,
+    archived: bool,
+}
+
+fn to_url(url: &str) -> Url {
+    Url::parse(url).expect("Invalid url")
 }
 
 fn is_ok(status: StatusCode, url: &str) -> bool {
-    return status == 200
-        || status == 403
-        || status == 406
+    let su16 = status.as_u16();
+    ACCEPT_STATUS.iter().find(|&&x| x == su16).is_some()
+        // the acceptable edge cases
         || (status == 502 && url.contains("reddit.com/"))
-        || (status == 429 && url.contains("apps.apple.com/"));
-}
-
-fn get_url(url: &str) -> Url {
-    return Url::parse(url).expect("Invalid url");
+        || (status == 429 && url.contains("apps.apple.com/"))
 }
 
 fn is_repo(url: &str) -> bool {
-    let res = get_url(url);
-    return res.host() == Some(Host::Domain("github.com")) && res.path().split("/").count() > 2;
+    let res = to_url(url);
+    res.host().is_some()
+        && res.host().unwrap() == Host::Domain("github.com")
+        && res.path().split("/").count() > 2
 }
 
-fn gh_repo_url(url: &str) -> String {
-    let res = get_url(url);
+fn construct_api_url(url: &str) -> String {
+    let res = to_url(url);
     let parts: Vec<&str> = res.path().split("/").collect();
-    return format!("https://api.github.com/repos/{}/{}", parts[1], parts[2]);
+    format!("https://api.github.com/repos/{}/{}", parts[1], parts[2])
 }
 
-fn is_active(date: DateTime<Utc>) -> bool {
-    return Utc::now().signed_duration_since(date).num_days() < 365;
+fn is_inactive(date: DateTime<Utc>) -> bool {
+    Utc::now().signed_duration_since(date).num_days() >= INACTIVE_AFTER_N_DAYS
 }
 
 async fn check_repo(u: &str, token: &str) -> Result<CheckResult, Error> {
     let response = Client::new()
-        .get(&gh_repo_url(u))
+        .get(&construct_api_url(u))
         .header("User-Agent", "url-checker")
         .header("Accept", "application/vnd.github.v3+json")
         .header("Authorization", format!("token {}", token))
@@ -56,12 +62,16 @@ async fn check_repo(u: &str, token: &str) -> Result<CheckResult, Error> {
     let status = response.status();
     if is_ok(status, u) {
         let repo: Repo = response.json().await?;
-        if is_active(repo.pushed_at) {
-            return Ok(CheckResult::Success());
+        let mut result = CheckResult::Success();
+        if repo.archived {
+            result = CheckResult::Error(String::from("archived"));
         }
-        return Ok(CheckResult::Error(String::from("inactive")));
+        if is_inactive(repo.pushed_at) {
+            result = CheckResult::Error(String::from("inactive"));
+        }
+        return Ok(result);
     }
-    return Ok(CheckResult::Error(status.to_string()));
+    Ok(CheckResult::Error(status.to_string()))
 }
 
 async fn check_url(u: &str) -> Result<CheckResult, Error> {
@@ -70,8 +80,8 @@ async fn check_url(u: &str) -> Result<CheckResult, Error> {
         .header("Accept", "*/*")
         .header(
             "User-Agent",
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 \
-                (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
+            (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         )
         .send()
         .await?;
@@ -87,55 +97,46 @@ async fn check_url(u: &str) -> Result<CheckResult, Error> {
     if is_ok(get.status(), u) {
         return Ok(CheckResult::Success());
     }
-    return Ok(CheckResult::Error(get.status().to_string()));
+    Ok(CheckResult::Error(get.status().to_string()))
 }
 
 #[tokio::main]
 async fn main() {
     let args: Vec<String> = env::args().collect();
-    let readme = if args.len() > 1 {
-        &args[1]
-    } else {
-        "../README.md"
-    };
-    let token = if args.len() > 2 { &args[2] } else { "" };
-    let pattern = r"https?://(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.([a-zA-Z0-9()]){1,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)";
-    let contents = read_to_string(readme).expect("File read error!");
+    let input_file = args.get(1).map(|s| s.as_str()).unwrap_or("README.md");
+    let token = args.get(2).map(|s| s.as_str()).unwrap_or("");
+    let pattern = r"https?://(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.([a-zA-Z0-9()]){1,6}\b([-a-zA-Z0-9@:%_+.~#?&/=]*)";
+    let contents = read_to_string(input_file).expect("File read error!");
     let re = Regex::new(pattern).unwrap();
-    let matches: Vec<&str> = re
+
+    let urls: Vec<&str> = re
         .find_iter(&contents)
-        .filter_map(|cap| Some(cap.as_str()))
-        .collect();
-    let urls: Vec<_> = matches
-        .iter()
-        .cloned()
-        .collect::<HashSet<_>>()
+        .filter_map(|u| Some(u.as_str()))
+        .collect::<HashSet<&str>>()
         .into_iter()
         .collect();
+
     let total = urls.len();
     let mut fails: Vec<String> = Vec::new();
     let mut progress = 0;
     let mut index = 0;
+    println!("Checking {total} entries");
 
-    println!("Checking {} entries...", total);
     for u in urls {
-        let check_result;
-        if is_repo(u) {
-            check_result = check_repo(u, token).await;
+        let check_result = if is_repo(u) {
+            check_repo(u, token).await
         } else {
-            check_result = check_url(u).await;
-        }
+            check_url(u).await
+        };
         match check_result {
-            Ok(res) => match res {
-                CheckResult::Error(reason) => fails.push(format!("{} - {}", u, reason)),
-                _ => {}
-            },
-            Err(_) => fails.push(format!("{} - error", u)),
+            Ok(CheckResult::Success()) => {}
+            Ok(CheckResult::Error(reason)) => fails.push(format!("{u} - {reason}")),
+            Err(_) => fails.push(format!("{u} - error")),
         }
-        index = index + 1;
+        index += 1;
         let percent = (index * 100) / total;
         if percent % 10 == 0 && percent > progress {
-            println!("...{ } % ({})", percent, fails.len());
+            println!("...{percent} % ({})", fails.len());
             progress = percent;
         }
     }
@@ -147,5 +148,5 @@ async fn main() {
         }
         std::process::exit(1);
     }
-    println!("no issues");
+    println!("✓ all checks passed");
 }
