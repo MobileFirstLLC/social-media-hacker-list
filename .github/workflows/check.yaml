@@ -4,12 +4,21 @@ on:
   schedule:
     - cron:  '0 0 * * 1'  # once a week at 0:00 UTC
   workflow_dispatch:
-    branches: [ master ]
 
 jobs:
   check-urls:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
     steps:
       - uses: actions/checkout@v6
+      - name: Login to GHCR
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
       - name: Check URLs
-        run: ./check "README.md" ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          docker pull ghcr.io/mobilefirstllc/checker:latest
+          docker run --rm -i \
+            -e GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" \
+            ghcr.io/mobilefirstllc/checker:latest < README.md
+          
