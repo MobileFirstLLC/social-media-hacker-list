@@ -24,16 +24,18 @@ jobs:
       - uses: docker/setup-buildx-action@v4
       - id: meta
         run: |
+          handle=${{ github.repository_owner }}
+          OWNER=$(echo "$handle" | tr '[:upper:]' '[:lower:]') 
           VERSION=$(grep '^version' checker/Cargo.toml | head -1 | sed 's/version = "\(.*\)"/\1/')
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "owner=$OWNER" >> "$GITHUB_OUTPUT"
       - name: Build and push Docker image
         uses: docker/build-push-action@v7
         with:
           context: .github
           platforms: linux/amd64,linux/arm64
           file: checker/Dockerfile
-          tags: |
-            ghcr.io/${{ github.repository_owner.toLowerCase() }}/checker:${{ steps.meta.outputs.version }}
+          tags: ghcr.io/${{ github.meta.outputs.owner }}/checker:${{ steps.meta.outputs.version }}
           annotations: |
             index:org.opencontainers.image.description=Scans a plaintext file for URLs and checks liveness status. 
             index:org.opencontainers.image.licenses=CC0-1.0
