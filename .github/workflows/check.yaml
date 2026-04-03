@@ -13,6 +13,8 @@ jobs:
       packages: read
     steps:
       - uses: actions/checkout@v6
+      - name: Login to GHCR
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
       - name: Check URLs
         run: |
           docker pull ghcr.io/mobilefirstllc/checker:latest
