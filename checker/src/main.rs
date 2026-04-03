@@ -1,12 +1,13 @@
-use chrono::offset::Utc;
 use chrono::DateTime;
+use chrono::offset::Utc;
 use regex::Regex;
 use reqwest::{Client, Error, StatusCode};
 use serde::Deserialize;
 use std::collections::HashSet;
 use std::env;
-use std::fs::read_to_string;
+use std::io::{self, Read};
 use url::{Host, Url};
+
 
 const INACTIVE_AFTER_N_DAYS: i64 = 365;
 const ACCEPT_STATUS: [u16; 3] = [200, 403, 406];
@@ -102,13 +103,13 @@ async fn check_url(u: &str) -> Result<CheckResult, Error> {
 
 #[tokio::main]
 async fn main() {
-    let args: Vec<String> = env::args().collect();
-    let input_file = args.get(1).map(|s| s.as_str()).unwrap_or("README.md");
-    let token = args.get(2).map(|s| s.as_str()).unwrap_or("");
+    let token = env::var("GITHUB_TOKEN").unwrap_or_default();
     let pattern = r"https?://(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.([a-zA-Z0-9()]){1,6}\b([-a-zA-Z0-9@:%_+.~#?&/=]*)";
-    let contents = read_to_string(input_file).expect("File read error!");
     let re = Regex::new(pattern).unwrap();
-
+    let mut contents = String::new();
+        io::stdin()
+            .read_to_string(&mut contents)
+            .expect("Failed to read input from stdin");
     let urls: Vec<&str> = re
         .find_iter(&contents)
         .filter_map(|u| Some(u.as_str()))
@@ -120,11 +121,15 @@ async fn main() {
     let mut fails: Vec<String> = Vec::new();
     let mut progress = 0;
     let mut index = 0;
+    if total == 0 {
+        println!("Did not find any URLs to process");
+        std::process::exit(0);
+    }
     println!("Checking {total} entries");
 
     for u in urls {
         let check_result = if is_repo(u) {
-            check_repo(u, token).await
+            check_repo(u, token.as_str()).await
         } else {
             check_url(u).await
         };
