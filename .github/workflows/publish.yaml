@@ -1,0 +1,50 @@
+name: Publish Checker
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish-quality-checker:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: docker/login-action@v4
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: docker/setup-qemu-action@v4
+      - uses: docker/setup-buildx-action@v4
+      - id: meta
+        run: |
+          VERSION=$(grep '^version' checker/Cargo.toml | head -1 | sed 's/version = "\(.*\)"/\1/')
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v7
+        with:
+          context: .github
+          platforms: linux/amd64,linux/arm64
+          file: checker/Dockerfile
+          tags: |
+            ghcr.io/${{ github.repository_owner }}/checker:${{ steps.meta.outputs.version }}
+          annotations: |
+            index:org.opencontainers.image.description=Scans a plaintext file for URLs and checks liveness status. 
+            index:org.opencontainers.image.licenses=CC0-1.0
+            index:org.opencontainers.image.title=URL Quality Checker
+            index:org.opencontainers.image.version=${{ steps.meta.outputs.version }}
+          labels: |
+            org.opencontainers.image.title==URL Quality Checker
+            org.opencontainers.image.description=Scans a plaintext file for URLs and checks liveness status.
+            org.opencontainers.image.licenses=CC0-1.0
+            org.opencontainers.image.version="${{ steps.meta.outputs.version }}"
+            org.opencontainers.image.revision=${{ github.sha }}
+            org.opencontainers.image.source=${{ github.repositoryUrl }}
+          provenance: false
+          push: true

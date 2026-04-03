@@ -1,13 +1,10 @@
 [package]
 name = "checker"
-version = "0.1.2"
-edition = '2021'
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+version = "1.0.0"
+edition = '2024'
 
 [dependencies]
 regex = "*"
-json = "*"
 url= "*"
 chrono = { version = "*", features = ["serde"] }
 reqwest = { version = "*", features = ["json"] }
