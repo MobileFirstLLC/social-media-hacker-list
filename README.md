@@ -113,7 +113,6 @@ If you would like to add a project or suggest some other correction, edit this r
 | 8.  | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
 | 9. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
 | 10. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
-| 11. | 🟪 | [❋](https://github.com/tuskyapp/Tusky) | [Tusky](https://f-droid.org/packages/com.keylesspalace.tusky/) | Android | An Android client for Mastodon |
 
 * * *
 
