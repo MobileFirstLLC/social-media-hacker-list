@@ -231,19 +231,20 @@ Apps that can be used across multiple social media apps.
 | 21. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
 | 22. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
 | 23. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 24. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 25. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 26. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 27. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 28. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 29. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
-| 30. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 31. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads | 
-| 32. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 33. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
-| 34. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
-| 35. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 36. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
+| 24. | 🟫 | [❋](https://github.com/Xquik-dev/tweetclaw) | [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw, npm | OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws. |
+| 25. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 26. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 27. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 28. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 29. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 30. | 🟨 | | [Twitter One Click Block](https://chromewebstore.google.com/detail/twitter-one-click-block/cpkbcemgamhinbingpodkfnpnofkloae) | Extension | |
+| 31. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 32. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
+| 33. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
+| 34. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
+| 35. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
+| 36. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
+| 37. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
 
 * * *
 
