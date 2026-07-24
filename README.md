@@ -202,6 +202,7 @@ Apps that can be used across multiple social media apps.
 | 5. | 🟥 | | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
 | 6. | 🟥 | | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
 | 7. | 🟥 | | [Tik.ninja](https://tik.ninja/) | Web | Fast and free TikTok viewer and downloader |
+| 8. | 🟥 | | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
 
 * * *
 
