@@ -75,6 +75,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 10. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 11. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 12. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 13. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
 
 * * *
 
@@ -180,6 +181,7 @@ Apps that can be used across multiple social media apps.
 | #  | |  | Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
 | 1. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
+| 2. | 🟩 | | [ViewSnapStories](https://viewsnapstories.com) | Web | View and Download Snapchat Stories and Spotlights Anonymously |
 
 * * *
 
@@ -205,6 +207,8 @@ Apps that can be used across multiple social media apps.
 | 6. | 🟥 | | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
 | 7. | 🟥 | | [Tik.ninja](https://tik.ninja/) | Web | Fast and free TikTok viewer and downloader |
 | 8. | 🟥 | | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
+| 9. | 🟥 | | [TikFace](https://tikface.com/) | Web | TikTok Web Profile Viewer |
+| 10. | 🟥 | | [ViewTikStories](https://viewtikstories.com/) | Web | View and download public TikTok Stories and videos anonymously |
 
 * * *
 
