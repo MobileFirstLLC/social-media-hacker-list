@@ -138,7 +138,7 @@ Apps that can be used across multiple social media apps.
 | 13. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
 | 14. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
 | 15. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 16. | 🟨 | [❋](https://github.com/rodrgds/openpost) | [OpenPost](https://openpost.social/) | Web | Self-hosted scheduling and publishing across multiple social networks |
+| 16. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpost.social/) | Web | Self-hosted scheduling and publishing across multiple social networks |
 | 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 18. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
 | 19. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
