@@ -208,7 +208,7 @@ Apps that can be used across multiple social media apps.
 | 8. | 🟥 | | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
 | 9. | 🟥 | | [TikFace](https://tikface.com/) | Web | TikTok Web Profile Viewer |
 | 10. | 🟥 | | [ViewTikStories](https://viewtikstories.com/) | Web | View and download public TikTok Stories and videos anonymously |
-| 11. | 🟥 | | [TikTok Tools](https://omar-thing.site/) | Web | TikTok user finder, you can get any user info like region, language and other info, and other tools like reposts viewer, stories & highlights viewer, url tracker, and etc |
+| 11. | 🟨 | | [TikTok Tools](https://omar-thing.site/) | Web | TikTok user finder, you can get any user info like region, language and other info, and other tools like reposts viewer, stories & highlights viewer, url tracker, tiktok downloader, live viewer, and etc |
 
 * * *
 
