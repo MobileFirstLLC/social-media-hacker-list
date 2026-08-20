@@ -260,7 +260,7 @@ Apps that can be used across multiple social media apps.
 | 29. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
 | 30. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
 | 31. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 32. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
+| 32. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli)) | Extension | Export your X Bookmarks for free |
 | 33. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
 | 34. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
 
