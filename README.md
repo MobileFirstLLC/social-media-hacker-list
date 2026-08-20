@@ -24,7 +24,12 @@
 
 #### Inclusion criteria
 
-These are apps and projects made by unaffiliated developers. This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. Also included are solutions that repurpose social media platforms and their content in elevated ways. **No dead or broken projects** - all apps in this list are checked automatically weekly for OK response and will be removed following failure. Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. No sketchy extensions that must be run in dev mode.
+These are apps and projects made by unaffiliated developers. 
+This list features alternative clients, SDKs, tools, bots and datasets to improve or build upon the default user experience across various social media platforms. 
+Also included are solutions that repurpose social media platforms and their content in elevated ways. 
+**No dead or broken projects** - all apps in this list are checked automatically weekly for OK response and will be removed following failure. 
+Open source projects must not be archived and must show recent commit activity (<= 12 months) to be included. 
+No sketchy extensions that must be run in dev mode.
 
 #### Contributing
 
@@ -48,14 +53,14 @@ If you would like to add a project or suggest some other correction, edit this r
 
 ### Facebook
 
-| #  |  |  | Name | Platform                                                                                                                           | Description                                       | 
-|:--:| --- | --- | --- |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| 1. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader                         |
-| 2. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension                                                                                                                          | Displays Facebook notifications unread count      |
-| 3. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows                                                                                                                     | Desktop client for Messenger                      |
-| 4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java                                                                                                                               | Open source FB Graph API client                   | 
-| 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader                        |
-| 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web                                                                                                                                | Facebook Reels, Video, Profile Picture Downloader |
+| #  |  |  | Name | Platform | Description | 
+|:--:| --- | --- | --- |----|----|
+| 1. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+| 2. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
+| 3. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows | Desktop client for Messenger |
+| 4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+| 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader |
+| 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
 
 * * *
 
@@ -90,9 +95,9 @@ If you would like to add a project or suggest some other correction, edit this r
 | 5.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
 | 6.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
 | 7.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 8. | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
+| 8.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
 | 9.  | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 10.  | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 10. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
 | 11. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
 | 12. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
 | 13. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
@@ -111,7 +116,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 5. | 🟪 |  | [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) | iOS | Beautiful, elegant, and performant Mastodon client app |
 | 6. | 🟪 |  | [Pinafore](https://pinafore.social) | Web | Web client for Mastodon, designed for speed and simplicity |
 | 7. | 🟨 | [❋](https://github.com/kha7iq/pingme) | [PingMe](https://pingme.lmno.pk/) | MacOS, GH Action | CLI to send messages to various messaging platforms incl. Mastodon |
-| 8.  | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
+| 8. | 🟪 |  | [Subway Tooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter) | Android | Mastodon client for Android 5.0 or later |
 | 9. | 🟪 |  | [Toot](https://apps.apple.com/app/toot/id1229021451) | iOS, iPad | Social networking that is nice |
 | 10. | 🟫 | [❋](https://github.com/joschi/toot-together) | [Toot Together](https://github.com/joschi/toot-together) | GH Action | Publish toots from a GitHub repository | 
 
@@ -127,30 +132,31 @@ Apps that can be used across multiple social media apps.
 | 2.  | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
 | 3.  | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
 | 4.  | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
-| 5.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 6.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
-| 7.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
-| 8.  | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
-| 9.  | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-| 10. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
-| 11. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
-| 12. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 13. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 14. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 15. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 5.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
+| 6.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
+| 7.  | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
+| 8.  | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+| 9.  | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
+| 10. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
+| 11. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 12. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 13. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
+| 14. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 15. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
 | 16. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpost.social/) | Web | Self-hosted scheduling and publishing across multiple social networks |
 | 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 18. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 19. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 19. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
 | 20. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
 | 21. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
 | 22. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more |
-| 23. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 24. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 25. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
-| 26. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 27. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
-| 28. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 23. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 24. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 25. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 26. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 27. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 28. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
+| 29. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
 
 * * *
 
@@ -182,6 +188,7 @@ Apps that can be used across multiple social media apps.
 | 1. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
 | 2. | 🟩 | | [ViewSnapStories](https://viewsnapstories.com) | Web | View and Download Snapchat Stories and Spotlights Anonymously |
 
+
 * * *
 
 ### Threads
@@ -196,19 +203,25 @@ Apps that can be used across multiple social media apps.
 
 ### TikTok
 
-|  # |  |  |  Name | Platform | Description |
-|:--:| --- | --- | --- | --- | --- |
-| 1. | 🟥 | | [TikTok Downloader](https://tiktokdownloader.com) | Web | TikTok Video Downloader |
-| 2. | 🟥 | | [SnapTik](https://snaptik.kim/) | Web | TikTok Downloader |
-| 3. | 🟥 | | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
-| 4. | 🟥 | | [TikTokio](https://tiktokio.com/) | Web | Fast and Free TikTok Video Downloader |
-| 5. | 🟥 | | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
-| 6. | 🟥 | | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
-| 7. | 🟥 | | [Tik.ninja](https://tik.ninja/) | Web | Fast and free TikTok viewer and downloader |
-| 8. | 🟥 | | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
-| 9. | 🟥 | | [TikFace](https://tikface.com/) | Web | TikTok Web Profile Viewer |
-| 10. | 🟥 | | [ViewTikStories](https://viewtikstories.com/) | Web | View and download public TikTok Stories and videos anonymously |
-| 11. | 🟨 | | [TikTok Tools](https://omar-thing.site/) | Web | TikTok user finder, you can get any user info like region, language and other info, and other tools like reposts viewer, stories & highlights viewer, url tracker, tiktok downloader, live viewer, and etc |
+|  #  |  |  |  Name | Platform | Description |
+|:---:| --- |--| --- | --- | --- |
+|  | 🟥 |  | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
+|  | 🟥 |  | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
+|  | 🟥 |  | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
+|  | 🟥 |  | [SnapTik](https://snaptik.kim/) | Web | TikTok Downloader |
+|  | 🟥 |  | [Tik.ninja](https://tik.ninja/) | Web | Fast and free TikTok viewer and downloader |
+|  | 🟥 |  | [TikFace](https://tikface.com/) | Web | TikTok Web Profile Viewer |
+|  | 🟥 |  | [TikTok Downloader](https://tiktokdownloader.com) | Web | TikTok Video Downloader |
+|  | 🟧 | [❋](https://github.com/conoro/tiktok-rss-flat) | [TikTok RSS](https://github.com/conoro/tiktok-rss-flat) | GH Actions | Generate RSS feeds for TikTok accounts |
+|  | 🟥 |  | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
+|  | 🟫 | [❋](https://github.com/davidteather/TikTok-Api) | [TikTok-Api](https://github.com/davidteather/TikTok-Api) | Python | The Unofficial TikTok API Wrapper In Python |
+|  | 🟫 | [❋](https://github.com/zerodytrash/TikTok-Live-Connector) | [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | Node.js | Node.js library to receive live stream events |
+|  | 🟫 | [❋](https://github.com/carcabot/tiktok-signature) | [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Node.js | Generate tiktok signature tokens |
+|  | 🟥 |  | [TikTokio](https://tiktokio.com/) | Web | Fast and Free TikTok Video Downloader |
+|  | 🟫 | [❋](https://github.com/makiisthenes/TiktokAutoUploader) | [TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) | Python | CLI to handle TikTok video uploads and edits |
+|  | 🟫 | [❋](https://github.com/isaackogan/TikTokLive) | [TikTokLive](https://github.com/isaackogan/TikTokLive) | Python | Receive livestream events in realtime from TikTok LIVE |
+|  | 🟫 | [❋](https://github.com/jwdeveloper/TikTokLiveJava) | [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava) | Java | Implementation of TikTok Live-Connector library to track live stream events |
+|  | 🟥 |  | [ViewTikStories](https://viewtikstories.com/) | Web | View and download public TikTok Stories and videos anonymously |
 
 * * *
 
@@ -235,7 +248,7 @@ Apps that can be used across multiple social media apps.
 | 17. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
 | 18. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
 | 19. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 20. | 🟫 | [❋](https://github.com/Xquik-dev/tweetclaw) | [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw, npm | OpenClaw plugin for X/Twitter automation: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws. |
+| 20. | 🟫 | [❋](https://github.com/Xquik-dev/tweetclaw) | [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw, npm | Automation plugin: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws. |
 | 21. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
 | 22. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
 | 23. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
@@ -244,27 +257,26 @@ Apps that can be used across multiple social media apps.
 | 26. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
 | 27. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
 | 28. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
-| 29. | 🟥 | | [Twitter Video Downloader](https://chromewebstore.google.com/detail/twitter%E7%94%A8%E3%81%AE%E3%83%93%E3%83%87%E3%82%AA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC/nmhepkajegobkleolkjfnleahifmilfj?hl=en) | Extension | Download images and videos |
-| 30. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
-| 31. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
-| 32. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 33. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
-| 34. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
-| 35. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
+| 29. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
+| 30. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
+| 31. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
+| 32. | 🟨 | | [Xbase Extension]([https://xbase.so](https://chrome.google.com/webstore/detail/tweetbase-%E2%80%94-your-ai-power/ipldmffgjegnflofelcomladejjllfli?hl=en&authuser=0)) | Extension | Export your X Bookmarks for free |
+| 33. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
+| 34. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
 
 * * *
 
 ### Youtube
 
-|  # |  |  | Name | Platform | Description |
-|:--:| --- | ---| --- | --- | --- |
-| 1. | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
-| 2. | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
-| 3. | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
-| 4. | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](https://github.com/code4charity/YouTube-Extension) | Extension | Improved youtube experience |
-| 5. | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
-| 6. | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
-| 7. | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
+|  #  |  |  | Name | Platform | Description |
+|:---:| --- | ---| --- | --- | --- |
+| 1.  | 🟫 | [❋](https://github.com/PierfrancescoSoffritti/android-youtube-player) | [Android Youtube Player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Kotlin | YouTube Player library for Android and Chromecast |
+| 2.  | 🟫 | [❋](https://github.com/iawia002/annie) | [Annie](https://github.com/iawia002/annie) | Go | Video downloader |
+| 3.  | 🟪 | [❋](https://github.com/FreeTubeApp/FreeTube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) | Desktop | The Private YouTube Client |
+| 4.  | 🟨 | [❋](https://github.com/code4charity/YouTube-Extension) | [ImprovedTube](https://github.com/code4charity/YouTube-Extension) | Extension | Improved youtube experience |
+| 5.  | 🟨 | | [Lyrics Here](https://robwu.nl/lyricshere/) | Extension | Instant lyrics on YouTube |
+| 6.  | 🟫 | [❋](https://github.com/mps-youtube/mps-youtube) | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | Python | Terminal based YouTube player and downloader |
+| 7.  | 🟪 | [❋](https://github.com/TeamNewPipe/NewPipe/)| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | The lightweight YouTube experience for Android | 
 | 8.  | 🟫 | [❋](https://github.com/fent/node-ytdl) | [node-ytdl](https://github.com/fent/node-ytdl) | Node.js | YouTube video downloader |
 | 9.  | 🟨 | | [Picture in Picture - PiP View](https://chromewebstore.google.com/detail/picture-in-picture-pip-vi/eaeedemddlledlghhjebjgdmhjekgegd) | Extension | Watch videos in a floating PiP window (always on top of other windows) |
 | 10. | 🟪 | [❋](https://github.com/TeamPiped/Piped) | [Piped](https://piped.kavin.rocks) | Web | Privacy-friendly YouTube frontend which is efficient by design |
