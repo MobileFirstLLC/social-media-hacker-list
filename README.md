@@ -61,6 +61,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 | 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader |
 | 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
+| 7. | 🟥 | | [hhhfac.com](https://hhhfac.com/) | Web | Facebook video, reels and photo downloader in HD MP4 |
 
 * * *
 
@@ -81,6 +82,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 11. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 12. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
 | 13. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
+| 14. | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
 
 * * *
 
@@ -156,6 +158,7 @@ Apps that can be used across multiple social media apps.
 | 27. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 | 28. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
 | 29. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 30. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
 
 * * *
 
@@ -204,6 +207,7 @@ Apps that can be used across multiple social media apps.
 
 |  #  |  |  |  Name | Platform | Description |
 |:---:| --- |--| --- | --- | --- |
+|  | 🟥 |  | [hhhtik.com](https://hhhtik.com/) | Web | Download TikTok videos without watermark in HD MP4 or convert to MP3 |
 |  | 🟥 |  | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
 |  | 🟥 |  | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
 |  | 🟥 |  | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
@@ -262,6 +266,7 @@ Apps that can be used across multiple social media apps.
 | 32. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
 | 33. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
 | 34. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
+| 35. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
 
 * * *
 
