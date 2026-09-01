@@ -144,7 +144,7 @@ Apps that can be used across multiple social media apps.
 | 13. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
 | 14. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 | 15. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
-| 16. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpost.social/) | Web | Self-hosted scheduling and publishing across multiple social networks |
+| 16. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
 | 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 18. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
 | 19. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
