@@ -99,10 +99,10 @@ If you would like to add a project or suggest some other correction, edit this r
 | 7.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
 | 8.  | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 9.  | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 9b. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
-| 10. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
-| 11. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 12. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
+| 10. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
+| 11. | 🟧 | | [SHIELD](https://www.shieldapp.ai/) | Web | Analytics |
+| 12. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 13. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
 
 
 * * *
