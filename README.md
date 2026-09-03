@@ -55,13 +55,13 @@ If you would like to add a project or suggest some other correction, edit this r
 
 | #  |  |  | Name | Platform | Description | 
 |:--:| --- | --- | --- |----|----|
-| 1. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
-| 2. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
-| 3. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows | Desktop client for Messenger |
-| 4. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+| 1. | 🟨 | [❋](https://github.com/ArnaudLigny/F-Notifier) | [F-notifier](https://dev.ligny.org/F-Notifier/) | Extension | Displays Facebook notifications unread count |
+| 2. | 🟥 | | [FDOWN.net](https://fdown.net) | [Web](https://fdown.net), [Chrome](https://chromewebstore.google.com/detail/video-downloader-plus/njgehaondchbmjmajphnhlojfnbfokng) | Facebook video downloader |
+| 3. | 🟥 | | [hhhfac.com](https://hhhfac.com/) | Web | Facebook video, reels and photo downloader in HD MP4 |
+| 4. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows | Desktop client for Messenger |
 | 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader |
 | 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
-| 7. | 🟥 | | [hhhfac.com](https://hhhfac.com/) | Web | Facebook video, reels and photo downloader in HD MP4 |
+| 7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
 
 * * *
 
@@ -69,40 +69,40 @@ If you would like to add a project or suggest some other correction, edit this r
 
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
-| 2.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 3.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 4.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 5.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 6.  | ⬛ | [❋](https://github.com/ayuuxh2/insta-p8) | [InstaAuto](https://ayush.myhabits.in) | Web | Self-hosted Instagram DM, comment, story, and AI reply automation |
-| 7.  | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 8.  | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 9.  | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
-| 10. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 11. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 12. | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
-| 13. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
-| 14. | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
+| 1.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
+| 2.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
+| 3.  | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
+| 4.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
+| 5.  | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 6.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 7.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 8.  | ⬛ | [❋](https://github.com/ayuuxh2/insta-p8) | [InstaAuto](https://ayush.myhabits.in) | Web | Self-hosted Instagram DM, comment, story, and AI reply automation |
+| 9.  | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 10. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
+| 11. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
+| 12. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 13. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 14. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
 
 * * *
 
 ### LinkedIn
 
 |  #  |  |  | Name | Platform | Description |
-|:---:| --- | --- | --- | --- | --- |
+|:---:| --- | --- | --- | - | --- |
 | 1.  | 🟦 | | [CommenTron](https://chromewebstore.google.com/detail/commentron-%E2%80%94-ai-booster-f/hdappgahcgpifoabanfifjicfllpokgo) | Extension | Auto-Comment on LinkedIn Posts |
 | 2.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
 | 3.  | 🟦 | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-| 4.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-| 5.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 4.  | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
+| 5.  | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
 | 6.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 7.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
-| 8.  | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 9.  | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 10. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
-| 11. | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 12. | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
-
+| 7.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 8.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+| 9.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
+| 10. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 11. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 12. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
+| 13. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
 
 * * *
 
@@ -133,32 +133,33 @@ Apps that can be used across multiple social media apps.
 | 2.  | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
 | 3.  | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
 | 4.  | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
-| 5.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
-| 6.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
-| 7.  | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
-| 8.  | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-| 9.  | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
-| 10. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
-| 11. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 12. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 13. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 14. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 15. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
-| 16. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
-| 17. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 18. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 19. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 20. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
-| 21. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 22. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more |
-| 23. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 24. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 25. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 26. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 27. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
-| 28. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 29. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 30. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
+| 5.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
+| 6.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
+| 7.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
+| 8.  | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
+| 9.  | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+| 10. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
+| 11. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
+| 12. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
+| 13. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 14. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 15. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
+| 16. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 17. | 🟧 | | [metricool](https://metricool.com/) | Web | Sheduling and analytics for multiple social media platforms |
+| 18. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
+| 19. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
+| 20. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 21. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
+| 22. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 23. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 24. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
+| 25. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
+| 26. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more |
+| 27. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 28. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 29. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 30. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 31. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -173,12 +174,12 @@ Apps that can be used across multiple social media apps.
 | 5.  | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
 | 6.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
 | 7.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
-| 8.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 9.  | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 10. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 11. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
-| 12. | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
-| 13. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
+| 8.  | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
+| 9.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
+| 10. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 11. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
+| 12. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 13. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 
 
 * * * 
@@ -269,7 +270,7 @@ Apps that can be used across multiple social media apps.
 
 * * *
 
-### Youtube
+### YouTube
 
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | ---| --- | --- | --- |
