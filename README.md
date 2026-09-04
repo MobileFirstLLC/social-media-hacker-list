@@ -176,10 +176,11 @@ Apps that can be used across multiple social media apps.
 | 7.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
 | 8.  | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
 | 9.  | 🟥 | | [RedditSave](https://redditsave.com/) | Web, Extension, Bot | Reddit Video Downloader |
-| 10. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
-| 11. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
-| 12. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
-| 13. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
+| 10. | 🟨 | [❋](https://github.com/duydanh9989/ReddUnlock) | [ReddUnlock](https://github.com/duydanh9989/ReddUnlock) | Extension | Bypass login walls, video theater mode, and media unblur |
+| 11. | 🟪 | [❋](https://github.com/QuantumBadger/RedReader) | [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) | Android | An unofficial, open source client for reddit |
+| 12. | 🟥 | | [SaveVideo.red](https://savevideo.red/) | Web | Reddit Video Downloader |
+| 13. | 🟫 | [❋](https://github.com/andrewbanchich/shreddit) | [Shreddit](https://github.com/andrewbanchich/shreddit) | Rust | Reddit post/comment mass deletion. |
+| 14. | 🟧 | | [Subreddit Stats](https://subredditstats.com/) | Web | Statistics for every subreddit |
 
 
 * * * 
