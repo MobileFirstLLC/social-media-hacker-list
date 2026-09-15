@@ -155,12 +155,11 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
 | 25. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
 | 26. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 27. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more |
-| 28. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 29. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 30. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 31. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 32. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 27. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 28. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 29. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 30. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 31. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
@@ -209,24 +208,23 @@ Apps that can be used across multiple social media apps.
 
 |  #  |  |  |  Name | Platform | Description |
 |:---:| --- |--| --- | --- | --- |
-|  | 🟥 |  | [hhhtik.com](https://hhhtik.com/) | Web | Download TikTok videos without watermark in HD MP4 or convert to MP3 |
-|  | 🟥 |  | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
-|  | 🟥 |  | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
-|  | 🟥 |  | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
-|  | 🟥 |  | [SnapTik](https://snaptik.kim/) | Web | TikTok Downloader |
-|  | 🟥 |  | [Tik.ninja](https://tik.ninja/) | Web | Fast and free TikTok viewer and downloader |
-|  | 🟥 |  | [TikFace](https://tikface.com/) | Web | TikTok Web Profile Viewer |
-|  | 🟥 |  | [TikTok Downloader](https://tiktokdownloader.com) | Web | TikTok Video Downloader |
-|  | 🟧 | [❋](https://github.com/conoro/tiktok-rss-flat) | [TikTok RSS](https://github.com/conoro/tiktok-rss-flat) | GH Actions | Generate RSS feeds for TikTok accounts |
-|  | 🟥 |  | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
-|  | 🟫 | [❋](https://github.com/davidteather/TikTok-Api) | [TikTok-Api](https://github.com/davidteather/TikTok-Api) | Python | The Unofficial TikTok API Wrapper In Python |
-|  | 🟫 | [❋](https://github.com/zerodytrash/TikTok-Live-Connector) | [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | Node.js | Node.js library to receive live stream events |
-|  | 🟫 | [❋](https://github.com/carcabot/tiktok-signature) | [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Node.js | Generate tiktok signature tokens |
-|  | 🟥 |  | [TikTokio](https://tiktokio.com/) | Web | Fast and Free TikTok Video Downloader |
-|  | 🟫 | [❋](https://github.com/makiisthenes/TiktokAutoUploader) | [TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) | Python | CLI to handle TikTok video uploads and edits |
-|  | 🟫 | [❋](https://github.com/isaackogan/TikTokLive) | [TikTokLive](https://github.com/isaackogan/TikTokLive) | Python | Receive livestream events in realtime from TikTok LIVE |
-|  | 🟫 | [❋](https://github.com/jwdeveloper/TikTokLiveJava) | [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava) | Java | Implementation of TikTok Live-Connector library to track live stream events |
-|  | 🟥 |  | [ViewTikStories](https://viewtikstories.com/) | Web | View and download public TikTok Stories and videos anonymously |
+| 1.  | 🟥 |  | [hhhtik.com](https://hhhtik.com/) | Web | Download TikTok videos without watermark in HD MP4 or convert to MP3 |
+| 2.  | 🟥 |  | [PeekTok](https://peektok.net/) | Web | View public profile, watch videos, and download — no TikTok account needed. |
+| 3.  | 🟥 |  | [SSSTikTok](https://ssstik.link/) | Web | No-Watermark TikTok Video Downloader |
+| 4.  | 🟥 |  | [SnapTik Downloader](https://snaptik.pro/) | Web | TikTok Video Downloader Without Watermark |
+| 5.  | 🟥 |  | [Tik.ninja](https://tik.ninja/) | Web | Fast and free TikTok viewer and downloader |
+| 6.  | 🟥 |  | [TikFace](https://tikface.com/) | Web | TikTok Web Profile Viewer |
+| 7.  | 🟥 |  | [TikTok Downloader](https://tiktokdownloader.com) | Web | TikTok Video Downloader |
+| 8.  | 🟧 | [❋](https://github.com/conoro/tiktok-rss-flat) | [TikTok RSS](https://github.com/conoro/tiktok-rss-flat) | GH Actions | Generate RSS feeds for TikTok accounts |
+| 9.  | 🟥 |  | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
+| 10. | 🟫 | [❋](https://github.com/davidteather/TikTok-Api) | [TikTok-Api](https://github.com/davidteather/TikTok-Api) | Python | The Unofficial TikTok API Wrapper In Python |
+| 11. | 🟫 | [❋](https://github.com/zerodytrash/TikTok-Live-Connector) | [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | Node.js | Node.js library to receive live stream events |
+| 12. | 🟫 | [❋](https://github.com/carcabot/tiktok-signature) | [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Node.js | Generate tiktok signature tokens |
+| 13. | 🟥 |  | [TikTokio](https://tiktokio.com/) | Web | Fast and Free TikTok Video Downloader |
+| 14. | 🟫 | [❋](https://github.com/makiisthenes/TiktokAutoUploader) | [TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) | Python | CLI to handle TikTok video uploads and edits |
+| 15. | 🟫 | [❋](https://github.com/isaackogan/TikTokLive) | [TikTokLive](https://github.com/isaackogan/TikTokLive) | Python | Receive livestream events in realtime from TikTok LIVE |
+| 16. | 🟫 | [❋](https://github.com/jwdeveloper/TikTokLiveJava) | [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava) | Java | Implementation of TikTok Live-Connector library to track live stream events |
+| 17. | 🟥 |  | [ViewTikStories](https://viewtikstories.com/) | Web | View and download public TikTok Stories and videos anonymously |
 
 * * *
 
