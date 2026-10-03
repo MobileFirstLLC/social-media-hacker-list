@@ -162,9 +162,10 @@ Apps that can be used across multiple social media apps.
 | 30. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
 | 31. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
 | 32. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 33. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 34. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 35. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 33. | 🟥 | | [VideoKit](https://www.videokit.cc/en/video-downloader) | Web | Browser-based video toolkit: download public Douyin, TikTok and X videos, then trim, convert or compress them locally |
+| 34. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 35. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 36. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
