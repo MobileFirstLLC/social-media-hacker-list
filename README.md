@@ -61,8 +61,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 4. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows | Desktop client for Messenger |
 | 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader |
 | 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
-| 7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
-| 8. | 🟥 | | [IoDown](https://iodown.com/facebook-downloader/) | Web | Download available public Facebook videos from a link |
+| 7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client |
 
 * * *
 
