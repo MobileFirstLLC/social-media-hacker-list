@@ -157,15 +157,16 @@ Apps that can be used across multiple social media apps.
 | 26. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
 | 27. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
 | 28. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
-| 29. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 30. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
-| 31. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 32. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 33. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 34. | 🟥 | | [VideoKit](https://www.videokit.cc/en/video-downloader) | Web | Browser-based video toolkit: download public Douyin, TikTok and X videos, then trim, convert or compress them locally |
-| 35. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 36. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 37. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 29. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
+| 30. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 31. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
+| 32. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
+| 33. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 34. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 35. | 🟥 | | [VideoKit](https://www.videokit.cc/en/video-downloader) | Web | Browser-based video toolkit: download public Douyin, TikTok and X videos, then trim, convert or compress them locally |
+| 36. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 37. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 38. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
