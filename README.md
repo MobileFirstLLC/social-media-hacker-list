@@ -149,25 +149,26 @@ Apps that can be used across multiple social media apps.
 | 18. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
 | 19. | 🟧 | | [metricool](https://metricool.com/) | Web | Sheduling and analytics for multiple social media platforms |
 | 20. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
-| 21. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
-| 22. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 23. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 24. | 🟥 | | [ReelWorkshop](https://reelworkshop.com) | Web | Browser compilation maker for vertical 9:16 TikTok, Reels, and Shorts. Edit and preview free; export on Starter. |
-| 25. | 🟥 | | [Remove Audio Video Compressor](https://remove-audio.com/tools/compress-video) | Web | Compress a video in the browser to fit Discord, WhatsApp, email or social media size limits, without uploading it |
-| 26. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
-| 27. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 28. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
-| 29. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
-| 30. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 31. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
-| 32. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 33. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 34. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 35. | 🟥 | | [VideoKit](https://www.videokit.cc/en/video-downloader) | Web | Browser-based video toolkit: download public Douyin, TikTok and X videos, then trim, convert or compress them locally |
-| 36. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 37. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 38. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
-| 39. | 🟥 | | [NoWM](https://nowm.dev/) | Web | No-watermark video downloader for TikTok, Douyin, Instagram, X, Threads, Kuaishou, Xiaohongshu & Weibo |
+| 21. | 🟥 | | [NoWM](https://nowm.dev/) | Web | No-watermark video downloader for TikTok, Douyin, Instagram, X, Threads, Kuaishou, Xiaohongshu & Weibo |
+| 22. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
+| 23. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 24. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
+| 25. | 🟥 | | [ReelWorkshop](https://reelworkshop.com) | Web | Browser compilation maker for vertical 9:16 TikTok, Reels, and Shorts. Edit and preview free; export on Starter. |
+| 26. | 🟥 | | [Remove Audio Video Compressor](https://remove-audio.com/tools/compress-video) | Web | Compress a video in the browser to fit Discord, WhatsApp, email or social media size limits, without uploading it |
+| 27. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
+| 28. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 29. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
+| 30. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
+| 31. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
+| 32. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 33. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
+| 34. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
+| 35. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 36. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 37. | 🟥 | | [VideoKit](https://www.videokit.cc/en/video-downloader) | Web | Browser-based video toolkit: download public Douyin, TikTok and X videos, then trim, convert or compress them locally |
+| 38. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 39. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 40. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
