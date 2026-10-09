@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-236-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-237-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -18,6 +18,7 @@
   <a href="#threads">Threads</a> &bull; 
   <a href="#tiktok">TikTok</a> &bull; 
   <a href="#x">X/Twitter</a> &bull; 
+  
   <a href="#youtube">Youtube</a> &bull; 
   <a href="#multi-platform">Multi-platform</a>
 </h3>
@@ -167,6 +168,7 @@ Apps that can be used across multiple social media apps.
 | 36. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
 | 37. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
 | 38. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 39. | 🟥 | | [NoWM](https://nowm.dev/) | Web | No-watermark video downloader for TikTok, Douyin, Instagram, X, Threads, Kuaishou, Xiaohongshu & Weibo |
 
 * * *
 
