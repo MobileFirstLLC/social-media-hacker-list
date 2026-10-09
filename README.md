@@ -19,7 +19,7 @@
   <a href="#tiktok">TikTok</a> &bull; 
   <a href="#x">X/Twitter</a> &bull; 
   
-  <a href="#youtube">Youtube</a> &bull; 
+<a href="#youtube">Youtube</a> &bull; 
   <a href="#multi-platform">Multi-platform</a>
 </h3>
 
