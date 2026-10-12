@@ -92,17 +92,16 @@ If you would like to add a project or suggest some other correction, edit this r
 |:---:| --- | --- | --- | - | --- |
 | 1.  | 🟦 | | [CommenTron](https://chromewebstore.google.com/detail/commentron-%E2%80%94-ai-booster-f/hdappgahcgpifoabanfifjicfllpokgo) | Extension | Auto-Comment on LinkedIn Posts |
 | 2.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
-| 3.  | 🟦 | | [Inksprout](https://inksprout.co/) | Extension | Use AI to summarize links |
-| 4.  | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
-| 5.  | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 6.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 7.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
-| 8.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-| 9.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
-| 10. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 11. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 12. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
-| 13. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
+| 3.  | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
+| 4.  | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 5.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
+| 6.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 7.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+| 8.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
+| 9.  | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 10. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 11. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
+| 12. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
 
 * * *
 
@@ -153,22 +152,20 @@ Apps that can be used across multiple social media apps.
 | 22. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
 | 23. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
 | 24. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 25. | 🟥 | | [ReelWorkshop](https://reelworkshop.com) | Web | Browser compilation maker for vertical 9:16 TikTok, Reels, and Shorts. Edit and preview free; export on Starter. |
-| 26. | 🟥 | | [Remove Audio Video Compressor](https://remove-audio.com/tools/compress-video) | Web | Compress a video in the browser to fit Discord, WhatsApp, email or social media size limits, without uploading it |
-| 27. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
-| 28. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 29. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
-| 30. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
-| 31. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
-| 32. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 33. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
-| 34. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 35. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 36. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 37. | 🟥 | | [VideoKit](https://www.videokit.cc/en/video-downloader) | Web | Browser-based video toolkit: download public Douyin, TikTok and X videos, then trim, convert or compress them locally |
-| 38. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 39. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 40. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 25. | 🟥 | | [Remove Audio Video Compressor](https://remove-audio.com/tools/compress-video) | Web | Compress a video in the browser to fit Discord, WhatsApp, email or social media size limits, without uploading it |
+| 26. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
+| 27. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 28. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
+| 29. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
+| 30. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
+| 31. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 32. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
+| 33. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
+| 34. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 35. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 36. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 37. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 38. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
