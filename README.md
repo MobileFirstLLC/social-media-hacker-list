@@ -273,15 +273,16 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
 | 25. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
 | 26. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 27. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
-| 28. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
-| 29. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
-| 30. | 🟨 | | [Twitee Twitter Video Downloader](https://twitee.co/twitter-video-downloader) | Web | Download Twitter video for public X/Twitter viewer without account |
-| 31. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 32. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
-| 33. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
-| 34. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
-| 35. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
+| 27. | 🟫 | | [TwitterAPI.io](https://twitterapi.io) | Web, API, MCP, AI | X (Twitter) data API for developers: search, profiles, followers, timelines, real-time streams and webhooks, plus MCP and AI SDK tools |
+| 28. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
+| 29. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
+| 30. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
+| 31. | 🟨 | | [Twitee Twitter Video Downloader](https://twitee.co/twitter-video-downloader) | Web | Download Twitter video for public X/Twitter viewer without account |
+| 32. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
+| 33. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
+| 34. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
+| 35. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
+| 36. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
 
 * * *
 
