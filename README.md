@@ -286,6 +286,7 @@ Apps that can be used across multiple social media apps.
 | 34. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
 | 35. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
 | 36. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
+| 37. | 🟧 | | [twtData](https://twtdata.com/) | Web | Export X followers, following and tweets to CSV (paid per export), plus a free dated archive of X trending topics by country and a free one-handle bot-risk check, no account needed |
 
 * * *
 
