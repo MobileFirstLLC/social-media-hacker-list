@@ -83,6 +83,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 12. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 13. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 14. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
+| 15. | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for 2,800+ tracked Instagram accounts: engagement rate, top posts, a dated follower-growth chart, side-by-side comparison and a weekly list of the fastest-growing accounts (CSV exports are paid) |
 
 * * *
 
