@@ -15,6 +15,7 @@
   <a href="#mastodon">Mastodon</a> &bull;   
   <a href="#reddit">Reddit</a> <br/>
   <a href="#snapchat">Snapchat</a> &bull; 
+  <a href="#telegram">Telegram</a> &bull;
   <a href="#threads">Threads</a> &bull; 
   <a href="#tiktok">TikTok</a> &bull; 
   <a href="#x">X/Twitter</a> &bull;   
@@ -206,6 +207,14 @@ Apps that can be used across multiple social media apps.
 | 3. | 🟩 | | [Snap Story Viewer](https://snapstoryviewer.net) | Web | Watch and download public Snapchat stories anonymously. No login, app or account needed |
 | 4. | 🟧 | | [SnapDataHub](https://snapdatahub.com/) | Web | Public Snapchat creator stats: subscribers, Spotlight views and subscriber history per profile, a daily list of fastest-growing creators, and a free Spotlight earnings calculator |
 
+
+* * *
+
+### Telegram
+
+| # |  |  | Name | Platform | Description |
+|:--:| --- | --- | --- | --- | --- |
+| 1. | 🟨 | | [OpenSparta](https://opensparta.com/en) | Web | Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace. |
 
 * * *
 
