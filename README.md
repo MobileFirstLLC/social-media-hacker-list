@@ -174,7 +174,8 @@ Apps that can be used across multiple social media apps.
 | 40. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
 | 41. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
 | 42. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 43. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 43. | 🟥 | | [Yap Audio to Text](https://yapapp.cc/audio-to-text) | Web | Transcribe a video or audio file into text or SRT/VTT captions in the browser, free and without uploading it |
+| 44. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
