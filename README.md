@@ -217,7 +217,7 @@ Apps that can be used across multiple social media apps.
 
 | # |  |  | Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
-| 1. | 🟨 | | [OpenSparta](https://opensparta.com/en) | Web | Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace. |
+| 1. | 🟨 | | [OpenSparta](https://opensparta.com/en) | Web | Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations. |
 
 * * *
 
