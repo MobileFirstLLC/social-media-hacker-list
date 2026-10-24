@@ -93,19 +93,20 @@ If you would like to add a project or suggest some other correction, edit this r
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | --- | --- | - | --- |
 | 1.  | 🟦 | | [CommenTron](https://chromewebstore.google.com/detail/commentron-%E2%80%94-ai-booster-f/hdappgahcgpifoabanfifjicfllpokgo) | Extension | Auto-Comment on LinkedIn Posts |
-| 2.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
-| 3.  | 🟨 | | [HeyReagent](https://heyreagent.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | AI agent and hosted MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts |
-| 4.  | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
-| 5.  | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 6.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 7.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
-| 8.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-| 9.  | 🟨 | | [LinkedNav](https://www.linkednav.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | Detects LinkedIn buying signals and sends personalized outreach you approve, with a hosted MCP server for AI assistants |
-| 10. | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
-| 11. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 12. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 13. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
-| 14. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
+| 2.  | 🟧 | | [Datacircle](https://datacircle.dev/best-linkedin-profile-api) | Web | Best LinkedIn profile API in 2026. We benchmarked 22 LinkedIn profile API providers. We list the three we score highest. |
+| 3.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
+| 4.  | 🟨 | | [HeyReagent](https://heyreagent.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | AI agent and hosted MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts |
+| 5.  | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
+| 6.  | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
+| 7.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
+| 8.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 9.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+| 10. | 🟨 | | [LinkedNav](https://www.linkednav.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | Detects LinkedIn buying signals and sends personalized outreach you approve, with a hosted MCP server for AI assistants |
+| 11. | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
+| 12. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 13. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 14. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
+| 15. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
 
 * * *
 
