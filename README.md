@@ -105,8 +105,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 10. | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
 | 11. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
 | 12. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 13. | 🟨 | | [ResumeAI Headline Generator](https://withresumeai.com/free-tools/linkedin-headline-generator) | Web | Generate a LinkedIn profile headline from your role, industry and key skill |
-| 14. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
+| 13. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
 
 * * *
 
@@ -291,14 +290,13 @@ Apps that can be used across multiple social media apps.
 | 26. | 🟫 | | [TwitterAPI.io](https://twitterapi.io) | Web, API, MCP, AI | X (Twitter) data API for developers: search, profiles, followers, timelines, real-time streams and webhooks, plus MCP and AI SDK tools |
 | 27. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
 | 28. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
-| 29. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
-| 30. | 🟨 | | [Twitee Twitter Video Downloader](https://twitee.co/twitter-video-downloader) | Web | Download Twitter video for public X/Twitter viewer without account |
-| 31. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 32. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
-| 33. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
-| 34. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
-| 35. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
-| 36. | 🟧 | | [twtData](https://twtdata.com/) | Web | Export X followers, following and tweets to CSV (paid per export), plus a free dated archive of X trending topics by country and a free one-handle bot-risk check, no account needed |
+| 29. | 🟨 | | [Twitee Twitter Video Downloader](https://twitee.co/twitter-video-downloader) | Web | Download Twitter video for public X/Twitter viewer without account |
+| 30. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
+| 31. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
+| 32. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
+| 33. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
+| 34. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
+| 35. | 🟧 | | [twtData](https://twtdata.com/) | Web | Export X followers, following and tweets to CSV (paid per export), plus a free dated archive of X trending topics by country and a free one-handle bot-risk check, no account needed |
 
 * * *
 
