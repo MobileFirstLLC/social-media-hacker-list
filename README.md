@@ -245,6 +245,7 @@ Apps that can be used across multiple social media apps.
 | 8.  | 🟧 | [❋](https://github.com/conoro/tiktok-rss-flat) | [TikTok RSS](https://github.com/conoro/tiktok-rss-flat) | GH Actions | Generate RSS feeds for TikTok accounts |
 | 9.  | 🟥 |  | [TikTok Viewer](https://ttonlineviewer.com/) | Web | Anonymous TikTok viewer for public profiles and stories |
 | 10. | 🟫 | [❋](https://github.com/davidteather/TikTok-Api) | [TikTok-Api](https://github.com/davidteather/TikTok-Api) | Python | The Unofficial TikTok API Wrapper In Python |
+| 11. | 🟫 | [❋](https://github.com/kaitoInfra/tiktok-api-examples) | [TikTokAPI.io](https://tiktokapi.io) | Web, API, MCP | Real-time TikTok Data & Creative Center Ads REST API (1080p no-watermark MP4 streams, search, 200 followers/call, comments, plus MCP server for Claude & Cursor) |
 | 11. | 🟫 | [❋](https://github.com/zerodytrash/TikTok-Live-Connector) | [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) | Node.js | Node.js library to receive live stream events |
 | 12. | 🟫 | [❋](https://github.com/carcabot/tiktok-signature) | [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Node.js | Generate tiktok signature tokens |
 | 13. | 🟥 |  | [TikTokio](https://tiktokio.com/) | Web | Fast and Free TikTok Video Downloader |
