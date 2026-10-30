@@ -86,6 +86,8 @@ If you would like to add a project or suggest some other correction, edit this r
 | 14. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 15. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
 | 16. | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for 2,800+ tracked Instagram accounts: engagement rate, top posts, a dated follower-growth chart, side-by-side comparison and a weekly list of the fastest-growing accounts (CSV exports are paid) |
+| 17. | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
+| 18. | 🟥 | | [iStoryTracker](https://istorytracker.com/) | Web | Anonymous Instagram Story viewer for public accounts — no Instagram login |
 
 * * *
 
