@@ -71,21 +71,24 @@ If you would like to add a project or suggest some other correction, edit this r
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | --- | --- | --- | --- |
 | 1.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
-| 2.  | ⬛ | | [CommentKeyword](https://commentkeyword.com/) | Web, [MCP server](https://github.com/commentkeyword/agent-toolkit) | Sends an automatic DM with your link to everyone who comments a chosen keyword on your post or reel, using the official Instagram API (free plan, paid tiers) |
+| 2.  | ⬛ | | [CommentKeyword](https://commentkeyword.com/) | Web, [MCP server](https://github.com/commentkeyword/agent-toolkit) | Sends an automatic DM with your link to everyone who comments a chosen keyword on your post or reel |
 | 3.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
 | 4.  | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
 | 5.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 6.  | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
-| 7.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 8.  | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 9.  | ⬛ | [❋](https://github.com/ayuuxh2/insta-p8) | [InstaAuto](https://ayush.myhabits.in) | Web | Self-hosted Instagram DM, comment, story, and AI reply automation |
-| 10. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 11. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 12. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
-| 13. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 14. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 15. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
-| 16. | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for 2,800+ tracked Instagram accounts: engagement rate, top posts, a dated follower-growth chart, side-by-side comparison and a weekly list of the fastest-growing accounts (CSV exports are paid) |
+| 6.  | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
+| 7.  | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for tracked Instagram accounts: engagement rate, top posts, follower-growth chart, etc. |
+| 8.  | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 9.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 10. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 11. | ⬛ | [❋](https://github.com/ayuuxh2/insta-p8) | [InstaAuto](https://ayush.myhabits.in) | Web | Self-hosted Instagram DM, comment, story, and AI reply automation |
+| 12. | 🟥 | | [iStoryTracker](https://istorytracker.com/) | Web | Anonymous Instagram Story viewer for public accounts — no Instagram login |
+| 13. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 14. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
+| 15. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
+| 16. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 17. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 18. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
+
 
 * * *
 
