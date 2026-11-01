@@ -87,8 +87,8 @@ If you would like to add a project or suggest some other correction, edit this r
 | 15. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
 | 16. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 17. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 18. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
-
+| 18. | 🟧 | | [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) | Web | Free engagement rate calculator for any public Instagram account |
+| 19. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
 
 * * *
 
