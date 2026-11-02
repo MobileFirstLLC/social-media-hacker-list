@@ -75,7 +75,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 3.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
 | 4.  | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
 | 5.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 6.  | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
+| 6.  | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-%E2%80%93-instagra/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
 | 7.  | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for tracked Instagram accounts: engagement rate, top posts, follower-growth chart, etc. |
 | 8.  | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
 | 9.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
