@@ -16,7 +16,7 @@
   <a href="#reddit">Reddit</a> <br/>
   <a href="#snapchat">Snapchat</a> &bull; 
   <a href="#telegram">Telegram</a> &bull;
-  <a href="#threads">Threads</a> &bull; 
+  <a6.ref="#threads">Threads</a> &bull; 
   <a href="#tiktok">TikTok</a> &bull; 
   <a href="#x">X/Twitter</a> &bull;   
 <a href="#youtube">Youtube</a> &bull; 
@@ -61,7 +61,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 3. | 🟥 | | [hhhfac.com](https://hhhfac.com/) | Web | Facebook video, reels and photo downloader in HD MP4 |
 | 4. | 🟪 | | [Messenger for Desktop](https://messengerfordesktop.com/) | MacOS, Windows | Desktop client for Messenger |
 | 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader |
-| 31 | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
+| 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
 | 7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client |
 
 * * *
@@ -72,7 +72,7 @@ If you would like to add a project or suggest some other correction, edit this r
 |:---:| --- | --- | --- | --- | --- |
 | 1.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
 | 2.  | ⬛ | | [CommentKeyword](https://commentkeyword.com/) | Web, [MCP server](https://github.com/commentkeyword/agent-toolkit) | Sends an automatic DM with your link to everyone who comments a chosen keyword on your post or reel |
-| 10  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
+| 3.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
 | 4.  | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
 | 5.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
 | 6.  | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-%E2%80%93-instagra/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
