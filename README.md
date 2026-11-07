@@ -16,7 +16,7 @@
   <a href="#reddit">Reddit</a> <br/>
   <a href="#snapchat">Snapchat</a> &bull; 
   <a href="#telegram">Telegram</a> &bull;
-  <ahref="#threads">Threads</a> &bull; 
+  <a href="#threads">Threads</a> &bull; 
   <a href="#tiktok">TikTok</a> &bull; 
   <a href="#x">X/Twitter</a> &bull;   
 <a href="#youtube">Youtube</a> &bull; 
