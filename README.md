@@ -89,6 +89,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 17. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 18. | 🟧 | | [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) | Web | Free engagement rate calculator for any public Instagram account |
 | 19. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
+| 20. | 🟥 | | [IgStoryView](https://igstoryview.live/) | Web | Anonymous Instagram story and profile viewer for public accounts |
 
 * * *
 
@@ -264,6 +265,7 @@ Apps that can be used across multiple social media apps.
 | 18. | 🟥 |  | [Toklookup](https://toklookup.click/) | Web | View TikTok Story, Repost & Profile anonymously |
 | 18. | 🟥 |  | [Tikstory](https://tikstory.net/) | Web | Best TikTok Story Viewer |
 | 19. | 🟧 |  | [TKMetrics](https://tkmetrics.com/) | Web | TikTok creator stats: profile pages for 1,300+ creators (followers, engagement, earnings estimates), sample reports with plays and posting times, and a free money calculator; creator search and CSV exports are paid |
+| 20. | 🟥 |  | [ViewTiktok](https://viewtiktok.com/) | Web | TikTok video, music, photo and slideshow downloader, with public profile and story viewing tools |
 
 * * *
 
@@ -308,6 +310,7 @@ Apps that can be used across multiple social media apps.
 | 35. | 🟧 | | [twtData](https://twtdata.com/) | Web | Export X followers, following and tweets to CSV (paid per export), plus a free dated archive of X trending topics by country and a free one-handle bot-risk check, no account needed |
  | 36. | 🟫 | | [xdataapi.io](https://xdataapi.io/) | Web, API, MCP | Read-only API for public X profiles, tweets, followers and search, billed per item, with a hosted MCP server |
 | 37. | 🟥 |  | [RememberThisX](https://www.rememberthisx.com/) | Web | Download videos, GIFs and MP3 audio from public X/Twitter posts, no account needed |
+| 38. | 🟥 | | [TweetSave](https://tweetsave.live/) | Web | Download and save Twitter/X videos and media |
 
 
 * * *
@@ -340,3 +343,4 @@ Apps that can be used across multiple social media apps.
 | 22. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
 | 23. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
 | 24. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
+| 25. | 🟥 | | [YttMp3](https://yttmp3.online) | Web | YouTube video and audio downloader |
