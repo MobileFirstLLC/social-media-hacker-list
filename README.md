@@ -72,24 +72,26 @@ If you would like to add a project or suggest some other correction, edit this r
 |:---:| --- | --- | --- | --- | --- |
 | 1.  | 🟦 | | [Caption Writer](https://www.captionwriter.app/) | iOS, Android | Write captions with spaces & line breaks | 
 | 2.  | ⬛ | | [CommentKeyword](https://commentkeyword.com/) | Web, [MCP server](https://github.com/commentkeyword/agent-toolkit) | Sends an automatic DM with your link to everyone who comments a chosen keyword on your post or reel |
-| 3.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
-| 4.  | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
-| 5.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
-| 6.  | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-%E2%80%93-instagra/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
-| 7.  | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for tracked Instagram accounts: engagement rate, top posts, follower-growth chart, etc. |
-| 8.  | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
-| 9.  | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
-| 10. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
-| 11. | ⬛ | [❋](https://github.com/ayuuxh2/insta-p8) | [InstaAuto](https://ayush.myhabits.in) | Web | Self-hosted Instagram DM, comment, story, and AI reply automation |
-| 12. | 🟥 | | [iStoryTracker](https://istorytracker.com/) | Web | Anonymous Instagram Story viewer for public accounts — no Instagram login |
-| 13. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
-| 14. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
-| 15. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
-| 16. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
-| 17. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
-| 18. | 🟧 | | [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) | Web | Free engagement rate calculator for any public Instagram account |
-| 19. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
-| 20. | 🟥 | | [IgStoryView](https://igstoryview.live/) | Web | Anonymous Instagram story and profile viewer for public accounts |
+| 3.  | 🟧 | | [Engagement Rate Calculator](https://engagementrate.app/) | [Chrome](https://chromewebstore.google.com/detail/engagement-rate-calculato/pbnhnemmmpipgiocpenpimbabmhfined) | Measure engagement and post outliers on public Instagram profiles while logged in |
+| 4.  | 🟩 | | [Heepsy](https://www.heepsy.com/) | Web | Uncover ideal influencers effortlessly |
+| 5.  | 🟥 | | [hhhins.com](https://hhhins.com/) | Web | Save Instagram videos and reels in original HD quality |
+| 6.  | 🟧 | | [HypeAuditor](https://hypeauditor.com/) | Web | Analyze any Instagram account for fake followers and likes |
+| 7.  | 🟧 | | [iFollowTracker](https://www.ifollowtracker.com/) | Web, [Chrome](https://chromewebstore.google.com/detail/ifollowtracker-%E2%80%93-instagra/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
+| 8.  | 🟧 | | [IGDataHub](https://igdatahub.com/) | Web | Free stats for tracked Instagram accounts: engagement rate, top posts, follower-growth chart, etc. |
+| 9.  | 🟨 | | [INDownloader](https://indownloader.app/) | Web | Instagram Downloader |
+| 10. | 🟫 | [❋](https://github.com/adw0rd/instagrapi) | [instagrapi](https://github.com/adw0rd/instagrapi) | Python |  Unofficial Instagram private API for Python |
+| 11. | 🟫 | [❋](https://github.com/instaloader/instaloader) | [Instaloader](https://instaloader.github.io) | Python | Download pictures, video and metadata from Instagram | 
+| 12. | ⬛ | [❋](https://github.com/ayuuxh2/insta-p8) | [InstaAuto](https://ayush.myhabits.in) | Web | Self-hosted Instagram DM, comment, story, and AI reply automation |
+| 13. | 🟥 | | [iStoryTracker](https://istorytracker.com/) | Web | Anonymous Instagram Story viewer for public accounts — no Instagram login |
+| 14. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
+| 15. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
+| 16. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
+| 17. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
+| 18. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
+| 19. | 🟧 | | [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) | Web | Free engagement rate calculator for any public Instagram account |
+| 20. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
+| 21. | 🟥 | | [IgStoryView](https://igstoryview.live/) | Web | Anonymous Instagram story and profile viewer for public accounts |
+
 
 * * *
 
@@ -308,7 +310,7 @@ Apps that can be used across multiple social media apps.
 | 33. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
 | 34. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
 | 35. | 🟧 | | [twtData](https://twtdata.com/) | Web | Export X followers, following and tweets to CSV (paid per export), plus a free dated archive of X trending topics by country and a free one-handle bot-risk check, no account needed |
- | 36. | 🟫 | | [xdataapi.io](https://xdataapi.io/) | Web, API, MCP | Read-only API for public X profiles, tweets, followers and search, billed per item, with a hosted MCP server |
+| 36. | 🟫 | | [xdataapi.io](https://xdataapi.io/) | Web, API, MCP | Read-only API for public X profiles, tweets, followers and search, billed per item, with a hosted MCP server |
 | 37. | 🟥 |  | [RememberThisX](https://www.rememberthisx.com/) | Web | Download videos, GIFs and MP3 audio from public X/Twitter posts, no account needed |
 | 38. | 🟥 | | [TweetSave](https://tweetsave.live/) | Web | Download and save Twitter/X videos and media |
 
@@ -334,14 +336,15 @@ Apps that can be used across multiple social media apps.
 | 13. | 🟪 | [❋](https://github.com/SkyTubeTeam/SkyTube) | [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) | Android | Open-source Youtube client | 
 | 14. | 🟨 | [❋](https://github.com/ajayyy/SponsorBlock) | [SponsorBlock](https://sponsor.ajay.app) | Extension, Android | Skip sponsor segments in YouTube videos |
 | 15. | 🟫 | [❋](https://github.com/streamlink/streamlink) | [Streamlink](https://github.com/streamlink/streamlink) | Python | CLI utility which pipes video streams from various services into a video player | 
-| 16. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
-| 17. | 🟨 | | [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
-| 18. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
-| 19. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
-| 20. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
-| 21. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
-| 22. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
-| 23. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
-| 24. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
-| 25. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
-| 26. | 🟥 | | [YttMp3](https://yttmp3.online) | Web | YouTube video and audio downloader |
+| 16. | 🟨 | | [Transcribe Video: To The Text](https://apps.apple.com/us/app/transcribe-video-to-the-text/id6757491608) | iOS | Turn YouTube and Vimeo links, video and audio files into searchable transcripts with speaker split, summaries and TXT/DOCX export; free tier, Pro subscription |
+| 17. | 🟨 | | [Transpose](https://transpose.video/) | Extension | Pitch shifter, speed changer and looper for online videos like YouTube. |
+| 18. | 🟨 | | [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) | Extension | Remove YouTube Recommended Videos, Comments, etc. |
+| 19. | 🟪 | | [YMusic Android](https://ymusic.io/) | Android | Music player with offline and download capabilities | 
+| 20. | 🟨 | [❋](https://github.com/soimort/you-get) | [You-Get](https://you-get.org/) | Python | Command-line utility to download media contents |
+| 21. | 🟨 | | [Yout](https://yout.com/) | Web | Record any YouTube video into an Mp3 or Mp4 |
+| 22. | 🟫 | [❋](https://github.com/ytdl-org/youtube-dl/) | [youtube-dl](https://github.com/ytdl-org/youtube-dl/) | Python | Command-line program to download videos |
+| 23. | 🟫 | [❋](https://github.com/kkdai/youtube) | [youtubedr](https://github.com/kkdai/youtube) | Go | Video downloader in go |
+| 24. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
+| 25. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
+| 26. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
+| 27. | 🟥 | | [YttMp3](https://yttmp3.online) | Web | YouTube video and audio downloader |
