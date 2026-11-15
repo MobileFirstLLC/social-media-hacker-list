@@ -198,7 +198,7 @@ Apps that can be used across multiple social media apps.
 | 4.  | 🟧 | | [Front Page Stats](https://frontpagestats.com/) | Web | Reddit front page analytics |
 | 5.  | 🟪 | | [HopWatch for Reddit](https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch) | Android TV | Reddit client for TVs |
 | 6.  | 🟧 | | [KissMyPost](https://kissmypost.com/) | Web, API | Subreddit search, audience stats and historical brand mention counts for Reddit |
-| 7.  | 🟧 | [❋](https://github.com/krutytskyi/kissmypost-research) | [KissMyPost Research](https://kissmypost.com/research) | Web, CSV | Open datasets and findings from 20 years of Reddit, CC BY 4.0 |
+| 7.  | 🟧 | | [KissMyPost Research](https://kissmypost.com/research) | Web | Open datasets and findings from 20 years of Reddid |
 | 8.  | 🟪 | | [Now for Reddit](https://play.google.com/store/apps/details?id=com.phyora.apps.reddit_now) | Android | Beautiful, easy-to-use app for browsing Reddit | 
 | 9.  | 🟫 | [❋](https://github.com/praw-dev/praw) | [PRAW](https://praw.readthedocs.io/en/latest/) | Python | Python Reddit API Wrapper; for building bots |
 | 10. | 🟧 | | [Reddit Enhancement Suite](https://redditenhancementsuite.com/) | Extension | suite of mods to enhance your reddit browsing experience |
