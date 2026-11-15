@@ -86,7 +86,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 14. | 🟦 | | [Kards](https://apps.apple.com/us/app/apple-store/id1448729099) | iOS | Instagram stories editor | 
 | 15. | 🟨 | | [Later](https://later.com/auto-publish/) | Web | Auto Publish for Instagram | 
 | 16. | 🟦 | | [Line Break Generator](https://pallyy.com/tools/instagram-line-break) | Web | Instagram Line Break Generator |
-| 17. | 🟥 | | [Stories Download](https://storiesdownload.com/) | Web | Free Instagram Story downloader for public Reels and posts in HD, no login or watermark. Stories/highlights often need the visitor's Instagram sign-in; private or expired items cannot be fetched. |
+| 17. | 🟥 | | [Stories Download](https://storiesdownload.com/) | Web | Free Instagram Story downloader for public Reels and posts in HD, no login or watermark. |
 | 18. | 🟥 | | [Turn](https://www.turn.audio/) | Web | Turn your audio into videos you can share on Instagram | 
 | 19. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 20. | 🟧 | | [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) | Web | Free engagement rate calculator for any public Instagram account |
