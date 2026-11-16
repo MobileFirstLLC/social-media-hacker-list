@@ -104,15 +104,14 @@ If you would like to add a project or suggest some other correction, edit this r
 | 2.  | 🟫 | [❋](https://github.com/ebx/ebx-linkedin-sdk) | [ebx-linkedin-sdk](https://github.com/ebx/ebx-linkedin-sdk) | Java | A pure Java LinkedIn API client which implements the v2 API |
 | 3.  | 🟨 | | [HeyReagent](https://heyreagent.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | AI agent and hosted MCP server for your own LinkedIn account: read your inbox, send messages and invitations, search people, and work with posts |
 | 4.  | 🟨 | | [LinkedIn Lead Generator](https://getleadfox.com/) | Web | Auto reply, and find emails and details of people who commented on your post. |
-| 5.  | 🟥 | | [LinkedIn Video Downloader](https://podify.io/linkedin-video-downloader) | Web | Download LinkedIn Videos |
-| 6.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
-| 7.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
-| 8.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
-| 9.  | 🟨 | | [LinkedNav](https://www.linkednav.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | Detects LinkedIn buying signals and sends personalized outreach you approve, with a hosted MCP server for AI assistants |
-| 10. | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
-| 11. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
-| 12. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
-| 13. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
+| 5.  | 🟨 | [❋](https://github.com/JMPerez/linkedin-to-json-resume) | [LinkedIn to Json Résumé](https://jmperezperez.com/linkedin-to-json-resume/) | Web | An exporter from a LinkedIn profile to JSON Résumé |
+| 6.  | 🟫 | [❋](https://github.com/eracle/linkedin) | [Linkedin Scraper](https://github.com/eracle/linkedin) | Python | Linkedin Scraper using Selenium Web Driver |
+| 7.  | 🟫 | [❋](https://github.com/joeyism/linkedin_scraper) | [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) | Python | Scrape Linkedin for user data |
+| 8.  | 🟨 | | [LinkedNav](https://www.linkednav.com/?utm_source=social-media-hacker-list&utm_medium=listing) | Web | Detects LinkedIn buying signals and sends personalized outreach you approve, with a hosted MCP server for AI assistants |
+| 9.  | 🟨 | | [Minimal LinkedIn](https://minimallinkedin.com/) | [Chrome](https://chromewebstore.google.com/detail/minimal-theme-for-linkedi/iegmkckkmafanakechnfeonaagfbkipl), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/minimal-linkedin-firefox/) | Remove LinkedIn clutter in one-click. Hide ads, remove distractions, and customize as you like. |
+| 10. | 🟨 | | [Reply Email Finder](https://chromewebstore.google.com/detail/reply-linkedin-email-find/amcdijdgmckgkkahhcobikllddfbfidi) | Extension | Automated email search on LinkedIn |
+| 11. | 🟧 | | [Resume Worded](https://resumeworded.com/linkedin-review/) | Web | AI powered resume analysis |
+| 12. | 🟧 | | [Taplio](https://taplio.com/) | Web | Content scheduling and analytics service  |
 
 * * *
 
@@ -222,10 +221,9 @@ Apps that can be used across multiple social media apps.
 
 | #  | |  | Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
-| 1. | 🟫 | [❋](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | [Snapchat All Memories Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) | Docker | Script to download snapchat memories in bulk |
-| 2. | 🟩 | | [ViewSnapStories](https://viewsnapstories.com) | Web | View and Download Snapchat Stories and Spotlights Anonymously |
-| 3. | 🟩 | | [Snap Story Viewer](https://snapstoryviewer.net) | Web | Watch and download public Snapchat stories anonymously. No login, app or account needed |
-| 4. | 🟧 | | [SnapDataHub](https://snapdatahub.com/) | Web | Public Snapchat creator stats: subscribers, Spotlight views and subscriber history per profile, a daily list of fastest-growing creators, and a free Spotlight earnings calculator |
+| 1. | 🟩 | | [ViewSnapStories](https://viewsnapstories.com) | Web | View and Download Snapchat Stories and Spotlights Anonymously |
+| 2. | 🟩 | | [Snap Story Viewer](https://snapstoryviewer.net) | Web | Watch and download public Snapchat stories anonymously. No login, app or account needed |
+| 3. | 🟧 | | [SnapDataHub](https://snapdatahub.com/) | Web | Public Snapchat creator stats: subscribers, Spotlight views and subscriber history per profile, a daily list of fastest-growing creators, and a free Spotlight earnings calculator |
 
 
 * * *
@@ -318,7 +316,6 @@ Apps that can be used across multiple social media apps.
 | 35. | 🟧 | | [twtData](https://twtdata.com/) | Web | Export X followers, following and tweets to CSV (paid per export), plus a free dated archive of X trending topics by country and a free one-handle bot-risk check, no account needed |
 | 36. | 🟫 | | [xdataapi.io](https://xdataapi.io/) | Web, API, MCP | Read-only API for public X profiles, tweets, followers and search, billed per item, with a hosted MCP server |
 | 37. | 🟥 |  | [RememberThisX](https://www.rememberthisx.com/) | Web | Download videos, GIFs and MP3 audio from public X/Twitter posts, no account needed |
-| 38. | 🟥 | | [TweetSave](https://tweetsave.live/) | Web | Download and save Twitter/X videos and media |
 
 
 * * *
