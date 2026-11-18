@@ -178,18 +178,19 @@ Apps that can be used across multiple social media apps.
 | 39. | 🟨 | | [Smart Post Studio](https://smartpoststudio.com/) | Web, MacOS, Windows | Schedule posts to Instagram, X, TikTok, LinkedIn, YouTube, Threads, Facebook and Fanvue; the desktop app publishes media from your own machine in original quality; includes an MCP server for Claude, Cursor and other AI clients |
 | 40. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
 | 41. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
-| 42. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
-| 43. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
-| 44. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 45. | 🟥 | [❋](https://github.com/keenanlk/stayput) | [Stayput](https://stayput.dev/compress-video-for-discord) | Web | Fit a video under Discord's 10 MB free-account limit in the browser; the file is not uploaded and no account is needed |
-| 46. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
-| 47. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 48. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 49. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 50. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 51. | 🟦 | | [Wavegrain](https://wavegrain.com/) | Web | Make curated TikTok slideshows and Instagram carousels for your brand, then schedule and post them; includes a hosted MCP server for AI clients |
-| 52. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 53. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 42. | 🟫 | | [Social Fetch](https://www.socialfetch.dev) | Web, API, MCP | Public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn as JSON, with a hosted MCP server |
+| 43. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
+| 44. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
+| 45. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 46. | 🟥 | [❋](https://github.com/keenanlk/stayput) | [Stayput](https://stayput.dev/compress-video-for-discord) | Web | Fit a video under Discord's 10 MB free-account limit in the browser; the file is not uploaded and no account is needed |
+| 47. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
+| 48. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
+| 49. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 50. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 51. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 52. | 🟦 | | [Wavegrain](https://wavegrain.com/) | Web | Make curated TikTok slideshows and Instagram carousels for your brand, then schedule and post them; includes a hosted MCP server for AI clients |
+| 53. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 54. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
