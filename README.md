@@ -91,7 +91,6 @@ If you would like to add a project or suggest some other correction, edit this r
 | 19. | 🟦 | | Unfold | [iOS](https://apps.apple.com/us/app/unfold-create-stories/id1247275033), [Android](https://play.google.com/store/apps/details?id=com.moonlab.unfold) | Create beautiful stories for Instagram |
 | 20. | 🟧 | | [UpGrow Engagement Calculator](https://www.upgrow.com/free-instagram-tools/instagram-engagement-calculator) | Web | Free engagement rate calculator for any public Instagram account |
 | 21. | 🟦 | | [ViewSocials](https://viewsocials.com/) | Web | Profile Viewer and Instagram Downloader |
-| 22. | 🟥 | | [IgStoryView](https://igstoryview.live/) | Web | Anonymous Instagram story and profile viewer for public accounts |
 
 
 * * *
@@ -350,4 +349,3 @@ Apps that can be used across multiple social media apps.
 | 24. | 🟨 | [❋](https://github.com/Tyrrrz/YoutubeDownloader) | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Windows | Downloads videos and playlists |
 | 25. | 🟫 | [❋](https://github.com/Tyrrrz/YoutubeExplode) | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) | C# | query metadata of YouTube videos |
 | 26. | 🟫 | [❋](https://github.com/yt-dlp/yt-dlp) | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | A youtube-dl fork with additional features and fixes |
-| 27. | 🟥 | | [YttMp3](https://yttmp3.online) | Web | YouTube video and audio downloader |
