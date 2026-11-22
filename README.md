@@ -137,59 +137,60 @@ Apps that can be used across multiple social media apps.
 
 |  #  |  |  | Name | Platform | Description |
 |:---:| --- | --- | --- | --- | --- |
-| 1.  | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
-| 2.  | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
-| 3.  | 🟨 | | [BulkPublish](https://www.bulkpublish.com) | Web | Schedule, cross-post, and analyze posts on 15 social platforms, with a REST API and MCP server |
-| 4.  | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
-| 5.  | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
-| 6.  | 🟥 | [❋](https://github.com/ColinGPT9/clips-studio) | [Clips Kitty](https://colingpt9.github.io/clips-studio/) | Windows | Turn Twitch, Kick and YouTube streams or long videos into captioned 9:16 clips for TikTok, Reels and Shorts, with AI that runs on your own PC |
-| 7.  | 🟫 | | [CurlShot](https://curlshot.com/tools/open-graph-image-generator) | API | Render Open Graph share images (1200×630 PNG) from your own HTML template, one per post or page; free plan of 100 a month |
-| 8.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 9.  | 🟥 | | [DownloadPremium](https://downloadpremium.net) | Web | Download videos and images from social platforms by pasting a link |
-| 10.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
-| 11.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
-| 12. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
-| 13. | 🟨 | | [ForceIndexer](https://forceindexer.com) | Web | Organize and index social media links from TikTok, Instagram, YouTube and more with bulk imports, platform detection, duplicate removal and searchable records. |
-| 14. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-| 15. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
-| 16. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
-| 17. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
-| 18. | 🟦 | | [Imagera](https://imagera.ai) | Web | Create images and short videos for social posts with many AI models side by side; Character IDs keep a face or product the same across posts |
-| 19. | 🟧 | [❋](https://github.com/socai-io/jev-social) | [Jev Social](https://socai-io.github.io/jev-social/) | Web, CLI | Research Instagram, TikTok, and LinkedIn with real-browser evidence and cited reports |
-| 20. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 21. | 🟨 | | [JuzPost](https://www.juzpost.com) | Web | Schedule and publish posts to 11 networks from one place or from Claude and ChatGPT via MCP; free plan |
-| 22. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 23. | 🟫 | | [LurkAPI](https://lurkapi.com) | Web, API, MCP | Public posts, profiles, comments, transcripts and ad library results from 16 platforms as JSON, for code or AI agents; 100 free credits, then paid credit packs |
-| 24. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 25. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 26. | 🟧 | | [metricool](https://metricool.com/) | Web | Sheduling and analytics for multiple social media platforms |
-| 27. | 🟨 | | [Multi Upload Tool](https://multi-upload-tool.com/) | Web | Schedule one video to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X, with a REST API and MCP server |
-| 28. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
-| 29. | 🟥 | | [NoWM](https://nowm.dev/) | Web | No-watermark video downloader for TikTok, Douyin, Instagram, X, Threads, Kuaishou, Xiaohongshu & Weibo |
-| 30. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
-| 31. | 🟨 | | [ORANO](https://oranoai.com) | iOS, Android, Web | Turn saved Reels, TikToks and YouTube videos into summaries, links and step-by-step plans |
-| 32. | 🟥 | | [pitchboom.io](https://pitchboom.io) | Web | Turn a product URL or short brief into motion-design video ads for TikTok, Reels, Shorts and other feeds |
-| 33. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
-| 34. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
-| 35. | 🟥 | | [RefVid](https://refvid.com) | Web | Make AI videos that keep a character or product the same in every shot, from a few reference images |
-| 36. | 🟥 | | [Remove Audio Video Compressor](https://remove-audio.com/tools/compress-video) | Web | Compress a video in the browser to fit Discord, WhatsApp, email or social media size limits, without uploading it |
-| 37. | 🟨 | | [Savebase](https://savebase.space/) | Web, Extension | Save and organize posts from 11 social platforms with folders, tags, notes, reminders and media backup |
-| 38. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
-| 39. | 🟨 | | [Smart Post Studio](https://smartpoststudio.com/) | Web, MacOS, Windows | Schedule posts to Instagram, X, TikTok, LinkedIn, YouTube, Threads, Facebook and Fanvue; the desktop app publishes media from your own machine in original quality; includes an MCP server for Claude, Cursor and other AI clients |
-| 40. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
-| 41. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
-| 42. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
-| 43. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
-| 44. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 45. | 🟥 | [❋](https://github.com/keenanlk/stayput) | [Stayput](https://stayput.dev/compress-video-for-discord) | Web | Fit a video under Discord's 10 MB free-account limit in the browser; the file is not uploaded and no account is needed |
-| 46. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
-| 47. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
-| 48. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
-| 49. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
-| 50. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
-| 51. | 🟦 | | [Wavegrain](https://wavegrain.com/) | Web | Make curated TikTok slideshows and Instagram carousels for your brand, then schedule and post them; includes a hosted MCP server for AI clients |
-| 52. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 53. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 1.  | 🟫 | | [1322](https://1322.io/) | Web, API | Real-time alerts and WebSocket feeds of new posts from accounts you choose on X, Instagram, YouTube, TikTok, Truth Social, Binance Square, FOMO and news; paid, no free plan |
+| 2.  | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
+| 3.  | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
+| 4.  | 🟨 | | [BulkPublish](https://www.bulkpublish.com) | Web | Schedule, cross-post, and analyze posts on 15 social platforms, with a REST API and MCP server |
+| 5.  | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
+| 6.  | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
+| 7.  | 🟥 | [❋](https://github.com/ColinGPT9/clips-studio) | [Clips Kitty](https://colingpt9.github.io/clips-studio/) | Windows | Turn Twitch, Kick and YouTube streams or long videos into captioned 9:16 clips for TikTok, Reels and Shorts, with AI that runs on your own PC |
+| 8.  | 🟫 | | [CurlShot](https://curlshot.com/tools/open-graph-image-generator) | API | Render Open Graph share images (1200×630 PNG) from your own HTML template, one per post or page; free plan of 100 a month |
+| 9.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
+| 10.  | 🟥 | | [DownloadPremium](https://downloadpremium.net) | Web | Download videos and images from social platforms by pasting a link |
+| 11.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
+| 12.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
+| 13. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
+| 14. | 🟨 | | [ForceIndexer](https://forceindexer.com) | Web | Organize and index social media links from TikTok, Instagram, YouTube and more with bulk imports, platform detection, duplicate removal and searchable records. |
+| 15. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+| 16. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
+| 17. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
+| 18. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
+| 19. | 🟦 | | [Imagera](https://imagera.ai) | Web | Create images and short videos for social posts with many AI models side by side; Character IDs keep a face or product the same across posts |
+| 20. | 🟧 | [❋](https://github.com/socai-io/jev-social) | [Jev Social](https://socai-io.github.io/jev-social/) | Web, CLI | Research Instagram, TikTok, and LinkedIn with real-browser evidence and cited reports |
+| 21. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 22. | 🟨 | | [JuzPost](https://www.juzpost.com) | Web | Schedule and publish posts to 11 networks from one place or from Claude and ChatGPT via MCP; free plan |
+| 23. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 24. | 🟫 | | [LurkAPI](https://lurkapi.com) | Web, API, MCP | Public posts, profiles, comments, transcripts and ad library results from 16 platforms as JSON, for code or AI agents; 100 free credits, then paid credit packs |
+| 25. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
+| 26. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 27. | 🟧 | | [metricool](https://metricool.com/) | Web | Sheduling and analytics for multiple social media platforms |
+| 28. | 🟨 | | [Multi Upload Tool](https://multi-upload-tool.com/) | Web | Schedule one video to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X, with a REST API and MCP server |
+| 29. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
+| 30. | 🟥 | | [NoWM](https://nowm.dev/) | Web | No-watermark video downloader for TikTok, Douyin, Instagram, X, Threads, Kuaishou, Xiaohongshu & Weibo |
+| 31. | 🟨 | [❋](https://github.com/getopenpost/openpost) | [OpenPost](https://openpo.st/) | Web | Self-hosted scheduling and publishing across multiple social networks |
+| 32. | 🟨 | | [ORANO](https://oranoai.com) | iOS, Android, Web | Turn saved Reels, TikToks and YouTube videos into summaries, links and step-by-step plans |
+| 33. | 🟥 | | [pitchboom.io](https://pitchboom.io) | Web | Turn a product URL or short brief into motion-design video ads for TikTok, Reels, Shorts and other feeds |
+| 34. | 🟩 | | [Profile Pic Maker](https://pfpmaker.com/) | Web | Make an awesome profile picture |
+| 35. | 🟥 | | [Recast Studio](https://recast.studio/) | Web | Turn long-form video & audio content into engaging social media videos |
+| 36. | 🟥 | | [RefVid](https://refvid.com) | Web | Make AI videos that keep a character or product the same in every shot, from a few reference images |
+| 37. | 🟥 | | [Remove Audio Video Compressor](https://remove-audio.com/tools/compress-video) | Web | Compress a video in the browser to fit Discord, WhatsApp, email or social media size limits, without uploading it |
+| 38. | 🟨 | | [Savebase](https://savebase.space/) | Web, Extension | Save and organize posts from 11 social platforms with folders, tags, notes, reminders and media backup |
+| 39. | 🟥 | | [shortshort](https://www.shortshort.io/) | Web | Turn one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions |
+| 40. | 🟨 | | [Smart Post Studio](https://smartpoststudio.com/) | Web, MacOS, Windows | Schedule posts to Instagram, X, TikTok, LinkedIn, YouTube, Threads, Facebook and Fanvue; the desktop app publishes media from your own machine in original quality; includes an MCP server for Claude, Cursor and other AI clients |
+| 41. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
+| 42. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
+| 43. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
+| 44. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
+| 45. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 46. | 🟥 | [❋](https://github.com/keenanlk/stayput) | [Stayput](https://stayput.dev/compress-video-for-discord) | Web | Fit a video under Discord's 10 MB free-account limit in the browser; the file is not uploaded and no account is needed |
+| 47. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories |
+| 48. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories |
+| 49. | 🟦 | [❋](https://github.com/trypostit/trypost) | [TryPost](https://github.com/trypostit/trypost) | Web | Open-source Social Media Scheduling |
+| 50. | 🟥 | | [Video Size Reducer](https://videosizereducer.org/) | Web | Compress video to a target file size to fit platform upload limits |
+| 51. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 52. | 🟦 | | [Wavegrain](https://wavegrain.com/) | Web | Make curated TikTok slideshows and Instagram carousels for your brand, then schedule and post them; includes a hosted MCP server for AI clients |
+| 53. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 54. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
 
 * * *
 
