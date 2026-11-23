@@ -145,7 +145,7 @@ Apps that can be used across multiple social media apps.
 | 6.  | 🟥 | [❋](https://github.com/ColinGPT9/clips-studio) | [Clips Kitty](https://colingpt9.github.io/clips-studio/) | Windows | Turn Twitch, Kick and YouTube streams or long videos into captioned 9:16 clips for TikTok, Reels and Shorts, with AI that runs on your own PC |
 | 7.  | 🟫 | | [CurlShot](https://curlshot.com/tools/open-graph-image-generator) | API | Render Open Graph share images (1200×630 PNG) from your own HTML template, one per post or page; free plan of 100 a month |
 | 8.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 9.  | 🟥 | | [Douzy](https://godouzy.com/en/) | MacOS, Windows | Desktop app that saves videos, photo posts, profiles and playlists from Douyin, TikTok, YouTube, Telegram and X links into a local archive, with a task center; single links are free, batches, sync and subscriptions need a paid activation code |
+| 9.  | 🟥 | | [Douzy](https://godouzy.com/en/) | MacOS, Windows | Desktop app that saves videos, photo posts, profiles and playlists from Douyin, TikTok, YouTube, Telegram and X |
 | 10.  | 🟥 | | [DownloadPremium](https://downloadpremium.net) | Web | Download videos and images from social platforms by pasting a link |
 | 11.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
 | 12.  | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
