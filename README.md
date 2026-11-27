@@ -152,20 +152,20 @@ Apps that can be used across multiple social media apps.
 | 13. | 🟨 | | [Encer](https://encer.me/en) | Web | Interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics |
 | 14. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
 | 15. | 🟨 | | [ForceIndexer](https://forceindexer.com) | Web | Organize and index social media links from TikTok, Instagram, YouTube and more with bulk imports, platform detection, duplicate removal and searchable records. |
-| 16. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-| 17. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
-| 18. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
-| 19. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
-| 20. | 🟦 | | [Imagera](https://imagera.ai) | Web | Create images and short videos for social posts with many AI models side by side; Character IDs keep a face or product the same across posts |
-| 21. | 🟧 | [❋](https://github.com/socai-io/jev-social) | [Jev Social](https://socai-io.github.io/jev-social/) | Web, CLI | Research Instagram, TikTok, and LinkedIn with real-browser evidence and cited reports |
-| 22. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
-| 23. | 🟨 | | [JuzPost](https://www.juzpost.com) | Web | Schedule and publish posts to 11 networks from one place or from Claude and ChatGPT via MCP; free plan |
-| 24. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
-| 25. | 🟫 | | [LurkAPI](https://lurkapi.com) | Web, API, MCP | Public posts, profiles, comments, transcripts and ad library results from 16 platforms as JSON, for code or AI agents; 100 free credits, then paid credit packs |
-| 26. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
-| 27. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
-| 28. | 🟧 | | [metricool](https://metricool.com/) | Web | Sheduling and analytics for multiple social media platforms |
-| 29. | 🟨 | | [MicroPoster](https://microposter.so) | Web | Automatically crosspost between X, Threads, Bluesky, Mastodon and LinkedIn, with scheduling and shadowban checks; 7-day free trial |
+| 16. | 🟫 | | [Groundsocial](https://groundsocial.dev) | API, MCP | Public posts, comments, profiles, transcripts and search from 77 platforms (Reddit, X, TikTok, Instagram, YouTube, LinkedIn and more) as JSON, for code or AI agents; 100 free credits |
+| 17. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+| 18. | 🟥 | | [hhhdownload.com](https://hhhdownload.com/) | Web | Download video, image and audio from Pinterest, Reddit, SoundCloud, Snapchat, Tumblr, Bandcamp, iFunny, Rumble, Streamable, Newgrounds and Suno |
+| 19. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media |
+| 20. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media |
+| 21. | 🟦 | | [Imagera](https://imagera.ai) | Web | Create images and short videos for social posts with many AI models side by side; Character IDs keep a face or product the same across posts |
+| 22. | 🟧 | [❋](https://github.com/socai-io/jev-social) | [Jev Social](https://socai-io.github.io/jev-social/) | Web, CLI | Research Instagram, TikTok, and LinkedIn with real-browser evidence and cited reports |
+| 23. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
+| 24. | 🟨 | | [JuzPost](https://www.juzpost.com) | Web | Schedule and publish posts to 11 networks from one place or from Claude and ChatGPT via MCP; free plan |
+| 25. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
+| 26. | 🟫 | | [LurkAPI](https://lurkapi.com) | Web, API, MCP | Public posts, profiles, comments, transcripts and ad library results from 16 platforms as JSON, for code or AI agents; 100 free credits, then paid credit packs |
+| 27. | ⬛ | | [ManyChat](https://manychat.com/) | Bot | Automate conversations in Facebook Messenger and Instagram |
+| 28. | 🟨 | | [MeetEdgar](https://meetedgar.com/) | Web | Automation and scheduling |
+| 29. | 🟧 | | [metricool](https://metricool.com/) | Web | Sheduling and analytics for multiple social media platforms |
 | 30. | 🟨 | | [Multi Upload Tool](https://multi-upload-tool.com/) | Web | Schedule one video to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X, with a REST API and MCP server |
 | 31. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
 | 32. | 🟥 | | [NoWM](https://nowm.dev/) | Web | No-watermark video downloader for TikTok, Douyin, Instagram, X, Threads, Kuaishou, Xiaohongshu & Weibo |
@@ -194,7 +194,6 @@ Apps that can be used across multiple social media apps.
 | 55. | 🟦 | | [Wavegrain](https://wavegrain.com/) | Web | Make curated TikTok slideshows and Instagram carousels for your brand, then schedule and post them; includes a hosted MCP server for AI clients |
 | 56. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
 | 57. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
-
 
 * * *
 
