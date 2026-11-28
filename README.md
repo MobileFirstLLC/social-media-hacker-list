@@ -183,6 +183,7 @@ Apps that can be used across multiple social media apps.
 | 44. | 🟫 | [❋](https://github.com/sokomishalov/skraper) | [skraper](https://github.com/sokomishalov/skraper) | Kotlin | Library & CLI for scraping posts and media w/o authorization and page rendering: FB, IG, Twitter, YT, Reddit, etc. |
 | 45. | 🟨 | | [SocialEcho](https://www.socialecho.net/) | Web | Cross-network publishing, inbox, listening, and analytics workspace |
 | 46. | 🟫 | | [Social Fetch](https://www.socialfetch.dev) | Web, API, MCP | Public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn as JSON, with a hosted MCP server |
+| 47. | 🟫 |  | [SocialLens](https://sociallens.dev) | Web, API | Read public profiles, posts, comments and follower counts from 9 networks (Instagram, TikTok, X, Reddit, YouTube, Facebook, LinkedIn, Threads, Pinterest) as JSON |
 | 47. | 🟩 | [❋](https://github.com/LydiaTools/aspectory) | [Social Post Image Maker](https://lydiatools.github.io/aspectory/) | Web | Compose platform-sized images for Pinterest, Instagram, Lemon8, and Facebook from your own copy; free and local-first |
 | 48. | 🟫 | [❋](https://github.com/opencoredev/social-sdk) | [Social SDK](https://social-sdk.dev) | TypeScript | MIT-licensed TypeScript toolkit for publishing, reading, analytics, and comments across social platforms where available |
 | 49. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
